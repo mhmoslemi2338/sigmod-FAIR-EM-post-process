@@ -1,0 +1,864 @@
+COL name VAL ` arnie morton \ 's of chicago ' COL addr VAL ' 435 s. la cienega blv . ' COL city VAL ` los angeles ' COL phone VAL 310/246 -1501 COL type VAL american COL class VAL 0 
+COL name VAL ` art \ 's delicatessen ' COL addr VAL ' 12224 ventura blvd. ' COL city VAL ` studio city ' COL phone VAL 818/762 -1221 COL type VAL american COL class VAL 1 
+COL name VAL ` hotel bel-air ' COL addr VAL ' 701 stone canyon rd. ' COL city VAL ` bel air ' COL phone VAL 310/472 -1211 COL type VAL californian COL class VAL 2 
+COL name VAL ` cafe bizou ' COL addr VAL ' 14016 ventura blvd. ' COL city VAL ` sherman oaks ' COL phone VAL 818/788 -3536 COL type VAL french COL class VAL 3 
+COL name VAL campanile COL addr VAL ' 624 s. la brea ave. ' COL city VAL ` los angeles ' COL phone VAL 213/938 -1447 COL type VAL american COL class VAL 4 
+COL name VAL ` chinois on main ' COL addr VAL ' 2709 main st. ' COL city VAL ` santa monica ' COL phone VAL 310/392 -9025 COL type VAL french COL class VAL 5 
+COL name VAL citrus COL addr VAL ' 6703 melrose ave. ' COL city VAL ` los angeles ' COL phone VAL 213/857 -0034 COL type VAL californian COL class VAL 6 
+COL name VAL fenix COL addr VAL ' 8358 sunset blvd. west ' COL city VAL hollywood COL phone VAL 213/848 -6677 COL type VAL american COL class VAL 7 
+COL name VAL granita COL addr VAL ' 23725 w. malibu rd. ' COL city VAL malibu COL phone VAL 310/456 -0488 COL type VAL californian COL class VAL 8 
+COL name VAL ` grill on the alley ' COL addr VAL ' 9560 dayton way ' COL city VAL ` los angeles ' COL phone VAL 310/276 -0615 COL type VAL american COL class VAL 9 
+COL name VAL ` restaurant katsu ' COL addr VAL ' 1972 n. hillhurst ave. ' COL city VAL ` los angeles ' COL phone VAL 213/665 -1891 COL type VAL asian COL class VAL 10 
+COL name VAL ` l \ ` orangerie ' COL addr VAL ' 903 n. la cienega blvd. ' COL city VAL ` los angeles ' COL phone VAL 310/652 -9770 COL type VAL french COL class VAL 11 
+COL name VAL ` le chardonnay ' COL addr VAL ' 8284 melrose ave. ' COL city VAL ` los angeles ' COL phone VAL 213/655 -8880 COL type VAL french COL class VAL 12 
+COL name VAL ` locanda veneta ' COL addr VAL ' 3rd st. ' COL city VAL ` los angeles ' COL phone VAL 310/274 -1893 COL type VAL italian COL class VAL 13 
+COL name VAL matsuhisa COL addr VAL ' 129 n. la cienega blvd. ' COL city VAL ` beverly hills ' COL phone VAL 310/659 -9639 COL type VAL asian COL class VAL 14 
+COL name VAL ` the palm ' COL addr VAL ' 9001 santa monica blvd. ' COL city VAL ` los angeles ' COL phone VAL 310/550 -8811 COL type VAL american COL class VAL 15 
+COL name VAL patina COL addr VAL ' 5955 melrose ave. ' COL city VAL ` los angeles ' COL phone VAL 213/467 -1108 COL type VAL californian COL class VAL 16 
+COL name VAL ` philippe \ 's the original ' COL addr VAL ' 1001 n. alameda st. ' COL city VAL ` los angeles ' COL phone VAL 213/628 -3781 COL type VAL american COL class VAL 17 
+COL name VAL ` pinot bistro ' COL addr VAL ' 12969 ventura blvd. ' COL city VAL ` los angeles ' COL phone VAL 818/990 -0500 COL type VAL french COL class VAL 18 
+COL name VAL ` rex il ristorante ' COL addr VAL ' 617 s. olive st. ' COL city VAL ` los angeles ' COL phone VAL 213/627 -2300 COL type VAL italian COL class VAL 19 
+COL name VAL spago COL addr VAL ' 1114 horn ave. ' COL city VAL ` los angeles ' COL phone VAL 310/652 -4025 COL type VAL californian COL class VAL 20 
+COL name VAL valentino COL addr VAL ' 3115 pico blvd. ' COL city VAL ` santa monica ' COL phone VAL 310/829 -4313 COL type VAL italian COL class VAL 21 
+COL name VAL ` yujean kang \ 's gourmet chinese cuisine ' COL addr VAL '67 n. raymond ave. ' COL city VAL ` los angeles ' COL phone VAL 818/585 -0855 COL type VAL asian COL class VAL 22 
+COL name VAL '21 club ' COL addr VAL '21 w. 52nd st. ' COL city VAL ` new york ' COL phone VAL 212/582 -7200 COL type VAL american COL class VAL 23 
+COL name VAL aquavit COL addr VAL '13 w. 54th st. ' COL city VAL ` new york ' COL phone VAL 212/307 -7311 COL type VAL continental COL class VAL 24 
+COL name VAL aureole COL addr VAL '34 e. 61st st. ' COL city VAL ` new york ' COL phone VAL ' 212 / 319-1660 ' COL type VAL american COL class VAL 25 
+COL name VAL ` cafe lalo ' COL addr VAL ' 201 w. 83rd st. ' COL city VAL ` new york ' COL phone VAL 212/496 -6031 COL type VAL ` coffee bar ' COL class VAL 26 
+COL name VAL ` cafe des artistes ' COL addr VAL ' 1 w. 67th st. ' COL city VAL ` new york ' COL phone VAL 212/877 -3500 COL type VAL continental COL class VAL 27 
+COL name VAL ` carmine \ 's ' COL addr VAL ' 2450 broadway between 90th and 91st sts . ' COL city VAL ` new york ' COL phone VAL 212/362 -2200 COL type VAL italian COL class VAL 28 
+COL name VAL ` carnegie deli ' COL addr VAL ' 854 7th ave. between 54th and 55th sts . ' COL city VAL ` new york ' COL phone VAL 212/757 -2245 COL type VAL delicatessen COL class VAL 29 
+COL name VAL chanterelle COL addr VAL ' 2 harrison st. near hudson st. ' COL city VAL ` new york ' COL phone VAL 212/966 -6960 COL type VAL american COL class VAL 30 
+COL name VAL daniel COL addr VAL '20 e. 76th st. ' COL city VAL ` new york ' COL phone VAL 212/288 -0033 COL type VAL french COL class VAL 31 
+COL name VAL dawat COL addr VAL ' 210 e. 58th st. ' COL city VAL ` new york ' COL phone VAL 212/355 -7555 COL type VAL asian COL class VAL 32 
+COL name VAL felidia COL addr VAL ' 243 e. 58th st. ' COL city VAL ` new york ' COL phone VAL 212/758 -1479 COL type VAL italian COL class VAL 33 
+COL name VAL ` four seasons grill room ' COL addr VAL '99 e. 52nd st. ' COL city VAL ` new york ' COL phone VAL 212/754 -9494 COL type VAL american COL class VAL 34 
+COL name VAL ` gotham bar & grill ' COL addr VAL '12 e. 12th st. ' COL city VAL ` new york ' COL phone VAL 212/620 -4020 COL type VAL american COL class VAL 35 
+COL name VAL ` gramercy tavern ' COL addr VAL '42 e. 20th st. between park ave. s and broadway ' COL city VAL ` new york ' COL phone VAL 212/477 -0777 COL type VAL american COL class VAL 36 
+COL name VAL ` island spice ' COL addr VAL ' 402 w. 44th st. ' COL city VAL ` new york ' COL phone VAL 212/765 -1737 COL type VAL ` tel caribbean ' COL class VAL 37 
+COL name VAL ` jo jo ' COL addr VAL ' 160 e. 64th st. ' COL city VAL ` new york ' COL phone VAL 212/223 -5656 COL type VAL american COL class VAL 38 
+COL name VAL ` la caravelle ' COL addr VAL '33 w. 55th st. ' COL city VAL ` new york ' COL phone VAL 212/586 -4252 COL type VAL french COL class VAL 39 
+COL name VAL ` la cote basque ' COL addr VAL '60 w. 55th st. between 5th and 6th ave. ' COL city VAL ` new york ' COL phone VAL 212/688 -6525 COL type VAL french COL class VAL 40 
+COL name VAL ` le bernardin ' COL addr VAL ' 155 w. 51st st. ' COL city VAL ` new york ' COL phone VAL 212/489 -1515 COL type VAL french COL class VAL 41 
+COL name VAL ` les celebrites ' COL addr VAL ' 160 central park s ' COL city VAL ` new york ' COL phone VAL 212/484 -5113 COL type VAL french COL class VAL 42 
+COL name VAL lespinasse COL addr VAL ' 2 e. 55th st. ' COL city VAL ` new york ' COL phone VAL 212/339 -6719 COL type VAL american COL class VAL 43 
+COL name VAL lutece COL addr VAL ' 249 e. 50th st. ' COL city VAL ` new york ' COL phone VAL 212/752 -2225 COL type VAL french COL class VAL 44 
+COL name VAL ` manhattan ocean club ' COL addr VAL '57 w. 58th st. ' COL city VAL ` new york ' COL phone VAL ' 212 / 371-7777 ' COL type VAL seafood COL class VAL 45 
+COL name VAL march COL addr VAL ' 405 e. 58th st. ' COL city VAL ` new york ' COL phone VAL 212/754 -6272 COL type VAL american COL class VAL 46 
+COL name VAL ` mesa grill ' COL addr VAL ' 102 5th ave. between 15th and 16th sts . ' COL city VAL ` new york ' COL phone VAL 212/807 -7400 COL type VAL american COL class VAL 47 
+COL name VAL ` mi cocina ' COL addr VAL '57 jane st. off hudson st. ' COL city VAL ` new york ' COL phone VAL 212/627 -8273 COL type VAL mexican COL class VAL 48 
+COL name VAL montrachet COL addr VAL ' 239 w. broadway between walker and white sts . ' COL city VAL ` new york ' COL phone VAL ' 212 / 219-2777 ' COL type VAL french COL class VAL 49 
+COL name VAL oceana COL addr VAL '55 e. 54th st. ' COL city VAL ` new york ' COL phone VAL 212/759 -5941 COL type VAL seafood COL class VAL 50 
+COL name VAL ` park avenue cafe ' COL addr VAL ' 100 e. 63rd st. ' COL city VAL ` new york ' COL phone VAL 212/644 -1900 COL type VAL american COL class VAL 51 
+COL name VAL petrossian COL addr VAL ' 182 w. 58th st. ' COL city VAL ` new york ' COL phone VAL 212/245 -2214 COL type VAL french COL class VAL 52 
+COL name VAL picholine COL addr VAL '35 w. 64th st. ' COL city VAL ` new york ' COL phone VAL 212/724 -8585 COL type VAL mediterranean COL class VAL 53 
+COL name VAL pisces COL addr VAL '95 ave. a at 6th st. ' COL city VAL ` new york ' COL phone VAL 212/260 -6660 COL type VAL seafood COL class VAL 54 
+COL name VAL ` rainbow room ' COL addr VAL '30 rockefeller plaza ' COL city VAL ` new york ' COL phone VAL 212/632 -5000 COL type VAL ` or 212/632 -5100 american ' COL class VAL 55 
+COL name VAL ` river cafe ' COL addr VAL ' 1 water st. at the east river ' COL city VAL brooklyn COL phone VAL 718/522 -5200 COL type VAL american COL class VAL 56 
+COL name VAL ` san domenico ' COL addr VAL ' 240 central park s ' COL city VAL ` new york ' COL phone VAL 212/265 -5959 COL type VAL italian COL class VAL 57 
+COL name VAL ` second avenue deli ' COL addr VAL ' 156 2nd ave. at 10th st. ' COL city VAL ` new york ' COL phone VAL 212/677 -0606 COL type VAL delicatessen COL class VAL 58 
+COL name VAL seryna COL addr VAL '11 e. 53rd st. ' COL city VAL ` new york ' COL phone VAL 212/980 -9393 COL type VAL asian COL class VAL 59 
+COL name VAL ` shun lee west ' COL addr VAL '43 w. 65th st. ' COL city VAL ` new york ' COL phone VAL 212/371 -8844 COL type VAL asian COL class VAL 60 
+COL name VAL ` sign of the dove ' COL addr VAL ' 1110 3rd ave. at 65th st. ' COL city VAL ` new york ' COL phone VAL 212/861 -8080 COL type VAL american COL class VAL 61 
+COL name VAL ` smith & wollensky ' COL addr VAL ' 201 e. 49th st. ' COL city VAL ` new york ' COL phone VAL 212/753 -1530 COL type VAL american COL class VAL 62 
+COL name VAL ` tavern on the green ' COL addr VAL ` in central park at 67th st. ' COL city VAL ` new york ' COL phone VAL 212/873 -3200 COL type VAL american COL class VAL 63 
+COL name VAL ` uncle nick \ 's ' COL addr VAL ' 747 9th ave. between 50th and 51st sts . ' COL city VAL ` new york ' COL phone VAL 212/315 -1726 COL type VAL mediterranean COL class VAL 64 
+COL name VAL ` union square cafe ' COL addr VAL '21 e. 16th st. ' COL city VAL ` new york ' COL phone VAL 212/243 -4020 COL type VAL american COL class VAL 65 
+COL name VAL ` virgil \ 's ' COL addr VAL ' 152 w. 44th st. ' COL city VAL ` new york ' COL phone VAL ' 212 / 921-9494 ' COL type VAL american COL class VAL 66 
+COL name VAL ` chin \ 's ' COL addr VAL ' 3200 las vegas blvd. s ' COL city VAL ` las vegas ' COL phone VAL 702/733 -8899 COL type VAL asian COL class VAL 67 
+COL name VAL ` coyote cafe ' COL addr VAL ' 3799 las vegas blvd. s ' COL city VAL ` las vegas ' COL phone VAL 702/891 -7349 COL type VAL southwestern COL class VAL 68 
+COL name VAL ` le montrachet ' COL addr VAL ' 3000 w. paradise rd. ' COL city VAL ` las vegas ' COL phone VAL 702/732 -5111 COL type VAL continental COL class VAL 69 
+COL name VAL ` palace court ' COL addr VAL ' 3570 las vegas blvd. s ' COL city VAL ` las vegas ' COL phone VAL 702/731 -7547 COL type VAL continental COL class VAL 70 
+COL name VAL ` second street grille ' COL addr VAL ' 200 e. fremont st. ' COL city VAL ` las vegas ' COL phone VAL 702/385 -3232 COL type VAL seafood COL class VAL 71 
+COL name VAL ` steak house ' COL addr VAL ' 2880 las vegas blvd. s ' COL city VAL ` las vegas ' COL phone VAL 702/734 -0410 COL type VAL ` steak houses ' COL class VAL 72 
+COL name VAL tillerman COL addr VAL ' 2245 e. flamingo rd. ' COL city VAL ` las vegas ' COL phone VAL 702/731 -4036 COL type VAL seafood COL class VAL 73 
+COL name VAL abruzzi COL addr VAL ' 2355 peachtree rd. . peachtree battle shopping center ' COL city VAL atlanta COL phone VAL 404/261 -8186 COL type VAL italian COL class VAL 74 
+COL name VAL bacchanalia COL addr VAL ' 3125 piedmont rd. . near peachtree rd. ' COL city VAL atlanta COL phone VAL 404/365 -0410 COL type VAL international COL class VAL 75 
+COL name VAL ` bone \ 's ' COL addr VAL ' 3130 piedmont road ' COL city VAL atlanta COL phone VAL 404/237 -2663 COL type VAL american COL class VAL 76 
+COL name VAL ` brasserie le coze ' COL addr VAL ' 3393 peachtree rd. . lenox square mall near neiman marcus ' COL city VAL atlanta COL phone VAL 404/266 -1440 COL type VAL french COL class VAL 77 
+COL name VAL ` buckhead diner ' COL addr VAL ' 3073 piedmont road ' COL city VAL atlanta COL phone VAL 404/262 -3336 COL type VAL american COL class VAL 78 
+COL name VAL ciboulette COL addr VAL ' 1529 piedmont ave. ' COL city VAL atlanta COL phone VAL 404/874 -7600 COL type VAL french COL class VAL 79 
+COL name VAL delectables COL addr VAL ' 1 margaret mitchell sq. ' COL city VAL atlanta COL phone VAL 404/681 -2909 COL type VAL american COL class VAL 80 
+COL name VAL ` georgia grille ' COL addr VAL ' 2290 peachtree rd. . peachtree square shopping center ' COL city VAL atlanta COL phone VAL 404/352 -3517 COL type VAL american COL class VAL 81 
+COL name VAL ` hedgerose heights inn ' COL addr VAL ' 490 e. paces ferry rd. ' COL city VAL atlanta COL phone VAL 404/233 -7673 COL type VAL international COL class VAL 82 
+COL name VAL ` heera of india ' COL addr VAL ' 595 piedmont ave. rio shopping mall ' COL city VAL atlanta COL phone VAL 404/876 -4408 COL type VAL asian COL class VAL 83 
+COL name VAL ` indigo coastal grill ' COL addr VAL ' 1397 n. highland ave. ' COL city VAL atlanta COL phone VAL 404/876 -0676 COL type VAL caribbean COL class VAL 84 
+COL name VAL ` la grotta ' COL addr VAL ' 2637 peachtree rd. . peachtree house condominium ' COL city VAL atlanta COL phone VAL 404/231 -1368 COL type VAL italian COL class VAL 85 
+COL name VAL ` mary mac \ 's tea room ' COL addr VAL ' 224 ponce de leon ave. ' COL city VAL atlanta COL phone VAL 404/876 -1800 COL type VAL southern COL class VAL 86 
+COL name VAL ` nikolai \ 's roof ' COL addr VAL ' 255 courtland st. at harris st. ' COL city VAL atlanta COL phone VAL 404/221 -6362 COL type VAL continental COL class VAL 87 
+COL name VAL ` pano \ 's and paul \ 's ' COL addr VAL ' 1232 w. paces ferry rd. ' COL city VAL atlanta COL phone VAL 404/261 -3662 COL type VAL international COL class VAL 88 
+COL name VAL ` cafe ritz-carlton buckhead ' COL addr VAL ' 3434 peachtree rd. ' COL city VAL atlanta COL phone VAL 404/237 -2700 COL type VAL ` ext 6108 international ' COL class VAL 89 
+COL name VAL ` dining room ritz-carlton buckhead ' COL addr VAL ' 3434 peachtree rd. ' COL city VAL atlanta COL phone VAL 404/237 -2700 COL type VAL international COL class VAL 90 
+COL name VAL ` restaurant ritz-carlton atlanta ' COL addr VAL ' 181 peachtree st. ' COL city VAL atlanta COL phone VAL 404/659 -0400 COL type VAL continental COL class VAL 91 
+COL name VAL toulouse COL addr VAL ' b peachtree rd. ' COL city VAL atlanta COL phone VAL 404/351 -9533 COL type VAL french COL class VAL 92 
+COL name VAL ` veni vidi vici ' COL addr VAL '41 14th st. ' COL city VAL atlanta COL phone VAL 404/875 -8424 COL type VAL italian COL class VAL 93 
+COL name VAL ` alain rondelli ' COL addr VAL ' 126 clement st. ' COL city VAL ` san francisco ' COL phone VAL 415/387 -0408 COL type VAL french COL class VAL 94 
+COL name VAL aqua COL addr VAL ' 252 california st. ' COL city VAL ` san francisco ' COL phone VAL 415/956 -9662 COL type VAL seafood COL class VAL 95 
+COL name VAL boulevard COL addr VAL ' 1 mission st. ' COL city VAL ` san francisco ' COL phone VAL 415/543 -6084 COL type VAL american COL class VAL 96 
+COL name VAL ` cafe claude ' COL addr VAL ' 7 claude la . ' COL city VAL ` san francisco ' COL phone VAL 415/392 -3505 COL type VAL french COL class VAL 97 
+COL name VAL ` campton place ' COL addr VAL ' 340 stockton st. ' COL city VAL ` san francisco ' COL phone VAL 415/955 -5555 COL type VAL american COL class VAL 98 
+COL name VAL ` chez michel ' COL addr VAL ' 804 northpoint ' COL city VAL ` san francisco ' COL phone VAL 415/775 -7036 COL type VAL french COL class VAL 99 
+COL name VAL ` fleur de lys ' COL addr VAL ' 777 sutter st. ' COL city VAL ` san francisco ' COL phone VAL 415/673 -7779 COL type VAL french COL class VAL 100 
+COL name VAL fringale COL addr VAL ' 570 4th st. ' COL city VAL ` san francisco ' COL phone VAL 415/543 -0573 COL type VAL french COL class VAL 101 
+COL name VAL ` hawthorne lane ' COL addr VAL '22 hawthorne st. ' COL city VAL ` san francisco ' COL phone VAL 415/777 -9779 COL type VAL american COL class VAL 102 
+COL name VAL ` khan toke thai house ' COL addr VAL ' 5937 geary blvd. ' COL city VAL ` san francisco ' COL phone VAL 415/668 -6654 COL type VAL asian COL class VAL 103 
+COL name VAL ` la folie ' COL addr VAL ' 2316 polk st. ' COL city VAL ` san francisco ' COL phone VAL 415/776 -5577 COL type VAL french COL class VAL 104 
+COL name VAL lulu COL addr VAL ' 816 folsom st. ' COL city VAL ` san francisco ' COL phone VAL 415/495 -5775 COL type VAL mediterranean COL class VAL 105 
+COL name VAL ` masa \ 's ' COL addr VAL ' 648 bush st. ' COL city VAL ` san francisco ' COL phone VAL 415/989 -7154 COL type VAL french COL class VAL 106 
+COL name VAL ` mifune japan center kintetsu building ' COL addr VAL ' 1737 post st. ' COL city VAL ` san francisco ' COL phone VAL 415/922 -0337 COL type VAL asian COL class VAL 107 
+COL name VAL ` plumpjack cafe ' COL addr VAL ' 3201 fillmore st. ' COL city VAL ` san francisco ' COL phone VAL 415/563 -4755 COL type VAL mediterranean COL class VAL 108 
+COL name VAL postrio COL addr VAL ' 545 post st. ' COL city VAL ` san francisco ' COL phone VAL 415/776 -7825 COL type VAL american COL class VAL 109 
+COL name VAL ` ritz-carlton restaurant and dining room ' COL addr VAL ' 600 stockton st. ' COL city VAL ` san francisco ' COL phone VAL 415/296 -7465 COL type VAL american COL class VAL 110 
+COL name VAL ` rose pistola ' COL addr VAL ' 532 columbus ave. ' COL city VAL ` san francisco ' COL phone VAL 415/399 -0499 COL type VAL italian COL class VAL 111 
+COL name VAL bolo COL addr VAL '23 e. 22nd st. ' COL city VAL ` new york ' COL phone VAL 212/228 -2200 COL type VAL mediterranean COL class VAL 191 
+COL name VAL ` il nido ' COL addr VAL ' 251 e. 53rd st. ' COL city VAL ` new york ' COL phone VAL 212/753 -8450 COL type VAL italian COL class VAL 267 
+COL name VAL remi COL addr VAL ' 145 w. 53rd st. ' COL city VAL ` new york ' COL phone VAL 212/581 -4242 COL type VAL italian COL class VAL 334 
+COL name VAL ` adriano \ 's ristorante ' COL addr VAL ' 2930 beverly glen circle ' COL city VAL ` los angeles ' COL phone VAL 310/475 -9807 COL type VAL italian COL class VAL 112 
+COL name VAL ` barney greengrass ' COL addr VAL ' 9570 wilshire blvd. ' COL city VAL ` beverly hills ' COL phone VAL 310/777 -5877 COL type VAL american COL class VAL 113 
+COL name VAL beaurivage COL addr VAL ' 26025 pacific coast hwy . ' COL city VAL malibu COL phone VAL 310/456 -5733 COL type VAL french COL class VAL 114 
+COL name VAL ` bistro garden ' COL addr VAL ' 176 n. canon dr. ' COL city VAL ` los angeles ' COL phone VAL 310/550 -3900 COL type VAL californian COL class VAL 115 
+COL name VAL ` border grill ' COL addr VAL ' 4th st. ' COL city VAL ` los angeles ' COL phone VAL 310/451 -1655 COL type VAL mexican COL class VAL 116 
+COL name VAL ` broadway deli ' COL addr VAL ' 3rd st. promenade ' COL city VAL ` santa monica ' COL phone VAL 310/451 -0616 COL type VAL american COL class VAL 117 
+COL name VAL ` ca \ ` brea ' COL addr VAL ' 346 s. la brea ave. ' COL city VAL ` los angeles ' COL phone VAL 213/938 -2863 COL type VAL italian COL class VAL 118 
+COL name VAL ` ca \ ` del sol ' COL addr VAL ' 4100 cahuenga blvd. ' COL city VAL ` los angeles ' COL phone VAL 818/985 -4669 COL type VAL italian COL class VAL 119 
+COL name VAL ` cafe pinot ' COL addr VAL ' 700 w. fifth st. ' COL city VAL ` los angeles ' COL phone VAL 213/239 -6500 COL type VAL californian COL class VAL 120 
+COL name VAL ` california pizza kitchen ' COL addr VAL ' 207 s. beverly dr. ' COL city VAL ` los angeles ' COL phone VAL 310/275 -1101 COL type VAL californian COL class VAL 121 
+COL name VAL ` canter \ 's ' COL addr VAL ' 419 n. fairfax ave. ' COL city VAL ` los angeles ' COL phone VAL 213/651 -2030 . COL type VAL american COL class VAL 122 
+COL name VAL cava COL addr VAL ' 3rd st. ' COL city VAL ` los angeles ' COL phone VAL 213/658 -8898 COL type VAL mediterranean COL class VAL 123 
+COL name VAL ` cha cha cha ' COL addr VAL ' 656 n. virgil ave. ' COL city VAL ` los angeles ' COL phone VAL 213/664 -7723 COL type VAL caribbean COL class VAL 124 
+COL name VAL ` chan dara ' COL addr VAL ' 310 n. larchmont blvd. ' COL city VAL ` los angeles ' COL phone VAL 213/467 -1052 COL type VAL asian COL class VAL 125 
+COL name VAL ` clearwater cafe ' COL addr VAL ' 168 w. colorado blvd. ' COL city VAL ` los angeles ' COL phone VAL 818/356 -0959 COL type VAL ` health food ' COL class VAL 126 
+COL name VAL ` dining room ' COL addr VAL ' 9500 wilshire blvd. ' COL city VAL ` los angeles ' COL phone VAL 310/275 -5200 COL type VAL californian COL class VAL 127 
+COL name VAL dive ! COL addr VAL ' 10250 santa monica blvd. ' COL city VAL ` los angeles ' COL phone VAL 310/788 - COL type VAL ` dive american ' COL class VAL 128 
+COL name VAL drago COL addr VAL ' 2628 wilshire blvd. ' COL city VAL ` santa monica ' COL phone VAL 310/828 -1585 COL type VAL italian COL class VAL 129 
+COL name VAL ` drai \ 's ' COL addr VAL ' 730 n. la cienega blvd. ' COL city VAL ` los angeles ' COL phone VAL 310/358 -8585 COL type VAL french COL class VAL 130 
+COL name VAL ` dynasty room ' COL addr VAL ' 930 hilgard ave. ' COL city VAL ` los angeles ' COL phone VAL 310/208 -8765 COL type VAL continental COL class VAL 131 
+COL name VAL eclipse COL addr VAL ' 8800 melrose ave. ' COL city VAL ` los angeles ' COL phone VAL 310/724 -5959 COL type VAL californian COL class VAL 132 
+COL name VAL ` ed debevic \ 's ' COL addr VAL ' 134 n. la cienega ' COL city VAL ` los angeles ' COL phone VAL 310/659 -1952 COL type VAL american COL class VAL 133 
+COL name VAL ` el cholo ' COL addr VAL ' 1121 s. western ave. ' COL city VAL ` los angeles ' COL phone VAL 213/734 -2773 COL type VAL mexican COL class VAL 134 
+COL name VAL ` gilliland \ 's ' COL addr VAL ' 2424 main st. ' COL city VAL ` santa monica ' COL phone VAL 310/392 -3901 COL type VAL american COL class VAL 135 
+COL name VAL ` gladstone \ 's ' COL addr VAL ' 4 fish 17300 pacific coast hwy . at sunset blvd. ' COL city VAL ` pacific palisades ' COL phone VAL 310/454 -3474 COL type VAL american COL class VAL 136 
+COL name VAL ` hard rock cafe ' COL addr VAL ' 8600 beverly blvd. ' COL city VAL ` los angeles ' COL phone VAL 310/276 -7605 COL type VAL american COL class VAL 137 
+COL name VAL ` harry \ 's bar & american grill ' COL addr VAL ' 2020 ave. of the stars ' COL city VAL ` los angeles ' COL phone VAL 310/277 -2333 COL type VAL italian COL class VAL 138 
+COL name VAL ` il fornaio cucina italiana ' COL addr VAL ' 301 n. beverly dr. ' COL city VAL ` los angeles ' COL phone VAL 310/550 -8330 COL type VAL italian COL class VAL 139 
+COL name VAL ` jack sprat \ 's grill ' COL addr VAL ' 10668 w. pico blvd. ' COL city VAL ` los angeles ' COL phone VAL 310/837 -6662 COL type VAL ` health food ' COL class VAL 140 
+COL name VAL ` jackson \ 's farm ' COL addr VAL ' 439 n. beverly drive ' COL city VAL ` los angeles ' COL phone VAL 310/273 -5578 COL type VAL californian COL class VAL 141 
+COL name VAL ` jimmy \ 's ' COL addr VAL ' 201 moreno dr. ' COL city VAL ` los angeles ' COL phone VAL 310/552 -2394 COL type VAL continental COL class VAL 142 
+COL name VAL joss COL addr VAL ' 9255 sunset blvd. ' COL city VAL ` los angeles ' COL phone VAL 310/276 -1886 COL type VAL asian COL class VAL 143 
+COL name VAL ` le colonial ' COL addr VAL ' 8783 beverly blvd. ' COL city VAL ` los angeles ' COL phone VAL 310/289 -0660 COL type VAL asian COL class VAL 144 
+COL name VAL ` le dome ' COL addr VAL ' 8720 sunset blvd. ' COL city VAL ` los angeles ' COL phone VAL 310/659 -6919 COL type VAL french COL class VAL 145 
+COL name VAL ` louise \ 's trattoria ' COL addr VAL ' 4500 los feliz blvd. ' COL city VAL ` los angeles ' COL phone VAL 213/667 -0777 COL type VAL italian COL class VAL 146 
+COL name VAL ` mon kee seafood restaurant ' COL addr VAL ' 679 n. spring st. ' COL city VAL ` los angeles ' COL phone VAL 213/628 -6717 COL type VAL asian COL class VAL 147 
+COL name VAL ` morton \ 's ' COL addr VAL ' 8764 melrose ave. ' COL city VAL ` los angeles ' COL phone VAL 310/276 -5205 COL type VAL american COL class VAL 148 
+COL name VAL ` nate \ ` n \ ' al \ 's ' COL addr VAL ' 414 n. beverly dr. ' COL city VAL ` los angeles ' COL phone VAL 310/274 -0101 COL type VAL american COL class VAL 149 
+COL name VAL nicola COL addr VAL ' 601 s. figueroa st. ' COL city VAL ` los angeles ' COL phone VAL 213/485 -0927 COL type VAL american COL class VAL 150 
+COL name VAL ` ocean avenue ' COL addr VAL ' 1401 ocean ave. ' COL city VAL ` santa monica ' COL phone VAL 310/394 -5669 COL type VAL american COL class VAL 151 
+COL name VAL orleans COL addr VAL ' 11705 national blvd. ' COL city VAL ` los angeles ' COL phone VAL 310/479 -4187 COL type VAL cajun COL class VAL 152 
+COL name VAL ` pacific dining car ' COL addr VAL ' 6th st. ' COL city VAL ` los angeles ' COL phone VAL 213/483 -6000 COL type VAL american COL class VAL 153 
+COL name VAL ` paty \ 's ' COL addr VAL ' 10001 riverside dr. ' COL city VAL ` toluca lake ' COL phone VAL 818/761 -9126 COL type VAL american COL class VAL 154 
+COL name VAL ` pinot hollywood ' COL addr VAL ' 1448 n. gower st. ' COL city VAL ` los angeles ' COL phone VAL 213/461 -8800 COL type VAL californian COL class VAL 155 
+COL name VAL posto COL addr VAL ' 14928 ventura blvd. ' COL city VAL ` sherman oaks ' COL phone VAL 818/784 -4400 COL type VAL italian COL class VAL 156 
+COL name VAL prego COL addr VAL ' 362 n. camden dr. ' COL city VAL ` los angeles ' COL phone VAL 310/277 -7346 COL type VAL italian COL class VAL 157 
+COL name VAL ` rj \ 's the rib joint ' COL addr VAL ' 252 n. beverly dr. ' COL city VAL ` los angeles ' COL phone VAL 310/274 -7427 COL type VAL american COL class VAL 158 
+COL name VAL remi COL addr VAL ' 3rd st. promenade ' COL city VAL ` santa monica ' COL phone VAL 310/393 -6545 COL type VAL italian COL class VAL 159 
+COL name VAL ` restaurant horikawa ' COL addr VAL ' 111 s. san pedro st. ' COL city VAL ` los angeles ' COL phone VAL 213/680 -9355 COL type VAL asian COL class VAL 160 
+COL name VAL ` roscoe \ 's house of chicken \ ` n \ ' waffles ' COL addr VAL ' 1514 n. gower st. ' COL city VAL ` los angeles ' COL phone VAL 213/466 -9329 COL type VAL american COL class VAL 161 
+COL name VAL ` schatzi on main ' COL addr VAL ' 3110 main st. ' COL city VAL ` los angeles ' COL phone VAL 310/399 -4800 COL type VAL continental COL class VAL 162 
+COL name VAL sofi COL addr VAL ' 3rd st. ' COL city VAL ` los angeles ' COL phone VAL 213/651 -0346 COL type VAL mediterranean COL class VAL 163 
+COL name VAL swingers COL addr VAL ' 8020 beverly blvd. ' COL city VAL ` los angeles ' COL phone VAL 213/653 -5858 COL type VAL american COL class VAL 164 
+COL name VAL ` tavola calda ' COL addr VAL ' 7371 melrose ave. ' COL city VAL ` los angeles ' COL phone VAL 213/658 -6340 COL type VAL italian COL class VAL 165 
+COL name VAL ` the mandarin ' COL addr VAL ' 430 n. camden dr. ' COL city VAL ` los angeles ' COL phone VAL 310/859 -0926 COL type VAL asian COL class VAL 166 
+COL name VAL ` tommy tang \ 's ' COL addr VAL ' 7313 melrose ave. ' COL city VAL ` los angeles ' COL phone VAL 213/937 -5733 COL type VAL asian COL class VAL 167 
+COL name VAL ` tra di noi ' COL addr VAL ' 3835 cross creek rd. ' COL city VAL ` los angeles ' COL phone VAL 310/456 -0169 COL type VAL italian COL class VAL 168 
+COL name VAL ` trader vic \ 's ' COL addr VAL ' 9876 wilshire blvd. ' COL city VAL ` los angeles ' COL phone VAL 310/276 -6345 COL type VAL asian COL class VAL 169 
+COL name VAL vida COL addr VAL ' 1930 north hillhurst ave. ' COL city VAL ` los feliz ' COL phone VAL 213/660 -4446 COL type VAL american COL class VAL 170 
+COL name VAL ` west beach cafe ' COL addr VAL '60 n. venice blvd. ' COL city VAL ` los angeles ' COL phone VAL 310/823 -5396 COL type VAL american COL class VAL 171 
+COL name VAL '20 mott ' COL addr VAL '20 mott st. between bowery and pell st. ' COL city VAL ` new york ' COL phone VAL 212/964 -0380 COL type VAL asian COL class VAL 172 
+COL name VAL ' 9 jones street ' COL addr VAL ' 9 jones st. ' COL city VAL ` new york ' COL phone VAL 212/989 -1220 COL type VAL american COL class VAL 173 
+COL name VAL adrienne COL addr VAL ' 700 5th ave. at 55th st. ' COL city VAL ` new york ' COL phone VAL 212/903 -3918 COL type VAL french COL class VAL 174 
+COL name VAL agrotikon COL addr VAL ' 322 e. 14 st. between 1st and 2nd aves . ' COL city VAL ` new york ' COL phone VAL 212/473 -2602 COL type VAL mediterranean COL class VAL 175 
+COL name VAL aja COL addr VAL ' 937 broadway at 22nd st. ' COL city VAL ` new york ' COL phone VAL 212/473 -8388 COL type VAL american COL class VAL 176 
+COL name VAL alamo COL addr VAL ' 304 e. 48th st. ' COL city VAL ` new york ' COL phone VAL ' 212 / 759-0590 ' COL type VAL mexican COL class VAL 177 
+COL name VAL ` alley \ 's end ' COL addr VAL ' 311 w. 17th st. ' COL city VAL ` new york ' COL phone VAL 212/627 -8899 COL type VAL american COL class VAL 178 
+COL name VAL ` ambassador grill ' COL addr VAL ' 1 united nations plaza at 44th st. ' COL city VAL ` new york ' COL phone VAL 212/702 -5014 COL type VAL american COL class VAL 179 
+COL name VAL ` american place ' COL addr VAL ' 2 park ave. at 32nd st. ' COL city VAL ` new york ' COL phone VAL 212/684 -2122 COL type VAL american COL class VAL 180 
+COL name VAL ` anche vivolo ' COL addr VAL ' 222 e. 58th st. between 2nd and 3rd aves . ' COL city VAL ` new york ' COL phone VAL 212/308 -0112 COL type VAL italian COL class VAL 181 
+COL name VAL arizona COL addr VAL ' 206 206 e. 60th st. ' COL city VAL ` new york ' COL phone VAL 212/838 -0440 COL type VAL american COL class VAL 182 
+COL name VAL ` arturo \ 's ' COL addr VAL ' 106 w. houston st. off thompson st. ' COL city VAL ` new york ' COL phone VAL 212/677 -3820 COL type VAL italian COL class VAL 183 
+COL name VAL ` au mandarin ' COL addr VAL ' 200-250 vesey st. world financial center ' COL city VAL ` new york ' COL phone VAL 212/385 -0313 COL type VAL asian COL class VAL 184 
+COL name VAL ` bar anise ' COL addr VAL ' 1022 3rd ave. between 60th and 61st sts . ' COL city VAL ` new york ' COL phone VAL 212/355 -1112 COL type VAL mediterranean COL class VAL 185 
+COL name VAL barbetta COL addr VAL ' 321 w. 46th st. ' COL city VAL ` new york ' COL phone VAL 212/246 -9171 COL type VAL italian COL class VAL 186 
+COL name VAL ` ben benson \ 's ' COL addr VAL ' 123 w. 52nd st. ' COL city VAL ` new york ' COL phone VAL 212/581 -8888 COL type VAL american COL class VAL 187 
+COL name VAL ` big cup ' COL addr VAL ' 228 8th ave. between 21st and 22nd sts . ' COL city VAL ` new york ' COL phone VAL 212/206 -0059 COL type VAL ` coffee bar ' COL class VAL 188 
+COL name VAL ` billy \ 's ' COL addr VAL ' 948 1st ave. between 52nd and 53rd sts . ' COL city VAL ` new york ' COL phone VAL 212/753 -1870 COL type VAL american COL class VAL 189 
+COL name VAL ` boca chica ' COL addr VAL '13 1st ave. near 1st st. ' COL city VAL ` new york ' COL phone VAL 212/473 -0108 COL type VAL ` latin american ' COL class VAL 190 
+COL name VAL boonthai COL addr VAL ' 1393a 2nd ave. between 72nd and 73rd sts . ' COL city VAL ` new york ' COL phone VAL 212/249 -8484 COL type VAL asian COL class VAL 192 
+COL name VAL bouterin COL addr VAL ' 420 e. 59th st. off 1st ave. ' COL city VAL ` new york ' COL phone VAL 212/758 -0323 COL type VAL french COL class VAL 193 
+COL name VAL ` brothers bar-b-q ' COL addr VAL ' 225 varick st. at clarkston st. ' COL city VAL ` new york ' COL phone VAL 212/727 -2775 COL type VAL american COL class VAL 194 
+COL name VAL bruno COL addr VAL ' 240 e. 58th st. ' COL city VAL ` new york ' COL phone VAL 212/688 -4190 COL type VAL italian COL class VAL 195 
+COL name VAL ` bryant park grill roof restaurant and bp cafe ' COL addr VAL '25 w. 40th st. between 5th and 6th aves . ' COL city VAL ` new york ' COL phone VAL 212/840 -6500 COL type VAL american COL class VAL 196 
+COL name VAL c3 COL addr VAL ' 103 waverly pl . near washington sq. ' COL city VAL ` new york ' COL phone VAL 212/254 -1200 COL type VAL american COL class VAL 197 
+COL name VAL ct COL addr VAL ' 111 e. 22nd st. between park ave. s and lexington ave. ' COL city VAL ` new york ' COL phone VAL 212/995 -8500 COL type VAL french COL class VAL 198 
+COL name VAL ` cafe bianco ' COL addr VAL ' 1486 2nd ave. between 77th and 78th sts . ' COL city VAL ` new york ' COL phone VAL 212/988 -2655 COL type VAL ` coffee bar ' COL class VAL 199 
+COL name VAL ` cafe botanica ' COL addr VAL ' 160 central park s ' COL city VAL ` new york ' COL phone VAL 212/484 -5120 COL type VAL french COL class VAL 200 
+COL name VAL ` cafe la fortuna ' COL addr VAL '69 w. 71st st. ' COL city VAL ` new york ' COL phone VAL 212/724 -5846 COL type VAL ` coffee bar ' COL class VAL 201 
+COL name VAL ` cafe luxembourg ' COL addr VAL ' 200 w. 70th st. ' COL city VAL ` new york ' COL phone VAL 212/873 -7411 COL type VAL french COL class VAL 202 
+COL name VAL ` cafe pierre ' COL addr VAL ' 2 e. 61st st. ' COL city VAL ` new york ' COL phone VAL 212/940 -8185 COL type VAL french COL class VAL 203 
+COL name VAL ` cafe centro ' COL addr VAL ' 200 park ave. between 45th st. and vanderbilt ave. ' COL city VAL ` new york ' COL phone VAL 212/818 -1222 COL type VAL french COL class VAL 204 
+COL name VAL ` cafe fes ' COL addr VAL ' 246 w. 4th st. at charles st. ' COL city VAL ` new york ' COL phone VAL 212/924 -7653 COL type VAL mediterranean COL class VAL 205 
+COL name VAL ` caffe dante ' COL addr VAL '81 macdougal st. between houston and bleeker sts . ' COL city VAL ` new york ' COL phone VAL 212/982 -5275 COL type VAL ` coffee bar ' COL class VAL 206 
+COL name VAL ` caffe dell \ ` artista ' COL addr VAL '46 greenwich ave. ' COL city VAL ` new york ' COL phone VAL 212/645 -4431 COL type VAL ` coffee bar ' COL class VAL 207 
+COL name VAL ` caffe lure ' COL addr VAL ' 169 sullivan st. between houston and bleecker sts . ' COL city VAL ` new york ' COL phone VAL 212/473 -2642 COL type VAL french COL class VAL 208 
+COL name VAL ` caffe reggio ' COL addr VAL ' 119 macdougal st. between 3rd and bleecker sts . ' COL city VAL ` new york ' COL phone VAL 212/475 -9557 COL type VAL ` coffee bar ' COL class VAL 209 
+COL name VAL ` caffe roma ' COL addr VAL ' 385 broome st. at mulberry ' COL city VAL ` new york ' COL phone VAL 212/226 -8413 COL type VAL ` coffee bar ' COL class VAL 210 
+COL name VAL ` caffe vivaldi ' COL addr VAL '32 jones st. at bleecker st. ' COL city VAL ` new york ' COL phone VAL 212/691 -7538 COL type VAL ` coffee bar ' COL class VAL 211 
+COL name VAL ` caffe bondi ristorante ' COL addr VAL ' 7 w. 20th st. ' COL city VAL ` new york ' COL phone VAL 212/691 -8136 COL type VAL italian COL class VAL 212 
+COL name VAL ` capsouto freres ' COL addr VAL ' 451 washington st. near watts st. ' COL city VAL ` new york ' COL phone VAL 212/966 -4900 COL type VAL french COL class VAL 213 
+COL name VAL ` captain \ 's table ' COL addr VAL ' 860 2nd ave. at 46th st. ' COL city VAL ` new york ' COL phone VAL 212/697 -9538 COL type VAL seafood COL class VAL 214 
+COL name VAL ` casa la femme ' COL addr VAL ' 150 wooster st. between houston and prince sts . ' COL city VAL ` new york ' COL phone VAL 212/505 -0005 COL type VAL ` middle eastern ' COL class VAL 215 
+COL name VAL ` cendrillon asian grill & marimba bar ' COL addr VAL '45 mercer st. between broome and grand sts . ' COL city VAL ` new york ' COL phone VAL 212/343 -9012 COL type VAL asian COL class VAL 216 
+COL name VAL ` chez jacqueline ' COL addr VAL '72 macdougal st. between w. houston and bleecker sts . ' COL city VAL ` new york ' COL phone VAL 212/505 -0727 COL type VAL french COL class VAL 217 
+COL name VAL chiam COL addr VAL ' 160 e. 48th st. ' COL city VAL ` new york ' COL phone VAL 212/371 -2323 COL type VAL asian COL class VAL 218 
+COL name VAL ` china grill ' COL addr VAL '60 w. 53rd st. ' COL city VAL ` new york ' COL phone VAL 212/333 -7788 COL type VAL american COL class VAL 219 
+COL name VAL cite COL addr VAL ' 120 w. 51st st. ' COL city VAL ` new york ' COL phone VAL 212/956 -7100 COL type VAL french COL class VAL 220 
+COL name VAL ` coco pazzo ' COL addr VAL '23 e. 74th st. ' COL city VAL ` new york ' COL phone VAL 212/794 -0205 COL type VAL italian COL class VAL 221 
+COL name VAL ` columbus bakery ' COL addr VAL ' 53rd sts . ' COL city VAL ` new york ' COL phone VAL 212/421 -0334 COL type VAL ` coffee bar ' COL class VAL 222 
+COL name VAL ` corrado cafe ' COL addr VAL ' 1013 3rd ave. between 60th and 61st sts . ' COL city VAL ` new york ' COL phone VAL 212/753 -5100 COL type VAL ` coffee bar ' COL class VAL 223 
+COL name VAL ` cupcake cafe ' COL addr VAL ' 522 9th ave. at 39th st. ' COL city VAL ` new york ' COL phone VAL 212/465 -1530 COL type VAL ` coffee bar ' COL class VAL 224 
+COL name VAL ` da nico ' COL addr VAL ' 164 mulberry st. between grand and broome sts . ' COL city VAL ` new york ' COL phone VAL 212/343 -1212 COL type VAL italian COL class VAL 225 
+COL name VAL ` dean & deluca ' COL addr VAL ' 121 prince st. ' COL city VAL ` new york ' COL phone VAL 212/254 -8776 COL type VAL ` coffee bar ' COL class VAL 226 
+COL name VAL diva COL addr VAL ' 341 w. broadway near grand st. ' COL city VAL ` new york ' COL phone VAL 212/941 -9024 COL type VAL italian COL class VAL 227 
+COL name VAL ` dix et sept ' COL addr VAL ' 181 w. 10th st. ' COL city VAL ` new york ' COL phone VAL 212/645 -8023 COL type VAL french COL class VAL 228 
+COL name VAL docks COL addr VAL ' 633 3rd ave. at 40th st. ' COL city VAL ` new york ' COL phone VAL ' 212 / 986-8080 ' COL type VAL seafood COL class VAL 229 
+COL name VAL ` duane park cafe ' COL addr VAL ' 157 duane st. between w. broadway and hudson st. ' COL city VAL ` new york ' COL phone VAL 212/732 -5555 COL type VAL american COL class VAL 230 
+COL name VAL ` el teddy \ 's ' COL addr VAL ' 219 w. broadway between franklin and white sts . ' COL city VAL ` new york ' COL phone VAL 212/941 -7070 COL type VAL mexican COL class VAL 231 
+COL name VAL 'em ily \ 's ' COL addr VAL ' 1325 5th ave. at 111th st. ' COL city VAL ` new york ' COL phone VAL 212/996 -1212 COL type VAL american COL class VAL 232 
+COL name VAL 'em pire korea ' COL addr VAL ' 6 e. 32nd st. ' COL city VAL ` new york ' COL phone VAL 212/725 -1333 COL type VAL asian COL class VAL 233 
+COL name VAL ` ernie \ 's ' COL addr VAL ' 2150 broadway between 75th and 76th sts . ' COL city VAL ` new york ' COL phone VAL 212/496 -1588 COL type VAL american COL class VAL 234 
+COL name VAL ` evergreen cafe ' COL addr VAL ' 1288 1st ave. at 69th st. ' COL city VAL ` new york ' COL phone VAL 212/744 -3266 COL type VAL asian COL class VAL 235 
+COL name VAL ` f. ille ponte ristorante ' COL addr VAL '39 desbrosses st. near west st. ' COL city VAL ` new york ' COL phone VAL 212/226 -4621 COL type VAL italian COL class VAL 236 
+COL name VAL felix COL addr VAL ' 340 w. broadway at grand st. ' COL city VAL ` new york ' COL phone VAL 212/431 -0021 COL type VAL french COL class VAL 237 
+COL name VAL ferrier COL addr VAL '29 e. 65th st. ' COL city VAL ` new york ' COL phone VAL 212/772 -9000 COL type VAL french COL class VAL 238 
+COL name VAL ` fifty seven fifty seven ' COL addr VAL '57 e. 57th st. ' COL city VAL ` new york ' COL phone VAL 212/758 -5757 COL type VAL american COL class VAL 239 
+COL name VAL ` film center cafe ' COL addr VAL ' 635 9th ave. between 44th and 45th sts . ' COL city VAL ` new york ' COL phone VAL ' 212 / 262-2525 ' COL type VAL american COL class VAL 240 
+COL name VAL ` fiorello \ 's roman cafe ' COL addr VAL ' 1900 broadway between 63rd and 64th sts . ' COL city VAL ` new york ' COL phone VAL 212/595 -5330 COL type VAL italian COL class VAL 241 
+COL name VAL firehouse COL addr VAL ' 522 columbus ave. between 85th and 86th sts . ' COL city VAL ` new york ' COL phone VAL 212/595 -3139 COL type VAL american COL class VAL 242 
+COL name VAL first COL addr VAL '87 1st ave. between 5th and 6th sts . ' COL city VAL ` new york ' COL phone VAL 212/674 -3823 COL type VAL american COL class VAL 243 
+COL name VAL ` fishin eddie ' COL addr VAL '73 w. 71st st. ' COL city VAL ` new york ' COL phone VAL 212/874 -3474 COL type VAL seafood COL class VAL 244 
+COL name VAL ` fleur de jour ' COL addr VAL ' 348 e. 62nd st. ' COL city VAL ` new york ' COL phone VAL 212/355 -2020 COL type VAL ` coffee bar ' COL class VAL 245 
+COL name VAL flowers COL addr VAL '21 west 17th st. between 5th and 6th aves . ' COL city VAL ` new york ' COL phone VAL 212/691 -8888 COL type VAL american COL class VAL 246 
+COL name VAL follonico COL addr VAL ' 6 w. 24th st. ' COL city VAL ` new york ' COL phone VAL 212/691 -6359 COL type VAL italian COL class VAL 247 
+COL name VAL ` fraunces tavern ' COL addr VAL '54 pearl st. at broad st. ' COL city VAL ` new york ' COL phone VAL 212/269 -0144 COL type VAL american COL class VAL 248 
+COL name VAL ` french roast ' COL addr VAL ' 458 6th ave. at 11th st. ' COL city VAL ` new york ' COL phone VAL 212/533 -2233 COL type VAL french COL class VAL 249 
+COL name VAL ` french roast cafe ' COL addr VAL ' 2340 broadway at 85th st. ' COL city VAL ` new york ' COL phone VAL 212/799 -1533 COL type VAL ` coffee bar ' COL class VAL 250 
+COL name VAL ` frico bar ' COL addr VAL ' 402 w. 43rd st. off 9th ave. ' COL city VAL ` new york ' COL phone VAL 212/564 -7272 COL type VAL italian COL class VAL 251 
+COL name VAL ` fujiyama mama ' COL addr VAL ' 467 columbus ave. between 82nd and 83rd sts . ' COL city VAL ` new york ' COL phone VAL 212/769 -1144 COL type VAL asian COL class VAL 252 
+COL name VAL ` gabriela \ 's ' COL addr VAL ' 685 amsterdam ave. at 93rd st. ' COL city VAL ` new york ' COL phone VAL 212/961 -0574 COL type VAL mexican COL class VAL 253 
+COL name VAL ` gallagher \ 's ' COL addr VAL ' 228 w. 52nd st. ' COL city VAL ` new york ' COL phone VAL 212/245 -5336 COL type VAL american COL class VAL 254 
+COL name VAL ` gianni \ 's ' COL addr VAL '15 fulton st. ' COL city VAL ` new york ' COL phone VAL 212/608 -7300 COL type VAL seafood COL class VAL 255 
+COL name VAL girafe COL addr VAL ' 208 e. 58th st. between 2nd and 3rd aves . ' COL city VAL ` new york ' COL phone VAL 212/752 -3054 COL type VAL italian COL class VAL 256 
+COL name VAL global COL addr VAL '33 93 2nd ave. between 5th and 6th sts . ' COL city VAL ` new york ' COL phone VAL 212/477 -8427 COL type VAL american COL class VAL 257 
+COL name VAL ` golden unicorn ' COL addr VAL '18 e. broadway at catherine st. ' COL city VAL ` new york ' COL phone VAL ' 212 / 941-0911 ' COL type VAL asian COL class VAL 258 
+COL name VAL ` grand ticino ' COL addr VAL ' 228 thompson st. between w. 3rd and bleecker sts . ' COL city VAL ` new york ' COL phone VAL 212/777 -5922 COL type VAL italian COL class VAL 259 
+COL name VAL halcyon COL addr VAL ' 151 w. 54th st. in the rihga royal hotel ' COL city VAL ` new york ' COL phone VAL 212/468 -8888 COL type VAL american COL class VAL 260 
+COL name VAL ` hard rock cafe ' COL addr VAL ' 221 w. 57th st. ' COL city VAL ` new york ' COL phone VAL 212/489 -6565 COL type VAL american COL class VAL 261 
+COL name VAL ` hi-life restaurant and lounge ' COL addr VAL ' 1340 1st ave. at 72nd st. ' COL city VAL ` new york ' COL phone VAL 212/249 -3600 COL type VAL american COL class VAL 262 
+COL name VAL home COL addr VAL '20 cornelia st. between bleecker and w. 4th st. ' COL city VAL ` new york ' COL phone VAL 212/243 -9579 COL type VAL american COL class VAL 263 
+COL name VAL ` hudson river club ' COL addr VAL ' 4 world financial center ' COL city VAL ` new york ' COL phone VAL 212/786 -1500 COL type VAL american COL class VAL 264 
+COL name VAL ' i trulli ' COL addr VAL ' 122 e. 27th st. between lexington and park aves . ' COL city VAL ` new york ' COL phone VAL 212/481 -7372 COL type VAL italian COL class VAL 265 
+COL name VAL ` il cortile ' COL addr VAL ' 125 mulberry st. between canal and hester sts . ' COL city VAL ` new york ' COL phone VAL 212/226 -6060 COL type VAL italian COL class VAL 266 
+COL name VAL ` inca grill ' COL addr VAL ' 492 broome st. near w. broadway ' COL city VAL ` new york ' COL phone VAL 212/966 -3371 COL type VAL ` latin american ' COL class VAL 268 
+COL name VAL indochine COL addr VAL ' 430 lafayette st. between 4th st. and astor pl . ' COL city VAL ` new york ' COL phone VAL 212/505 -5111 COL type VAL asian COL class VAL 269 
+COL name VAL ` internet cafe ' COL addr VAL '82 e. 3rd st. between 1st and 2nd aves . ' COL city VAL ` new york ' COL phone VAL ' 212 / 614-0747 ' COL type VAL ` coffee bar ' COL class VAL 270 
+COL name VAL ipanema COL addr VAL '13 w. 46th st. ' COL city VAL ` new york ' COL phone VAL 212/730 -5848 COL type VAL ` latin american ' COL class VAL 271 
+COL name VAL ` jean lafitte ' COL addr VAL '68 w. 58th st. ' COL city VAL ` new york ' COL phone VAL 212/751 -2323 COL type VAL french COL class VAL 272 
+COL name VAL ` jewel of india ' COL addr VAL '15 w. 44th st. ' COL city VAL ` new york ' COL phone VAL 212/869 -5544 COL type VAL asian COL class VAL 273 
+COL name VAL ` jimmy sung \ 's ' COL addr VAL ' 219 e. 44th st. between 2nd and 3rd aves . ' COL city VAL ` new york ' COL phone VAL 212/682 -5678 COL type VAL asian COL class VAL 274 
+COL name VAL ` joe allen ' COL addr VAL ' 326 w. 46th st. ' COL city VAL ` new york ' COL phone VAL 212/581 -6464 COL type VAL american COL class VAL 275 
+COL name VAL ` judson grill ' COL addr VAL ' 152 w. 52nd st. ' COL city VAL ` new york ' COL phone VAL 212/582 -5252 COL type VAL american COL class VAL 276 
+COL name VAL ` l \ ` absinthe ' COL addr VAL ' 227 e. 67th st. ' COL city VAL ` new york ' COL phone VAL 212/794 -4950 COL type VAL french COL class VAL 277 
+COL name VAL ` l \ ` auberge ' COL addr VAL ' 1191 1st ave. between 64th and 65th sts . ' COL city VAL ` new york ' COL phone VAL 212/288 -8791 COL type VAL ` middle eastern ' COL class VAL 278 
+COL name VAL ` l \ ` auberge du midi ' COL addr VAL ' 310 w. 4th st. between w. 12th and bank sts . ' COL city VAL ` new york ' COL phone VAL 212/242 -4705 COL type VAL french COL class VAL 279 
+COL name VAL ` l \ ` udo ' COL addr VAL ' 432 lafayette st. near astor pl . ' COL city VAL ` new york ' COL phone VAL 212/388 -0978 COL type VAL french COL class VAL 280 
+COL name VAL ` la reserve ' COL addr VAL ' 4 w. 49th st. ' COL city VAL ` new york ' COL phone VAL 212/247 -2993 COL type VAL french COL class VAL 281 
+COL name VAL ` lanza restaurant ' COL addr VAL ' 168 1st ave. between 10th and 11th sts . ' COL city VAL ` new york ' COL phone VAL 212/674 -7014 COL type VAL italian COL class VAL 282 
+COL name VAL ` lattanzi ristorante ' COL addr VAL ' 361 w. 46th st. ' COL city VAL ` new york ' COL phone VAL 212/315 -0980 COL type VAL italian COL class VAL 283 
+COL name VAL layla COL addr VAL ' 211 w. broadway at franklin st. ' COL city VAL ` new york ' COL phone VAL 212/431 -0700 COL type VAL ` middle eastern ' COL class VAL 284 
+COL name VAL ` le chantilly ' COL addr VAL ' 106 e. 57th st. ' COL city VAL ` new york ' COL phone VAL 212/751 -2931 COL type VAL french COL class VAL 285 
+COL name VAL ` le colonial ' COL addr VAL ' 149 e. 57th st. ' COL city VAL ` new york ' COL phone VAL ' 212 / 752-0808 ' COL type VAL asian COL class VAL 286 
+COL name VAL ` le gamin ' COL addr VAL '50 macdougal st. between houston and prince sts . ' COL city VAL ` new york ' COL phone VAL 212/254 -4678 COL type VAL ` coffee bar ' COL class VAL 287 
+COL name VAL ` le jardin ' COL addr VAL '25 cleveland pl . near spring st. ' COL city VAL ` new york ' COL phone VAL 212/343 -9599 COL type VAL french COL class VAL 288 
+COL name VAL ` le madri ' COL addr VAL ' 168 w. 18th st. ' COL city VAL ` new york ' COL phone VAL 212/727 -8022 COL type VAL italian COL class VAL 289 
+COL name VAL ` le marais ' COL addr VAL ' 150 w. 46th st. ' COL city VAL ` new york ' COL phone VAL 212/869 -0900 COL type VAL american COL class VAL 290 
+COL name VAL ` le perigord ' COL addr VAL ' 405 e. 52nd st. ' COL city VAL ` new york ' COL phone VAL 212/755 -6244 COL type VAL french COL class VAL 291 
+COL name VAL ` le select ' COL addr VAL ' 507 columbus ave. between 84th and 85th sts . ' COL city VAL ` new york ' COL phone VAL 212/875 -1993 COL type VAL american COL class VAL 292 
+COL name VAL ` les halles ' COL addr VAL ' 411 park ave. s between 28th and 29th sts . ' COL city VAL ` new york ' COL phone VAL 212/679 -4111 COL type VAL french COL class VAL 293 
+COL name VAL ` lincoln tavern ' COL addr VAL '51 w. 64th st. ' COL city VAL ` new york ' COL phone VAL 212/721 -8271 COL type VAL american COL class VAL 294 
+COL name VAL lola COL addr VAL '30 west 22nd st. between 5th and 6th ave. ' COL city VAL ` new york ' COL phone VAL 212/675 -6700 COL type VAL american COL class VAL 295 
+COL name VAL ` lucky strike ' COL addr VAL '59 grand st. between wooster st. and w. broadway ' COL city VAL ` new york ' COL phone VAL 212/941 -0479 COL type VAL ` or 212/941 -0772 american ' COL class VAL 296 
+COL name VAL ` mad fish ' COL addr VAL ' 2182 broadway between 77th and 78th sts . ' COL city VAL ` new york ' COL phone VAL 212/787 -0202 COL type VAL seafood COL class VAL 297 
+COL name VAL ` main street ' COL addr VAL ' 446 columbus ave. between 81st and 82nd sts . ' COL city VAL ` new york ' COL phone VAL 212/873 -5025 COL type VAL american COL class VAL 298 
+COL name VAL ` mangia e bevi ' COL addr VAL ' 800 9th ave. at 53rd st. ' COL city VAL ` new york ' COL phone VAL 212/956 -3976 COL type VAL italian COL class VAL 299 
+COL name VAL ` manhattan cafe ' COL addr VAL ' 1161 1st ave. between 63rd and 64th sts . ' COL city VAL ` new york ' COL phone VAL 212/888 -6556 COL type VAL american COL class VAL 300 
+COL name VAL ` manila garden ' COL addr VAL ' 325 e. 14th st. between 1st and 2nd aves . ' COL city VAL ` new york ' COL phone VAL 212/777 -6314 COL type VAL asian COL class VAL 301 
+COL name VAL marichu COL addr VAL ' 342 e. 46th st. between 1st and 2nd aves . ' COL city VAL ` new york ' COL phone VAL 212/370 -1866 COL type VAL french COL class VAL 302 
+COL name VAL ` marquet patisserie ' COL addr VAL '15 e. 12th st. between 5th ave. and university pl . ' COL city VAL ` new york ' COL phone VAL 212/229 -9313 COL type VAL ` coffee bar ' COL class VAL 303 
+COL name VAL match COL addr VAL ' 160 mercer st. between houston and prince sts . ' COL city VAL ` new york ' COL phone VAL 212/906 -9173 COL type VAL american COL class VAL 304 
+COL name VAL ` matthew \ 's ' COL addr VAL ' 1030 3rd ave. at 61st st. ' COL city VAL ` new york ' COL phone VAL 212/838 -4343 COL type VAL american COL class VAL 305 
+COL name VAL ` mavalli palace ' COL addr VAL '46 e. 29th st. ' COL city VAL ` new york ' COL phone VAL 212/679 -5535 COL type VAL asian COL class VAL 306 
+COL name VAL ` milan cafe and coffee bar ' COL addr VAL ' 120 w. 23rd st. ' COL city VAL ` new york ' COL phone VAL 212/807 -1801 COL type VAL ` coffee bar ' COL class VAL 307 
+COL name VAL ` monkey bar ' COL addr VAL '60 e. 54th st. ' COL city VAL ` new york ' COL phone VAL 212/838 -2600 COL type VAL american COL class VAL 308 
+COL name VAL montien COL addr VAL ' 1134 1st ave. between 62nd and 63rd sts . ' COL city VAL ` new york ' COL phone VAL 212/421 -4433 COL type VAL asian COL class VAL 309 
+COL name VAL ` morton \ 's ' COL addr VAL ' 551 5th ave. at 45th st. ' COL city VAL ` new york ' COL phone VAL 212/972 -3315 COL type VAL american COL class VAL 310 
+COL name VAL ` motown cafe ' COL addr VAL ' 104 w. 57th st. near 6th ave. ' COL city VAL ` new york ' COL phone VAL 212/581 -8030 COL type VAL american COL class VAL 311 
+COL name VAL ` new york kom tang soot bul house ' COL addr VAL '32 w. 32nd st. ' COL city VAL ` new york ' COL phone VAL ' 212 / 947-8482 ' COL type VAL asian COL class VAL 312 
+COL name VAL ` new york noodletown ' COL addr VAL '28 1/2 bowery at bayard st. ' COL city VAL ` new york ' COL phone VAL 212/349 -0923 COL type VAL asian COL class VAL 313 
+COL name VAL newsbar COL addr VAL ' 2 w. 19th st. ' COL city VAL ` new york ' COL phone VAL 212/255 -3996 COL type VAL ` coffee bar ' COL class VAL 314 
+COL name VAL odeon COL addr VAL ' 145 w. broadway at thomas st. ' COL city VAL ` new york ' COL phone VAL 212/233 -0507 COL type VAL american COL class VAL 315 
+COL name VAL orso COL addr VAL ' 322 w. 46th st. ' COL city VAL ` new york ' COL phone VAL 212/489 -7212 COL type VAL italian COL class VAL 316 
+COL name VAL ` osteria al droge ' COL addr VAL ' 142 w. 44th st. ' COL city VAL ` new york ' COL phone VAL 212/944 -3643 COL type VAL italian COL class VAL 317 
+COL name VAL otabe COL addr VAL '68 e. 56th st. ' COL city VAL ` new york ' COL phone VAL 212/223 -7575 COL type VAL asian COL class VAL 318 
+COL name VAL pacifica COL addr VAL ' 138 lafayette st. between canal and howard sts . ' COL city VAL ` new york ' COL phone VAL 212/941 -4168 COL type VAL asian COL class VAL 319 
+COL name VAL palio COL addr VAL ' 151 w. 51st . st. ' COL city VAL ` new york ' COL phone VAL 212/245 -4850 COL type VAL italian COL class VAL 320 
+COL name VAL pamir COL addr VAL ' 1065 1st ave. at 58th st. ' COL city VAL ` new york ' COL phone VAL 212/644 -9258 COL type VAL ` middle eastern ' COL class VAL 321 
+COL name VAL ` parioli romanissimo ' COL addr VAL '24 e. 81st st. ' COL city VAL ` new york ' COL phone VAL 212/288 -2391 COL type VAL italian COL class VAL 322 
+COL name VAL patria COL addr VAL ' 250 park ave. s at 20th st. ' COL city VAL ` new york ' COL phone VAL 212/777 -6211 COL type VAL ` latin american ' COL class VAL 323 
+COL name VAL ` peacock alley ' COL addr VAL ' 301 park ave. between 49th and 50th sts . ' COL city VAL ` new york ' COL phone VAL 212/872 -4895 COL type VAL french COL class VAL 324 
+COL name VAL ` pen & pencil ' COL addr VAL ' 205 e. 45th st. ' COL city VAL ` new york ' COL phone VAL 212/682 -8660 COL type VAL american COL class VAL 325 
+COL name VAL ` penang soho ' COL addr VAL ' 109 spring st. between greene and mercer sts . ' COL city VAL ` new york ' COL phone VAL 212/274 -8883 COL type VAL asian COL class VAL 326 
+COL name VAL persepolis COL addr VAL ' 1423 2nd ave. between 74th and 75th sts . ' COL city VAL ` new york ' COL phone VAL 212/535 -1100 COL type VAL ` middle eastern ' COL class VAL 327 
+COL name VAL ` planet hollywood ' COL addr VAL ' 140 w. 57th st. ' COL city VAL ` new york ' COL phone VAL 212/333 -7827 COL type VAL american COL class VAL 328 
+COL name VAL pomaire COL addr VAL ' 371 w. 46th st. off 9th ave. ' COL city VAL ` new york ' COL phone VAL ' 212 / 956-3055 ' COL type VAL ` latin american ' COL class VAL 329 
+COL name VAL ` popover cafe ' COL addr VAL ' 551 amsterdam ave. between 86th and 87th sts . ' COL city VAL ` new york ' COL phone VAL 212/595 -8555 COL type VAL american COL class VAL 330 
+COL name VAL ` post house ' COL addr VAL '28 e. 63rd st. ' COL city VAL ` new york ' COL phone VAL 212/935 -2888 COL type VAL american COL class VAL 331 
+COL name VAL rain COL addr VAL ' 100 w. 82nd st. ' COL city VAL ` new york ' COL phone VAL 212/501 -0776 COL type VAL asian COL class VAL 332 
+COL name VAL ` red tulip ' COL addr VAL ' 439 e. 75th st. ' COL city VAL ` new york ' COL phone VAL 212/734 -4893 COL type VAL ` eastern european ' COL class VAL 333 
+COL name VAL republic COL addr VAL ' 37a union sq. w between 16th and 17th sts . ' COL city VAL ` new york ' COL phone VAL 212/627 -7172 COL type VAL asian COL class VAL 335 
+COL name VAL ` roettelle a. g ' COL addr VAL ' 126 e. 7th st. between 1st ave. and ave. a ' COL city VAL ` new york ' COL phone VAL 212/674 -4140 COL type VAL continental COL class VAL 336 
+COL name VAL ` rosa mexicano ' COL addr VAL ' 1063 1st ave. at 58th st. ' COL city VAL ` new york ' COL phone VAL 212/753 -7407 COL type VAL mexican COL class VAL 337 
+COL name VAL ` ruth \ 's chris ' COL addr VAL ' 148 w. 51st st. ' COL city VAL ` new york ' COL phone VAL 212/245 -9600 COL type VAL american COL class VAL 338 
+COL name VAL s.p.q.r COL addr VAL ' 133 mulberry st. between hester and grand sts . ' COL city VAL ` new york ' COL phone VAL 212/925 -3120 COL type VAL italian COL class VAL 339 
+COL name VAL ` sal anthony \ 's ' COL addr VAL '55 irving pl . ' COL city VAL ` new york ' COL phone VAL 212/982 -9030 COL type VAL italian COL class VAL 340 
+COL name VAL ` sammy \ 's roumanian steak house ' COL addr VAL ' 157 chrystie st. at delancey st. ' COL city VAL ` new york ' COL phone VAL 212/673 -0330 COL type VAL ` east european ' COL class VAL 341 
+COL name VAL ` san pietro ' COL addr VAL '18 e. 54th st. ' COL city VAL ` new york ' COL phone VAL 212/753 -9015 COL type VAL italian COL class VAL 342 
+COL name VAL ` sant ambroeus ' COL addr VAL ' 1000 madison ave. between 77th and 78th sts . ' COL city VAL ` new york ' COL phone VAL 212/570 -2211 COL type VAL ` coffee bar ' COL class VAL 343 
+COL name VAL ` sarabeth \ 's kitchen ' COL addr VAL ' 423 amsterdam ave. between 80th and 81st sts . ' COL city VAL ` new york ' COL phone VAL 212/496 -6280 COL type VAL american COL class VAL 344 
+COL name VAL ` sea grill ' COL addr VAL '19 w. 49th st. ' COL city VAL ` new york ' COL phone VAL 212/332 -7610 COL type VAL seafood COL class VAL 345 
+COL name VAL serendipity COL addr VAL ' 3 225 e. 60th st. ' COL city VAL ` new york ' COL phone VAL 212/838 -3531 COL type VAL american COL class VAL 346 
+COL name VAL ` seventh regiment mess and bar ' COL addr VAL ' 643 park ave. at 66th st. ' COL city VAL ` new york ' COL phone VAL 212/744 -4107 COL type VAL american COL class VAL 347 
+COL name VAL sfuzzi COL addr VAL '58 w. 65th st. ' COL city VAL ` new york ' COL phone VAL 212/873 -3700 COL type VAL american COL class VAL 348 
+COL name VAL shaan COL addr VAL '57 w. 48th st. ' COL city VAL ` new york ' COL phone VAL ' 212 / 977-8400 ' COL type VAL asian COL class VAL 349 
+COL name VAL ` sofia fabulous pizza ' COL addr VAL ' 1022 madison ave. near 79th st. ' COL city VAL ` new york ' COL phone VAL 212/734 -2676 COL type VAL italian COL class VAL 350 
+COL name VAL ` spring street natural restaurant & bar ' COL addr VAL '62 spring st. at lafayette st. ' COL city VAL ` new york ' COL phone VAL 212/966 -0290 COL type VAL american COL class VAL 351 
+COL name VAL ` stage deli ' COL addr VAL ' 834 7th ave. between 53rd and 54th sts . ' COL city VAL ` new york ' COL phone VAL 212/245 -7850 COL type VAL delicatessen COL class VAL 352 
+COL name VAL stingray COL addr VAL ' 428 amsterdam ave. between 80th and 81st sts . ' COL city VAL ` new york ' COL phone VAL 212/501 -7515 COL type VAL seafood COL class VAL 353 
+COL name VAL ` sweet \ ` n \ ` tart cafe ' COL addr VAL '76 mott st. at canal st. ' COL city VAL ` new york ' COL phone VAL 212/334 -8088 COL type VAL asian COL class VAL 354 
+COL name VAL ' t salon ' COL addr VAL ' 143 mercer st. at prince st. ' COL city VAL ` new york ' COL phone VAL 212/925 -3700 COL type VAL ` coffee bar ' COL class VAL 355 
+COL name VAL ` tang pavillion ' COL addr VAL '65 w. 55th st. ' COL city VAL ` new york ' COL phone VAL 212/956 -6888 COL type VAL asian COL class VAL 356 
+COL name VAL tapika COL addr VAL ' 950 8th ave. at 56th st. ' COL city VAL ` new york ' COL phone VAL ' 212 / 397-3737 ' COL type VAL american COL class VAL 357 
+COL name VAL ` teresa \ 's ' COL addr VAL ' 103 1st ave. between 6th and 7th sts . ' COL city VAL ` new york ' COL phone VAL 212/228 -0604 COL type VAL ` east european ' COL class VAL 358 
+COL name VAL terrace COL addr VAL ' 400 w. 119th st. between amsterdam and morningside aves . ' COL city VAL ` new york ' COL phone VAL 212/666 -9490 COL type VAL continental COL class VAL 359 
+COL name VAL ` the coffee pot ' COL addr VAL ' 350 9th ave. at 49th st. ' COL city VAL ` new york ' COL phone VAL 212/265 -3566 COL type VAL ` coffee bar ' COL class VAL 360 
+COL name VAL ` the savannah club ' COL addr VAL ' 2420 broadway at 89th st. ' COL city VAL ` new york ' COL phone VAL 212/496 -1066 COL type VAL american COL class VAL 361 
+COL name VAL ` trattoria dell \ ` arte ' COL addr VAL ' 900 7th ave. between 56th and 57th sts . ' COL city VAL ` new york ' COL phone VAL 212/245 -9800 COL type VAL italian COL class VAL 362 
+COL name VAL triangolo COL addr VAL ' 345 e. 83rd st. ' COL city VAL ` new york ' COL phone VAL 212/472 -4488 COL type VAL italian COL class VAL 363 
+COL name VAL ` tribeca grill ' COL addr VAL ' 375 greenwich st. near franklin st. ' COL city VAL ` new york ' COL phone VAL 212/941 -3900 COL type VAL american COL class VAL 364 
+COL name VAL ` trois jean ' COL addr VAL ' 154 e. 79th st. between lexington and 3rd aves . ' COL city VAL ` new york ' COL phone VAL 212/988 -4858 COL type VAL ` coffee bar ' COL class VAL 365 
+COL name VAL ` tse yang ' COL addr VAL '34 e. 51st st. ' COL city VAL ` new york ' COL phone VAL 212/688 -5447 COL type VAL asian COL class VAL 366 
+COL name VAL ` turkish kitchen ' COL addr VAL ' 386 3rd ave. between 27th and 28th sts . ' COL city VAL ` new york ' COL phone VAL 212/679 -1810 COL type VAL ` middle eastern ' COL class VAL 367 
+COL name VAL ` two two two ' COL addr VAL ' 222 w. 79th st. ' COL city VAL ` new york ' COL phone VAL 212/799 -0400 COL type VAL american COL class VAL 368 
+COL name VAL ` veniero \ 's pasticceria ' COL addr VAL ' 342 e. 11th st. near 1st ave. ' COL city VAL ` new york ' COL phone VAL 212/674 -7264 COL type VAL ` coffee bar ' COL class VAL 369 
+COL name VAL verbena COL addr VAL '54 irving pl . at 17th st. ' COL city VAL ` new york ' COL phone VAL 212/260 -5454 COL type VAL american COL class VAL 370 
+COL name VAL ` victor \ 's cafe ' COL addr VAL '52 236 w. 52nd st. ' COL city VAL ` new york ' COL phone VAL 212/586 -7714 COL type VAL ` latin american ' COL class VAL 371 
+COL name VAL ` vince & eddie \ 's ' COL addr VAL '70 w. 68th st. ' COL city VAL ` new york ' COL phone VAL 212/721 -0068 COL type VAL american COL class VAL 372 
+COL name VAL vong COL addr VAL ' 200 e. 54th st. ' COL city VAL ` new york ' COL phone VAL 212/486 -9592 COL type VAL american COL class VAL 373 
+COL name VAL ` water club ' COL addr VAL ' 500 e. 30th st. ' COL city VAL ` new york ' COL phone VAL 212/683 -3333 COL type VAL american COL class VAL 374 
+COL name VAL west COL addr VAL ' 63rd street steakhouse 44 w. 63rd st. ' COL city VAL ` new york ' COL phone VAL 212/246 -6363 COL type VAL american COL class VAL 375 
+COL name VAL xunta COL addr VAL ' 174 1st ave. between 10th and 11th sts . ' COL city VAL ` new york ' COL phone VAL 212/614 -0620 COL type VAL mediterranean COL class VAL 376 
+COL name VAL ` zen palate ' COL addr VAL '34 union sq. e at 16th st. ' COL city VAL ` new york ' COL phone VAL 212/614 -9291 COL type VAL ` and 212/614 -9345 asian ' COL class VAL 377 
+COL name VAL zoe COL addr VAL '90 prince st. between broadway and mercer st. ' COL city VAL ` new york ' COL phone VAL 212/966 -6722 COL type VAL american COL class VAL 378 
+COL name VAL abbey COL addr VAL ' 163 ponce de leon ave. ' COL city VAL atlanta COL phone VAL 404/876 -8532 COL type VAL international COL class VAL 379 
+COL name VAL ` aleck \ 's barbecue heaven ' COL addr VAL ' 783 martin luther king jr. dr. ' COL city VAL atlanta COL phone VAL 404/525 -2062 COL type VAL barbecue COL class VAL 380 
+COL name VAL ` annie \ 's thai castle ' COL addr VAL ' 3195 roswell rd. ' COL city VAL atlanta COL phone VAL 404/264 -9546 COL type VAL asian COL class VAL 381 
+COL name VAL anthonys COL addr VAL ' 3109 piedmont rd. . just south of peachtree rd. ' COL city VAL atlanta COL phone VAL 404/262 -7379 COL type VAL american COL class VAL 382 
+COL name VAL ` atlanta fish market ' COL addr VAL ' 265 pharr rd. ' COL city VAL atlanta COL phone VAL 404/262 -3165 COL type VAL american COL class VAL 383 
+COL name VAL ` beesley \ 's of buckhead ' COL addr VAL ' 260 e. paces ferry road ' COL city VAL atlanta COL phone VAL 404/264 -1334 COL type VAL continental COL class VAL 384 
+COL name VAL ` bertolini \ 's ' COL addr VAL ' 3500 peachtree rd. . phipps plaza ' COL city VAL atlanta COL phone VAL 404/233 -2333 COL type VAL italian COL class VAL 385 
+COL name VAL bistango COL addr VAL ' 1100 peachtree st. ' COL city VAL atlanta COL phone VAL 404/724 -0901 COL type VAL mediterranean COL class VAL 386 
+COL name VAL ` cafe renaissance ' COL addr VAL ' 7050 jimmy carter blvd. . norcross ' COL city VAL atlanta COL phone VAL 770/441 -- 0291 COL type VAL american COL class VAL 387 
+COL name VAL ` camille \ 's ' COL addr VAL ' 1186 n. highland ave. ' COL city VAL atlanta COL phone VAL 404/872 -7203 COL type VAL italian COL class VAL 388 
+COL name VAL cassis COL addr VAL ' 3300 peachtree rd. . grand hyatt ' COL city VAL atlanta COL phone VAL 404/365 -8100 COL type VAL mediterranean COL class VAL 389 
+COL name VAL ` city grill ' COL addr VAL '50 hurt plaza ' COL city VAL atlanta COL phone VAL 404/524 -2489 COL type VAL international COL class VAL 390 
+COL name VAL ` coco loco ' COL addr VAL '40 buckhead crossing mall on the sidney marcus blvd. ' COL city VAL atlanta COL phone VAL 404/364 -0212 COL type VAL caribbean COL class VAL 391 
+COL name VAL ` colonnade restaurant ' COL addr VAL ' 1879 cheshire bridge rd. ' COL city VAL atlanta COL phone VAL 404/874 -5642 COL type VAL southern COL class VAL 392 
+COL name VAL ` dante \ 's down the hatch buckhead ' COL addr VAL ' 3380 peachtree rd. ' COL city VAL atlanta COL phone VAL 404/266 -1600 COL type VAL continental COL class VAL 393 
+COL name VAL ` dante \ 's down the hatch ' COL addr VAL ` underground underground mall underground atlanta ' COL city VAL atlanta COL phone VAL 404/577 -1800 COL type VAL continental COL class VAL 394 
+COL name VAL ` fat matt \ 's rib shack ' COL addr VAL ' 1811 piedmont ave. near cheshire bridge rd. ' COL city VAL atlanta COL phone VAL 404/607 -1622 COL type VAL barbecue COL class VAL 395 
+COL name VAL ` french quarter food shop ' COL addr VAL ' 923 peachtree st. at 8th st. ' COL city VAL atlanta COL phone VAL 404/875 -2489 COL type VAL southern COL class VAL 396 
+COL name VAL ` holt bros. bar-b-q ' COL addr VAL ' 6359 jimmy carter blvd. . at buford hwy . norcross ' COL city VAL atlanta COL phone VAL 770/242 -3984 COL type VAL barbecue COL class VAL 397 
+COL name VAL ` horseradish grill ' COL addr VAL ' 4320 powers ferry rd. ' COL city VAL atlanta COL phone VAL 404/255 -7277 COL type VAL southern COL class VAL 398 
+COL name VAL ` hsu \ 's gourmet ' COL addr VAL ' 192 peachtree center ave. at international blvd. ' COL city VAL atlanta COL phone VAL 404/659 -2788 COL type VAL asian COL class VAL 399 
+COL name VAL ` imperial fez ' COL addr VAL ' 2285 peachtree rd. . peachtree battle condominium ' COL city VAL atlanta COL phone VAL 404/351 -0870 COL type VAL mediterranean COL class VAL 400 
+COL name VAL kamogawa COL addr VAL ' 3300 peachtree rd. . grand hyatt ' COL city VAL atlanta COL phone VAL 404/841 -0314 COL type VAL asian COL class VAL 401 
+COL name VAL ` la grotta at ravinia dunwoody rd. ' COL addr VAL ` holiday inn/crowne plaza at ravinia dunwoody ' COL city VAL atlanta COL phone VAL 770/395 -9925 COL type VAL italian COL class VAL 402 
+COL name VAL ` little szechuan ' COL addr VAL ' c buford hwy . northwoods plaza doraville ' COL city VAL atlanta COL phone VAL 770/451 -0192 COL type VAL asian COL class VAL 403 
+COL name VAL ` lowcountry barbecue ' COL addr VAL ' 6301 roswell rd. . sandy springs plaza sandy springs ' COL city VAL atlanta COL phone VAL 404/255 -5160 COL type VAL barbecue COL class VAL 404 
+COL name VAL ` luna si ' COL addr VAL ' 1931 peachtree rd. ' COL city VAL atlanta COL phone VAL 404/355 -5993 COL type VAL continental COL class VAL 405 
+COL name VAL ` mambo restaurante cubano ' COL addr VAL ' 1402 n. highland ave. ' COL city VAL atlanta COL phone VAL 404/874 -2626 COL type VAL caribbean COL class VAL 406 
+COL name VAL ` mckinnon \ 's louisiane ' COL addr VAL ' 3209 maple dr. ' COL city VAL atlanta COL phone VAL 404/237 -1313 COL type VAL southern COL class VAL 407 
+COL name VAL ` mi spia dunwoody rd. ' COL addr VAL ` park place across from perimeter mall dunwoody ' COL city VAL atlanta COL phone VAL 770/393 -1333 COL type VAL italian COL class VAL 408 
+COL name VAL ` nickiemoto \ 's : a sushi bar ' COL addr VAL ' 247 buckhead ave. east village sq. ' COL city VAL atlanta COL phone VAL 404/842 -0334 COL type VAL fusion COL class VAL 409 
+COL name VAL palisades COL addr VAL ' 1829 peachtree rd. ' COL city VAL atlanta COL phone VAL 404/350 -6755 COL type VAL continental COL class VAL 410 
+COL name VAL ` pleasant peasant ' COL addr VAL ' 555 peachtree st. at linden ave. ' COL city VAL atlanta COL phone VAL 404/874 -3223 COL type VAL american COL class VAL 411 
+COL name VAL pricci COL addr VAL ' 500 pharr rd. ' COL city VAL atlanta COL phone VAL 404/237 -2941 COL type VAL italian COL class VAL 412 
+COL name VAL ` r.j. \ 's uptown kitchen & wine bar ' COL addr VAL ' 870 n. highland ave. ' COL city VAL atlanta COL phone VAL 404/875 -7775 COL type VAL american COL class VAL 413 
+COL name VAL ` rib ranch ' COL addr VAL '25 irby ave. ' COL city VAL atlanta COL phone VAL 404/233 -7644 COL type VAL barbecue COL class VAL 414 
+COL name VAL ` sa tsu ki ' COL addr VAL ' 3043 buford hwy . ' COL city VAL atlanta COL phone VAL 404/325 -5285 COL type VAL asian COL class VAL 415 
+COL name VAL ` sato sushi and thai ' COL addr VAL ' 6050 peachtree pkwy . norcross ' COL city VAL atlanta COL phone VAL 770/449 -0033 COL type VAL asian COL class VAL 416 
+COL name VAL ` south city kitchen ' COL addr VAL ' 1144 crescent ave. ' COL city VAL atlanta COL phone VAL 404/873 -7358 COL type VAL southern COL class VAL 417 
+COL name VAL ` south of france ' COL addr VAL ' 2345 cheshire bridge rd. ' COL city VAL atlanta COL phone VAL 404/325 -6963 COL type VAL french COL class VAL 418 
+COL name VAL ` stringer \ 's fish camp and oyster bar ' COL addr VAL ' 3384 shallowford rd. . chamblee ' COL city VAL atlanta COL phone VAL 770/458 -7145 COL type VAL southern COL class VAL 419 
+COL name VAL ` sundown cafe ' COL addr VAL ' 2165 cheshire bridge rd. ' COL city VAL atlanta COL phone VAL 404/321 -1118 COL type VAL american COL class VAL 420 
+COL name VAL ` taste of new orleans ' COL addr VAL ' 889 w. peachtree st. ' COL city VAL atlanta COL phone VAL 404/874 -5535 COL type VAL southern COL class VAL 421 
+COL name VAL tomtom COL addr VAL ' 3393 peachtree rd. ' COL city VAL atlanta COL phone VAL 404/264 -1163 COL type VAL continental COL class VAL 422 
+COL name VAL ` antonio \ 's ' COL addr VAL ' 3700 w. flamingo ' COL city VAL ` las vegas ' COL phone VAL 702/252 -7737 COL type VAL italian COL class VAL 423 
+COL name VAL ` bally \ 's big kitchen ' COL addr VAL ' 3645 las vegas blvd. s ' COL city VAL ` las vegas ' COL phone VAL 702/739 -4111 COL type VAL buffets COL class VAL 424 
+COL name VAL ` bamboo garden ' COL addr VAL ' 4850 flamingo rd. ' COL city VAL ` las vegas ' COL phone VAL 702/871 -3262 COL type VAL asian COL class VAL 425 
+COL name VAL ` battista \ 's hole in the wall ' COL addr VAL ' 4041 audrie st. at flamingo rd. ' COL city VAL ` las vegas ' COL phone VAL 702/732 -1424 COL type VAL italian COL class VAL 426 
+COL name VAL ` bertolini \ 's ' COL addr VAL ' 3570 las vegas blvd. s ' COL city VAL ` las vegas ' COL phone VAL 702/735 -4663 COL type VAL italian COL class VAL 427 
+COL name VAL ` binion \ 's coffee shop ' COL addr VAL ' 128 fremont st. ' COL city VAL ` las vegas ' COL phone VAL 702/382 -1600 COL type VAL ` coffee shops/diners ' COL class VAL 428 
+COL name VAL bistro COL addr VAL ' 3400 las vegas blvd. s ' COL city VAL ` las vegas ' COL phone VAL 702/791 -7111 COL type VAL continental COL class VAL 429 
+COL name VAL broiler COL addr VAL ' 4111 boulder hwy . ' COL city VAL ` las vegas ' COL phone VAL 702/432 -7777 COL type VAL american COL class VAL 430 
+COL name VAL ` bugsy \ 's diner ' COL addr VAL ' 3555 las vegas blvd. s ' COL city VAL ` las vegas ' COL phone VAL 702/733 -3111 COL type VAL ` coffee shops/diners ' COL class VAL 431 
+COL name VAL ` cafe michelle ' COL addr VAL ' 1350 e. flamingo rd. ' COL city VAL ` las vegas ' COL phone VAL 702/735 -8686 COL type VAL american COL class VAL 432 
+COL name VAL ` cafe roma ' COL addr VAL ' 3570 las vegas blvd. s ' COL city VAL ` las vegas ' COL phone VAL 702/731 -7547 COL type VAL ` coffee shops/diners ' COL class VAL 433 
+COL name VAL ` capozzoli \ 's ' COL addr VAL ' 3333 s. maryland pkwy . ' COL city VAL ` las vegas ' COL phone VAL 702/731 -5311 COL type VAL italian COL class VAL 434 
+COL name VAL ` carnival world ' COL addr VAL ' 3700 w. flamingo rd. ' COL city VAL ` las vegas ' COL phone VAL 702/252 -7777 COL type VAL buffets COL class VAL 435 
+COL name VAL ` center stage plaza hotel ' COL addr VAL ' 1 main st. ' COL city VAL ` las vegas ' COL phone VAL 702/386 -2512 COL type VAL american COL class VAL 436 
+COL name VAL ` circus circus ' COL addr VAL ' 2880 las vegas blvd. s ' COL city VAL ` las vegas ' COL phone VAL 702/734 -0410 COL type VAL buffets COL class VAL 437 
+COL name VAL 'em press court ' COL addr VAL ' 3570 las vegas blvd. s ' COL city VAL ` las vegas ' COL phone VAL 702/731 -7888 COL type VAL asian COL class VAL 438 
+COL name VAL feast COL addr VAL ' 2411 w. sahara ave. ' COL city VAL ` las vegas ' COL phone VAL 702/367 -2411 COL type VAL buffets COL class VAL 439 
+COL name VAL ` golden nugget hotel ' COL addr VAL ' 129 e. fremont st. ' COL city VAL ` las vegas ' COL phone VAL 702/385 -7111 COL type VAL buffets COL class VAL 440 
+COL name VAL ` golden steer ' COL addr VAL ' 308 w. sahara ave. ' COL city VAL ` las vegas ' COL phone VAL 702/384 -4470 COL type VAL ` steak houses ' COL class VAL 441 
+COL name VAL ` lillie langtry \ 's ' COL addr VAL ' 129 e. fremont st. ' COL city VAL ` las vegas ' COL phone VAL 702/385 -7111 COL type VAL asian COL class VAL 442 
+COL name VAL ` mandarin court ' COL addr VAL ' 1510 e. flamingo rd. ' COL city VAL ` las vegas ' COL phone VAL 702/737 -1234 COL type VAL asian COL class VAL 443 
+COL name VAL ` margarita \ 's mexican cantina ' COL addr VAL ' 3120 las vegas blvd. s ' COL city VAL ` las vegas ' COL phone VAL 702/794 -8200 COL type VAL mexican COL class VAL 444 
+COL name VAL ` mary \ 's diner ' COL addr VAL ' 5111 w. boulder hwy . ' COL city VAL ` las vegas ' COL phone VAL 702/454 -8073 COL type VAL ` coffee shops/diners ' COL class VAL 445 
+COL name VAL mikado COL addr VAL ' 3400 las vegas blvd. s ' COL city VAL ` las vegas ' COL phone VAL 702/791 -7111 COL type VAL asian COL class VAL 446 
+COL name VAL pamplemousse COL addr VAL ' 400 e. sahara ave. ' COL city VAL ` las vegas ' COL phone VAL 702/733 -2066 COL type VAL continental COL class VAL 447 
+COL name VAL ` ralph \ 's diner ' COL addr VAL ' 3000 las vegas blvd. s ' COL city VAL ` las vegas ' COL phone VAL 702/732 -6330 COL type VAL ` coffee shops/diners ' COL class VAL 448 
+COL name VAL ` the bacchanal ' COL addr VAL ' 3570 las vegas blvd. s ' COL city VAL ` las vegas ' COL phone VAL 702/731 -7525 COL type VAL ` only in las vegas ' COL class VAL 449 
+COL name VAL venetian COL addr VAL ' 3713 w. sahara ave. ' COL city VAL ` las vegas ' COL phone VAL 702/876 -4190 COL type VAL italian COL class VAL 450 
+COL name VAL ` viva mercado \ 's ' COL addr VAL ' 6182 w. flamingo rd. ' COL city VAL ` las vegas ' COL phone VAL 702/871 -8826 COL type VAL mexican COL class VAL 451 
+COL name VAL ` yolie \ 's ' COL addr VAL ' 3900 paradise rd. ' COL city VAL ` las vegas ' COL phone VAL 702/794 -0700 COL type VAL ` steak houses ' COL class VAL 452 
+COL name VAL 2223 COL addr VAL ' 2223 market st. ' COL city VAL ` san francisco ' COL phone VAL 415/431 -0692 COL type VAL american COL class VAL 453 
+COL name VAL acquarello COL addr VAL ' 1722 sacramento st. ' COL city VAL ` san francisco ' COL phone VAL 415/567 -5432 COL type VAL italian COL class VAL 454 
+COL name VAL ` bardelli \ 's ' COL addr VAL ' 243 o \ ` farrell st. ' COL city VAL ` san francisco ' COL phone VAL 415/982 -0243 COL type VAL ` old san francisco ' COL class VAL 455 
+COL name VAL betelnut COL addr VAL ' 2030 union st. ' COL city VAL ` san francisco ' COL phone VAL 415/929 -8855 COL type VAL asian COL class VAL 456 
+COL name VAL ` bistro roti ' COL addr VAL ' 155 steuart st. ' COL city VAL ` san francisco ' COL phone VAL 415/495 -6500 COL type VAL french COL class VAL 457 
+COL name VAL bix COL addr VAL '56 gold st. ' COL city VAL ` san francisco ' COL phone VAL 415/433 -6300 COL type VAL american COL class VAL 458 
+COL name VAL bizou COL addr VAL ' 598 fourth st. ' COL city VAL ` san francisco ' COL phone VAL 415/543 -2222 COL type VAL french COL class VAL 459 
+COL name VAL ` buca giovanni ' COL addr VAL ' 800 greenwich st. ' COL city VAL ` san francisco ' COL phone VAL 415/776 -7766 COL type VAL italian COL class VAL 460 
+COL name VAL ` cafe adriano ' COL addr VAL ' 3347 fillmore st. ' COL city VAL ` san francisco ' COL phone VAL 415/474 -4180 COL type VAL italian COL class VAL 461 
+COL name VAL ` cafe marimba ' COL addr VAL ' 2317 chestnut st. ' COL city VAL ` san francisco ' COL phone VAL 415/776 -1506 COL type VAL ` mexican/latin american/spanish ' COL class VAL 462 
+COL name VAL ` california culinary academy ' COL addr VAL ' 625 polk st. ' COL city VAL ` san francisco ' COL phone VAL 415/771 -3500 COL type VAL french COL class VAL 463 
+COL name VAL ` capp \ 's corner ' COL addr VAL ' 1600 powell st. ' COL city VAL ` san francisco ' COL phone VAL 415/989 -2589 COL type VAL italian COL class VAL 464 
+COL name VAL carta COL addr VAL ' 1772 market st. ' COL city VAL ` san francisco ' COL phone VAL 415/863 -3516 COL type VAL american COL class VAL 465 
+COL name VAL chevys COL addr VAL ' 4th and howard sts . ' COL city VAL ` san francisco ' COL phone VAL 415/543 -8060 COL type VAL ` mexican/latin american/spanish ' COL class VAL 466 
+COL name VAL ` cypress club ' COL addr VAL ' 500 jackson st. ' COL city VAL ` san francisco ' COL phone VAL 415/296 -8555 COL type VAL american COL class VAL 467 
+COL name VAL ` des alpes ' COL addr VAL ' 732 broadway ' COL city VAL ` san francisco ' COL phone VAL 415/788 -9900 COL type VAL french COL class VAL 468 
+COL name VAL faz COL addr VAL ' 161 sutter st. ' COL city VAL ` san francisco ' COL phone VAL 415/362 -0404 COL type VAL ` greek and middle eastern ' COL class VAL 469 
+COL name VAL ` fog city diner ' COL addr VAL ' 1300 battery st. ' COL city VAL ` san francisco ' COL phone VAL 415/982 -2000 COL type VAL american COL class VAL 470 
+COL name VAL ` garden court ' COL addr VAL ` market and new montgomery sts . ' COL city VAL ` san francisco ' COL phone VAL 415/546 -5011 COL type VAL ` old san francisco ' COL class VAL 471 
+COL name VAL ` gaylord \ 's ' COL addr VAL ` ghirardelli sq. ' COL city VAL ` san francisco ' COL phone VAL 415/771 -8822 COL type VAL asian COL class VAL 472 
+COL name VAL ` grand cafe hotel monaco ' COL addr VAL ' 501 geary st. ' COL city VAL ` san francisco ' COL phone VAL 415/292 -0101 COL type VAL american COL class VAL 473 
+COL name VAL greens COL addr VAL ` bldg. a fort mason ' COL city VAL ` san francisco ' COL phone VAL 415/771 -6222 COL type VAL vegetarian COL class VAL 474 
+COL name VAL ` harbor village ' COL addr VAL ' 4 embarcadero center ' COL city VAL ` san francisco ' COL phone VAL 415/781 -8833 COL type VAL asian COL class VAL 475 
+COL name VAL ` harris \ '' COL addr VAL ' 2100 van ness ave. ' COL city VAL ` san francisco ' COL phone VAL 415/673 -1888 COL type VAL ` steak houses ' COL class VAL 476 
+COL name VAL ` harry denton \ 's ' COL addr VAL ' 161 steuart st. ' COL city VAL ` san francisco ' COL phone VAL 415/882 -1333 COL type VAL american COL class VAL 477 
+COL name VAL ` hayes street grill ' COL addr VAL ' 320 hayes st. ' COL city VAL ` san francisco ' COL phone VAL 415/863 -5545 COL type VAL seafood COL class VAL 478 
+COL name VAL helmand COL addr VAL ' 430 broadway ' COL city VAL ` san francisco ' COL phone VAL 415/362 -0641 COL type VAL ` greek and middle eastern ' COL class VAL 479 
+COL name VAL ` hong kong flower lounge ' COL addr VAL ' 5322 geary blvd. ' COL city VAL ` san francisco ' COL phone VAL 415/668 -8998 COL type VAL asian COL class VAL 480 
+COL name VAL ` hong kong villa ' COL addr VAL ' 2332 clement st. ' COL city VAL ` san francisco ' COL phone VAL 415/752 -8833 COL type VAL asian COL class VAL 481 
+COL name VAL ` hyde street bistro ' COL addr VAL ' 1521 hyde st. ' COL city VAL ` san francisco ' COL phone VAL 415/441 -7778 COL type VAL italian COL class VAL 482 
+COL name VAL ` il fornaio levi \ 's plaza ' COL addr VAL ' 1265 battery st. ' COL city VAL ` san francisco ' COL phone VAL 415/986 -0100 COL type VAL italian COL class VAL 483 
+COL name VAL ` izzy \ 's steak & chop house ' COL addr VAL ' 3345 steiner st. ' COL city VAL ` san francisco ' COL phone VAL 415/563 -0487 COL type VAL ` steak houses ' COL class VAL 484 
+COL name VAL ` jack \ 's ' COL addr VAL ' 615 sacramento st. ' COL city VAL ` san francisco ' COL phone VAL 415/986 -9854 COL type VAL ` old san francisco ' COL class VAL 485 
+COL name VAL ` kabuto sushi ' COL addr VAL ' 5116 geary blvd. ' COL city VAL ` san francisco ' COL phone VAL 415/752 -5652 COL type VAL asian COL class VAL 486 
+COL name VAL ` katia \ 's ' COL addr VAL ' 600 5th ave. ' COL city VAL ` san francisco ' COL phone VAL 415/668 -9292 COL type VAL '' COL class VAL 487 
+COL name VAL ` kuleto \ 's ' COL addr VAL ' 221 powell st. ' COL city VAL ` san francisco ' COL phone VAL 415/397 -7720 COL type VAL italian COL class VAL 488 
+COL name VAL ` kyo-ya . sheraton palace hotel ' COL addr VAL ' 2 new montgomery st. at market st. ' COL city VAL ` san francisco ' COL phone VAL 415/546 -5000 COL type VAL asian COL class VAL 489 
+COL name VAL ` l \ ` osteria del forno ' COL addr VAL ' 519 columbus ave. ' COL city VAL ` san francisco ' COL phone VAL 415/982 -1124 COL type VAL italian COL class VAL 490 
+COL name VAL ` le central ' COL addr VAL ' 453 bush st. ' COL city VAL ` san francisco ' COL phone VAL 415/391 -2233 COL type VAL french COL class VAL 491 
+COL name VAL ` le soleil ' COL addr VAL ' 133 clement st. ' COL city VAL ` san francisco ' COL phone VAL 415/668 -4848 COL type VAL asian COL class VAL 492 
+COL name VAL ` macarthur park ' COL addr VAL ' 607 front st. ' COL city VAL ` san francisco ' COL phone VAL 415/398 -5700 COL type VAL american COL class VAL 493 
+COL name VAL manora COL addr VAL ' 3226 mission st. ' COL city VAL ` san francisco ' COL phone VAL 415/861 -6224 COL type VAL asian COL class VAL 494 
+COL name VAL maykadeh COL addr VAL ' 470 green st. ' COL city VAL ` san francisco ' COL phone VAL 415/362 -8286 COL type VAL ` greek and middle eastern ' COL class VAL 495 
+COL name VAL ` mccormick & kuleto \ 's ' COL addr VAL ` ghirardelli sq. ' COL city VAL ` san francisco ' COL phone VAL 415/929 -1730 COL type VAL seafood COL class VAL 496 
+COL name VAL millennium COL addr VAL ' 246 mcallister st. ' COL city VAL ` san francisco ' COL phone VAL 415/487 -9800 COL type VAL vegetarian COL class VAL 497 
+COL name VAL ` moose \ 's ' COL addr VAL ' 1652 stockton st. ' COL city VAL ` san francisco ' COL phone VAL 415/989 -7800 COL type VAL mediterranean COL class VAL 498 
+COL name VAL ` north india ' COL addr VAL ' 3131 webster st. ' COL city VAL ` san francisco ' COL phone VAL 415/931 -1556 COL type VAL asian COL class VAL 499 
+COL name VAL ` one market ' COL addr VAL ' 1 market st. ' COL city VAL ` san francisco ' COL phone VAL 415/777 -5577 COL type VAL american COL class VAL 500 
+COL name VAL oritalia COL addr VAL ' 1915 fillmore st. ' COL city VAL ` san francisco ' COL phone VAL 415/346 -1333 COL type VAL italian COL class VAL 501 
+COL name VAL ` pacific pan pacific hotel ' COL addr VAL ' 500 post st. ' COL city VAL ` san francisco ' COL phone VAL 415/929 -2087 COL type VAL french COL class VAL 502 
+COL name VAL ` palio d \ ` asti ' COL addr VAL ' 640 sacramento st. ' COL city VAL ` san francisco ' COL phone VAL 415/395 -9800 COL type VAL italian COL class VAL 503 
+COL name VAL ` pane e vino ' COL addr VAL ' 3011 steiner st. ' COL city VAL ` san francisco ' COL phone VAL 415/346 -2111 COL type VAL italian COL class VAL 504 
+COL name VAL pastis COL addr VAL ' 1015 battery st. ' COL city VAL ` san francisco ' COL phone VAL 415/391 -2555 COL type VAL french COL class VAL 505 
+COL name VAL ` perry \ 's ' COL addr VAL ' 1944 union st. ' COL city VAL ` san francisco ' COL phone VAL 415/922 -9022 COL type VAL american COL class VAL 506 
+COL name VAL ` r & g lounge ' COL addr VAL ' 631 b kearny st. ' COL city VAL ` san francisco ' COL phone VAL 415/982 -7877 COL type VAL ` or 415/982 -3811 asian ' COL class VAL 507 
+COL name VAL rubicon COL addr VAL ' 558 sacramento st. ' COL city VAL ` san francisco ' COL phone VAL 415/434 -4100 COL type VAL american COL class VAL 508 
+COL name VAL rumpus COL addr VAL ' 1 tillman pl . ' COL city VAL ` san francisco ' COL phone VAL 415/421 -2300 COL type VAL american COL class VAL 509 
+COL name VAL sanppo COL addr VAL ' 1702 post st. ' COL city VAL ` san francisco ' COL phone VAL 415/346 -3486 COL type VAL asian COL class VAL 510 
+COL name VAL ` scala \ 's bistro ' COL addr VAL ' 432 powell st. ' COL city VAL ` san francisco ' COL phone VAL 415/395 -8555 COL type VAL italian COL class VAL 511 
+COL name VAL ` south park cafe ' COL addr VAL ' 108 south park ' COL city VAL ` san francisco ' COL phone VAL 415/495 -7275 COL type VAL french COL class VAL 512 
+COL name VAL ` splendido embarcadero ' COL addr VAL 4 COL city VAL ` san francisco ' COL phone VAL 415/986 -3222 COL type VAL mediterranean COL class VAL 513 
+COL name VAL stars COL addr VAL ' 150 redwood alley ' COL city VAL ` san francisco ' COL phone VAL 415/861 -7827 COL type VAL american COL class VAL 514 
+COL name VAL ` stars cafe ' COL addr VAL ' 500 van ness ave. ' COL city VAL ` san francisco ' COL phone VAL 415/861 -4344 COL type VAL american COL class VAL 515 
+COL name VAL ` stoyanof \ 's cafe ' COL addr VAL ' 1240 9th ave. ' COL city VAL ` san francisco ' COL phone VAL 415/664 -3664 COL type VAL ` greek and middle eastern ' COL class VAL 516 
+COL name VAL ` straits cafe ' COL addr VAL ' 3300 geary blvd. ' COL city VAL ` san francisco ' COL phone VAL 415/668 -1783 COL type VAL asian COL class VAL 517 
+COL name VAL suppenkuche COL addr VAL ' 601 hayes st. ' COL city VAL ` san francisco ' COL phone VAL 415/252 -9289 COL type VAL russian/german COL class VAL 518 
+COL name VAL ` tadich grill ' COL addr VAL ' 240 california st. ' COL city VAL ` san francisco ' COL phone VAL 415/391 -2373 COL type VAL seafood COL class VAL 519 
+COL name VAL ` the heights ' COL addr VAL ' 3235 sacramento st. ' COL city VAL ` san francisco ' COL phone VAL 415/474 -8890 COL type VAL french COL class VAL 520 
+COL name VAL thepin COL addr VAL ' 298 gough st. ' COL city VAL ` san francisco ' COL phone VAL 415/863 -9335 COL type VAL asian COL class VAL 521 
+COL name VAL ` ton kiang ' COL addr VAL ' 3148 geary blvd. ' COL city VAL ` san francisco ' COL phone VAL 415/752 -4440 COL type VAL asian COL class VAL 522 
+COL name VAL vertigo COL addr VAL ' 600 montgomery st. ' COL city VAL ` san francisco ' COL phone VAL 415/433 -7250 COL type VAL mediterranean COL class VAL 523 
+COL name VAL ` vivande porta via ' COL addr VAL ' 2125 fillmore st. ' COL city VAL ` san francisco ' COL phone VAL 415/346 -4430 COL type VAL italian COL class VAL 524 
+COL name VAL ` vivande ristorante ' COL addr VAL ' 670 golden gate ave. ' COL city VAL ` san francisco ' COL phone VAL 415/673 -9245 COL type VAL italian COL class VAL 525 
+COL name VAL ` world wrapps ' COL addr VAL ' 2257 chestnut st. ' COL city VAL ` san francisco ' COL phone VAL 415/563 -9727 COL type VAL american COL class VAL 526 
+COL name VAL ` wu kong ' COL addr VAL ' 101 spear st. ' COL city VAL ` san francisco ' COL phone VAL 415/957 -9300 COL type VAL asian COL class VAL 527 
+COL name VAL ` yank sing ' COL addr VAL ' 427 battery st. ' COL city VAL ` san francisco ' COL phone VAL 415/541 -4949 COL type VAL asian COL class VAL 528 
+COL name VAL ` yaya cuisine ' COL addr VAL ' 1220 9th ave. ' COL city VAL ` san francisco ' COL phone VAL 415/566 -6966 COL type VAL ` greek and middle eastern ' COL class VAL 529 
+COL name VAL ` yoyo tsumami bistro ' COL addr VAL ' 1611 post st. ' COL city VAL ` san francisco ' COL phone VAL 415/922 -7788 COL type VAL french COL class VAL 530 
+COL name VAL zarzuela COL addr VAL ' 2000 hyde st. ' COL city VAL ` san francisco ' COL phone VAL 415/346 -0800 COL type VAL ` mexican/latin american/spanish ' COL class VAL 531 
+COL name VAL ` zuni cafe & grill ' COL addr VAL ' 1658 market st. ' COL city VAL ` san francisco ' COL phone VAL 415/552 -2522 COL type VAL mediterranean COL class VAL 532 
+COL name VAL ` apple pan the ' COL addr VAL ' 10801 w. pico blvd. ' COL city VAL ` west la ' COL phone VAL 310-475-3585 COL type VAL american COL class VAL 534 
+COL name VAL ` asahi ramen ' COL addr VAL ' 2027 sawtelle blvd. ' COL city VAL ` west la ' COL phone VAL 310-479-2231 COL type VAL ` noodle shops ' COL class VAL 535 
+COL name VAL ` baja fresh ' COL addr VAL ' 3345 kimber dr. ' COL city VAL ` westlake village ' COL phone VAL 805-498-4049 COL type VAL mexican COL class VAL 536 
+COL name VAL ` belvedere the ' COL addr VAL ' 9882 little santa monica blvd. ' COL city VAL ` beverly hills ' COL phone VAL 310-788-2306 COL type VAL ` pacific new wave ' COL class VAL 537 
+COL name VAL ` benita \ 's frites ' COL addr VAL ' 1433 third st. promenade ' COL city VAL ` santa monica ' COL phone VAL 310-458-2889 COL type VAL ` fast food ' COL class VAL 538 
+COL name VAL ` bernard \ 's ' COL addr VAL ' 515 s. olive st. ' COL city VAL ` los angeles ' COL phone VAL 213-612-1580 COL type VAL continental COL class VAL 539 
+COL name VAL ` bistro 45 ' COL addr VAL '45 s. mentor ave. ' COL city VAL pasadena COL phone VAL 818-795-2478 COL type VAL californian COL class VAL 540 
+COL name VAL ` brent \ 's deli ' COL addr VAL ' 19565 parthenia ave. ' COL city VAL northridge COL phone VAL 818-886-5679 COL type VAL delis COL class VAL 541 
+COL name VAL ` brighton coffee shop ' COL addr VAL ' 9600 brighton way ' COL city VAL ` beverly hills ' COL phone VAL 310-276-7732 COL type VAL ` coffee shops ' COL class VAL 542 
+COL name VAL ` bristol farms market cafe ' COL addr VAL ' 1570 rosecrans ave. s. ' COL city VAL pasadena COL phone VAL 310-643-5229 COL type VAL californian COL class VAL 543 
+COL name VAL ` bruno \ 's ' COL addr VAL ' 3838 centinela ave. ' COL city VAL ` mar vista ' COL phone VAL 310-397-5703 COL type VAL italian COL class VAL 544 
+COL name VAL ` cafe \ '50s ' COL addr VAL ' 838 lincoln blvd. ' COL city VAL venice COL phone VAL 310-399-1955 COL type VAL american COL class VAL 545 
+COL name VAL ` cafe blanc ' COL addr VAL ' 9777 little santa monica blvd. ' COL city VAL ` beverly hills ' COL phone VAL 310-888-0108 COL type VAL ` pacific new wave ' COL class VAL 546 
+COL name VAL ` cassell \ 's ' COL addr VAL ' 3266 w. sixth st. ' COL city VAL la COL phone VAL 213-480-8668 COL type VAL hamburgers COL class VAL 547 
+COL name VAL ` chez melange ' COL addr VAL ' 1716 pch ' COL city VAL ` redondo beach ' COL phone VAL 310-540-1222 COL type VAL eclectic COL class VAL 548 
+COL name VAL diaghilev COL addr VAL ' 1020 n. san vicente blvd. ' COL city VAL ` w. hollywood ' COL phone VAL 310-854-1111 COL type VAL russian COL class VAL 549 
+COL name VAL ` don antonio \ 's ' COL addr VAL ' 1136 westwood blvd. ' COL city VAL westwood COL phone VAL 310-209-1422 COL type VAL italian COL class VAL 550 
+COL name VAL ` duke \ 's ' COL addr VAL ' 8909 sunset blvd. ' COL city VAL ` w. hollywood ' COL phone VAL 310-652-3100 COL type VAL ` coffee shops ' COL class VAL 551 
+COL name VAL ` falafel king ' COL addr VAL ' 1059 broxton ave. ' COL city VAL westwood COL phone VAL 310-208-4444 COL type VAL ` middle eastern ' COL class VAL 552 
+COL name VAL ` feast from the east ' COL addr VAL ' 1949 westwood blvd. ' COL city VAL ` west la ' COL phone VAL 310-475-0400 COL type VAL chinese COL class VAL 553 
+COL name VAL ` gumbo pot the ' COL addr VAL ' 6333 w. third st. ' COL city VAL la COL phone VAL 213-933-0358 COL type VAL cajun/creole COL class VAL 554 
+COL name VAL ` hollywood hills coffee shop ' COL addr VAL ' 6145 franklin ave. ' COL city VAL hollywood COL phone VAL 213-467-7678 COL type VAL ` coffee shops ' COL class VAL 555 
+COL name VAL ` indo cafe ' COL addr VAL ' 10428 1/2 national blvd. ' COL city VAL la COL phone VAL 310-815-1290 COL type VAL indonesian COL class VAL 556 
+COL name VAL ` jan \ 's family restaurant ' COL addr VAL ' 8424 beverly blvd. ' COL city VAL la COL phone VAL 213-651-2866 COL type VAL ` coffee shops ' COL class VAL 557 
+COL name VAL jiraffe COL addr VAL ' 502 santa monica blvd ' COL city VAL ` santa monica ' COL phone VAL 310-917-6671 COL type VAL californian COL class VAL 558 
+COL name VAL ` jody maroni \ 's sausage kingdom ' COL addr VAL ' 2011 ocean front walk ' COL city VAL venice COL phone VAL 310-306-1995 COL type VAL ` hot dogs ' COL class VAL 559 
+COL name VAL ` joe \ 's ' COL addr VAL ' 1023 abbot kinney blvd. ' COL city VAL venice COL phone VAL 310-399-5811 COL type VAL ` american ( new ) ' COL class VAL 560 
+COL name VAL ` john o \ ` groats ' COL addr VAL ' 10516 w. pico blvd. ' COL city VAL ` west la ' COL phone VAL 310-204-0692 COL type VAL ` coffee shops ' COL class VAL 561 
+COL name VAL ` johnnie \ 's pastrami ' COL addr VAL ' 4017 s. sepulveda blvd. ' COL city VAL ` culver city ' COL phone VAL 310-397-6654 COL type VAL delis COL class VAL 562 
+COL name VAL ` johnny reb \ 's southern smokehouse ' COL addr VAL ' 4663 long beach blvd. ' COL city VAL ` long beach ' COL phone VAL 310-423-7327 COL type VAL southern/soul COL class VAL 563 
+COL name VAL ` johnny rockets ( la ) ' COL addr VAL ' 7507 melrose ave. ' COL city VAL la COL phone VAL 213-651-3361 COL type VAL american COL class VAL 564 
+COL name VAL ` killer shrimp ' COL addr VAL ' 4000 colfax ave. ' COL city VAL ` studio city ' COL phone VAL 818-508-1570 COL type VAL seafood COL class VAL 565 
+COL name VAL ` kokomo cafe ' COL addr VAL ' 6333 w. third st. ' COL city VAL la COL phone VAL 213-933-0773 COL type VAL american COL class VAL 566 
+COL name VAL ` koo koo roo ' COL addr VAL ' 8393 w. beverly blvd. ' COL city VAL la COL phone VAL 213-655-9045 COL type VAL chicken COL class VAL 567 
+COL name VAL ` la cachette ' COL addr VAL ' 10506 little santa monica blvd. ' COL city VAL ` century city ' COL phone VAL 310-470-4992 COL type VAL ` french ( new ) ' COL class VAL 568 
+COL name VAL ` la salsa ( la ) ' COL addr VAL ' 22800 pch ' COL city VAL malibu COL phone VAL 310-456-6299 COL type VAL mexican COL class VAL 569 
+COL name VAL ` la serenata de garibaldi ' COL addr VAL ' 1842 e. first ' COL city VAL ` st. boyle hts . ' COL phone VAL 213-265-2887 COL type VAL mexican/tex-mex COL class VAL 570 
+COL name VAL ` langer \ 's ' COL addr VAL ' 704 s. alvarado st. ' COL city VAL la COL phone VAL 213-483-8050 COL type VAL delis COL class VAL 571 
+COL name VAL ` local nochol ' COL addr VAL ' 30869 thousand oaks blvd. ' COL city VAL ` westlake village ' COL phone VAL 818-706-7706 COL type VAL ` health food ' COL class VAL 572 
+COL name VAL ` main course the ' COL addr VAL ' 10509 w. pico blvd. ' COL city VAL ` rancho park ' COL phone VAL 310-475-7564 COL type VAL american COL class VAL 573 
+COL name VAL ` mani \ 's bakery & espresso bar ' COL addr VAL ' 519 s. fairfax ave. ' COL city VAL la COL phone VAL 213-938-8800 COL type VAL desserts COL class VAL 574 
+COL name VAL ` martha \ 's ' COL addr VAL ' 22nd street grill 25 22nd ' COL city VAL ` st. hermosa beach ' COL phone VAL 310-376-7786 COL type VAL american COL class VAL 575 
+COL name VAL ` maxwell \ 's cafe ' COL addr VAL ' 13329 washington blvd. ' COL city VAL ` marina del rey ' COL phone VAL 310-306-7829 COL type VAL american COL class VAL 576 
+COL name VAL ` michael \ 's ( los angeles ) ' COL addr VAL ' 1147 third st. ' COL city VAL ` santa monica ' COL phone VAL 310-451-0843 COL type VAL californian COL class VAL 577 
+COL name VAL mishima COL addr VAL ' 8474 w. third st. ' COL city VAL la COL phone VAL 213-782-0181 COL type VAL ` noodle shops ' COL class VAL 578 
+COL name VAL ` mo better meatty meat ' COL addr VAL ' 7261 melrose ave. ' COL city VAL la COL phone VAL 213-935-5280 COL type VAL hamburgers COL class VAL 579 
+COL name VAL ` mulberry st. ' COL addr VAL ' 17040 ventura blvd. ' COL city VAL encino COL phone VAL 818-906-8881 COL type VAL pizza COL class VAL 580 
+COL name VAL ` ocean park cafe ' COL addr VAL ' 3117 ocean park blvd. ' COL city VAL ` santa monica ' COL phone VAL 310-452-5728 COL type VAL american COL class VAL 581 
+COL name VAL ` ocean star ' COL addr VAL ' 145 n. atlantic blvd. ' COL city VAL ` monterey park ' COL phone VAL 818-308-2128 COL type VAL seafood COL class VAL 582 
+COL name VAL ` original pantry bakery ' COL addr VAL ' 875 s. figueroa st. downtown ' COL city VAL la COL phone VAL 213-627-6879 COL type VAL diners COL class VAL 583 
+COL name VAL ` parkway grill ' COL addr VAL ' 510 s. arroyo pkwy . ' COL city VAL pasadena COL phone VAL 818-795-1001 COL type VAL californian COL class VAL 584 
+COL name VAL ` pho hoa ' COL addr VAL ' 642 broadway ' COL city VAL chinatown COL phone VAL 213-626-5530 COL type VAL vietnamese COL class VAL 585 
+COL name VAL ` pink \ 's famous chili dogs ' COL addr VAL ' 709 n. la brea ave. ' COL city VAL la COL phone VAL 213-931-4223 COL type VAL ` hot dogs ' COL class VAL 586 
+COL name VAL ` poquito mas ' COL addr VAL ' 2635 w. olive ave. ' COL city VAL burbank COL phone VAL 818-563-2252 COL type VAL mexican COL class VAL 587 
+COL name VAL r-23 COL addr VAL ' 923 e. third st. ' COL city VAL ` los angeles ' COL phone VAL 213-687-7178 COL type VAL japanese COL class VAL 588 
+COL name VAL ` rae \ 's ' COL addr VAL ' 2901 pico blvd. ' COL city VAL ` santa monica ' COL phone VAL 310-828-7937 COL type VAL diners COL class VAL 589 
+COL name VAL ` rubin \ 's red hots ' COL addr VAL ' 15322 ventura blvd. ' COL city VAL encino COL phone VAL 818-905-6515 COL type VAL ` hot dogs ' COL class VAL 590 
+COL name VAL ` ruby \ 's ( la ) ' COL addr VAL '45 s. fair oaks ave. ' COL city VAL pasadena COL phone VAL 818-796-7829 COL type VAL diners COL class VAL 591 
+COL name VAL ` russell \ 's burgers ' COL addr VAL ' 1198 pch ' COL city VAL ` seal beach ' COL phone VAL 310-596-9556 COL type VAL hamburgers COL class VAL 592 
+COL name VAL ` ruth \ 's chris steak house ( los angeles ) ' COL addr VAL ' 224 s. beverly dr. ' COL city VAL ` beverly hills ' COL phone VAL 310-859-8744 COL type VAL steakhouses COL class VAL 593 
+COL name VAL shiro COL addr VAL ' 1505 mission st. s. ' COL city VAL pasadena COL phone VAL 818-799-4774 COL type VAL ` pacific new wave ' COL class VAL 594 
+COL name VAL ` sushi nozawa ' COL addr VAL ' 11288 ventura blvd. ' COL city VAL ` studio city ' COL phone VAL 818-508-7017 COL type VAL japanese COL class VAL 595 
+COL name VAL ` sweet lady jane ' COL addr VAL ' 8360 melrose ave. ' COL city VAL la COL phone VAL 213-653-7145 COL type VAL desserts COL class VAL 596 
+COL name VAL taiko COL addr VAL ' 11677 san vicente blvd. ' COL city VAL brentwood COL phone VAL 310-207-7782 COL type VAL ` noodle shops ' COL class VAL 597 
+COL name VAL ` tommy \ 's ' COL addr VAL ' 2575 beverly blvd. ' COL city VAL la COL phone VAL 213-389-9060 COL type VAL hamburgers COL class VAL 598 
+COL name VAL ` uncle bill \ 's pancake house ' COL addr VAL ' 1305 highland ave. ' COL city VAL ` manhattan beach ' COL phone VAL 310-545-5177 COL type VAL diners COL class VAL 599 
+COL name VAL ` water grill ' COL addr VAL ' 544 s. grand ave. ' COL city VAL ` los angeles ' COL phone VAL 213-891-0900 COL type VAL seafood COL class VAL 600 
+COL name VAL ` zankou chicken ' COL addr VAL ' 1415 e. colorado st. ' COL city VAL glendale COL phone VAL 818-244-1937 COL type VAL ` middle eastern ' COL class VAL 601 
+COL name VAL ` afghan kebab house ' COL addr VAL ' 764 ninth ave. ' COL city VAL ` new york city ' COL phone VAL 212-307-1612 COL type VAL afghan COL class VAL 602 
+COL name VAL arcadia COL addr VAL '21 e. 62nd st. ' COL city VAL ` new york city ' COL phone VAL 212-223-2900 COL type VAL ` american ( new ) ' COL class VAL 603 
+COL name VAL ` benny \ 's burritos ' COL addr VAL '93 ave. a ' COL city VAL ` new york city ' COL phone VAL 212-254-2054 COL type VAL mexican COL class VAL 604 
+COL name VAL ` cafe con leche ' COL addr VAL ' 424 amsterdam ave. ' COL city VAL ` new york city ' COL phone VAL 212-595-7000 COL type VAL cuban COL class VAL 605 
+COL name VAL ` corner bistro ' COL addr VAL ' 331 w. fourth st. ' COL city VAL ` new york city ' COL phone VAL 212-242-9502 COL type VAL hamburgers COL class VAL 606 
+COL name VAL ` cucina della fontana ' COL addr VAL ' 368 bleecker st. ' COL city VAL ` new york city ' COL phone VAL 212-242-0636 COL type VAL italian COL class VAL 607 
+COL name VAL ` cucina di pesce ' COL addr VAL '87 e. fourth st. ' COL city VAL ` new york city ' COL phone VAL 212-260-6800 COL type VAL seafood COL class VAL 608 
+COL name VAL darbar COL addr VAL '44 w. 56th st. ' COL city VAL ` new york city ' COL phone VAL 212-432-7227 COL type VAL indian COL class VAL 609 
+COL name VAL ` ej \ 's luncheonette ' COL addr VAL ' 432 sixth ave. ' COL city VAL ` new york city ' COL phone VAL 212-473-5555 COL type VAL diners COL class VAL 610 
+COL name VAL ` edison cafe ' COL addr VAL ' 228 w. 47th st. ' COL city VAL ` new york city ' COL phone VAL 212-840-5000 COL type VAL diners COL class VAL 611 
+COL name VAL ` elias corner ' COL addr VAL ' 24-02 31st st. ' COL city VAL queens COL phone VAL 718-932-1510 COL type VAL greek COL class VAL 612 
+COL name VAL ` good enough to eat ' COL addr VAL ' 483 amsterdam ave. ' COL city VAL ` new york city ' COL phone VAL 212-496-0163 COL type VAL american COL class VAL 613 
+COL name VAL ` gray \ 's papaya ' COL addr VAL ' 2090 broadway ' COL city VAL ` new york city ' COL phone VAL 212-799-0243 COL type VAL ` hot dogs ' COL class VAL 614 
+COL name VAL ` il mulino ' COL addr VAL '86 w. third st. ' COL city VAL ` new york city ' COL phone VAL 212-673-3783 COL type VAL italian COL class VAL 615 
+COL name VAL ` jackson diner ' COL addr VAL ' 37-03 74th st. ' COL city VAL queens COL phone VAL 718-672-1232 COL type VAL indian COL class VAL 616 
+COL name VAL ` joe \ 's shanghai ' COL addr VAL ' 9 pell st. ' COL city VAL queens COL phone VAL 718-539-3838 COL type VAL chinese COL class VAL 617 
+COL name VAL ` john \ 's pizzeria ' COL addr VAL '48 w. 65th st. ' COL city VAL ` new york city ' COL phone VAL 212-721-7001 COL type VAL pizza COL class VAL 618 
+COL name VAL ` kelley & ping ' COL addr VAL ' 127 greene st. ' COL city VAL ` new york city ' COL phone VAL 212-228-1212 COL type VAL pan-asian COL class VAL 619 
+COL name VAL kiev COL addr VAL ' 117 second ave. ' COL city VAL ` new york city ' COL phone VAL 212-674-4040 COL type VAL ukrainian COL class VAL 620 
+COL name VAL ` kuruma zushi ' COL addr VAL ' 2nd fl . ' COL city VAL ` new york city ' COL phone VAL 212-317-2802 COL type VAL japanese COL class VAL 621 
+COL name VAL ` la caridad ' COL addr VAL ' 2199 broadway ' COL city VAL ` new york city ' COL phone VAL 212-874-2780 COL type VAL cuban COL class VAL 622 
+COL name VAL ` la grenouille ' COL addr VAL ' 3 e. 52nd st. ' COL city VAL ` new york city ' COL phone VAL 212-752-1495 COL type VAL ` french ( classic ) ' COL class VAL 623 
+COL name VAL ` lemongrass grill ' COL addr VAL ' 61a seventh ave. ' COL city VAL brooklyn COL phone VAL 718-399-7100 COL type VAL thai COL class VAL 624 
+COL name VAL ` lombardi \ 's ' COL addr VAL '32 spring st. ' COL city VAL ` new york city ' COL phone VAL 212-941-7994 COL type VAL pizza COL class VAL 625 
+COL name VAL ` marnie \ 's noodle shop ' COL addr VAL ' 466 hudson st. ' COL city VAL ` new york city ' COL phone VAL 212-741-3214 COL type VAL asian COL class VAL 626 
+COL name VAL menchanko-tei COL addr VAL '39 w. 55th st. ' COL city VAL ` new york city ' COL phone VAL 212-247-1585 COL type VAL japanese COL class VAL 627 
+COL name VAL ` mitali east-west ' COL addr VAL ' 296 bleecker st. ' COL city VAL ` new york city ' COL phone VAL 212-989-1367 COL type VAL indian COL class VAL 628 
+COL name VAL ` monsoon ( ny ) ' COL addr VAL ' 435 amsterdam ave. ' COL city VAL ` new york city ' COL phone VAL 212-580-8686 COL type VAL thai COL class VAL 629 
+COL name VAL moustache COL addr VAL ' 405 atlantic ave. ' COL city VAL brooklyn COL phone VAL 718-852-5555 COL type VAL ` middle eastern ' COL class VAL 630 
+COL name VAL nobu COL addr VAL ' 105 hudson st. ' COL city VAL ` new york city ' COL phone VAL 212-219-0500 COL type VAL japanese COL class VAL 631 
+COL name VAL ` one if by land tibs ' COL addr VAL '17 barrow st. ' COL city VAL ` new york city ' COL phone VAL 212-228-0822 COL type VAL continental COL class VAL 632 
+COL name VAL ` oyster bar ' COL addr VAL ` lower level ' COL city VAL ` new york city ' COL phone VAL 212-490-6650 COL type VAL seafood COL class VAL 633 
+COL name VAL palm COL addr VAL ' 837 second ave. ' COL city VAL ` new york city ' COL phone VAL 212-687-2953 COL type VAL steakhouses COL class VAL 634 
+COL name VAL ` palm too ' COL addr VAL ' 840 second ave. ' COL city VAL ` new york city ' COL phone VAL 212-697-5198 COL type VAL steakhouses COL class VAL 635 
+COL name VAL ` patsy \ 's pizza ' COL addr VAL '19 old fulton st. ' COL city VAL brooklyn COL phone VAL 718-858-4300 COL type VAL pizza COL class VAL 636 
+COL name VAL ` peter luger steak house ' COL addr VAL ' 178 broadway ' COL city VAL brooklyn COL phone VAL 718-387-7400 COL type VAL steakhouses COL class VAL 637 
+COL name VAL ` rose of india ' COL addr VAL ' 308 e. sixth st. ' COL city VAL ` new york city ' COL phone VAL 212-533-5011 COL type VAL indian COL class VAL 638 
+COL name VAL ` sam \ 's noodle shop ' COL addr VAL ' 411 third ave. ' COL city VAL ` new york city ' COL phone VAL 212-213-2288 COL type VAL chinese COL class VAL 639 
+COL name VAL ` sarabeth \ 's ' COL addr VAL ' 1295 madison ave. ' COL city VAL ` new york city ' COL phone VAL 212-410-7335 COL type VAL american COL class VAL 640 
+COL name VAL ` sparks steak house ' COL addr VAL ' 210 e. 46th st. ' COL city VAL ` new york city ' COL phone VAL 212-687-4855 COL type VAL steakhouses COL class VAL 641 
+COL name VAL ` stick to your ribs ' COL addr VAL ' 5-16 51st ave. ' COL city VAL queens COL phone VAL 718-937-3030 COL type VAL bbq COL class VAL 642 
+COL name VAL sushisay COL addr VAL '38 e. 51st st. ' COL city VAL ` new york city ' COL phone VAL 212-755-1780 COL type VAL japanese COL class VAL 643 
+COL name VAL ` sylvia \ 's ' COL addr VAL ' 328 lenox ave. ' COL city VAL ` new york city ' COL phone VAL 212-996-0660 COL type VAL southern/soul COL class VAL 644 
+COL name VAL ` szechuan hunan cottage ' COL addr VAL ' 1588 york ave. ' COL city VAL ` new york city ' COL phone VAL 212-535-5223 COL type VAL chinese COL class VAL 645 
+COL name VAL ` szechuan kitchen ' COL addr VAL ' 1460 first ave. ' COL city VAL ` new york city ' COL phone VAL 212-249-4615 COL type VAL chinese COL class VAL 646 
+COL name VAL ` teresa \ 's ' COL addr VAL '80 montague st. ' COL city VAL queens COL phone VAL 718-520-2910 COL type VAL polish COL class VAL 647 
+COL name VAL ` thai house cafe ' COL addr VAL ' 151 hudson st. ' COL city VAL ` new york city ' COL phone VAL 212-334-1085 COL type VAL thai COL class VAL 648 
+COL name VAL ` thailand restaurant ' COL addr VAL ' 106 bayard st. ' COL city VAL ` new york city ' COL phone VAL 212-349-3132 COL type VAL thai COL class VAL 649 
+COL name VAL veselka COL addr VAL ' 144 second ave. ' COL city VAL ` new york city ' COL phone VAL 212-228-9682 COL type VAL ukrainian COL class VAL 650 
+COL name VAL ` westside cottage ' COL addr VAL ' 689 ninth ave. ' COL city VAL ` new york city ' COL phone VAL 212-245-0800 COL type VAL chinese COL class VAL 651 
+COL name VAL ` windows on the world ' COL addr VAL ' 107th fl . ' COL city VAL ` new york city ' COL phone VAL 212-524-7000 COL type VAL eclectic COL class VAL 652 
+COL name VAL ` wollensky \ 's grill ' COL addr VAL ' 205 e. 49th st. ' COL city VAL ` new york city ' COL phone VAL 212-753-0444 COL type VAL steakhouses COL class VAL 653 
+COL name VAL yama COL addr VAL ' 122 e. 17th st. ' COL city VAL ` new york city ' COL phone VAL 212-475-0969 COL type VAL japanese COL class VAL 654 
+COL name VAL zarela COL addr VAL ' 953 second ave. ' COL city VAL ` new york city ' COL phone VAL 212-644-6740 COL type VAL mexican COL class VAL 655 
+COL name VAL ` andre \ 's french restaurant ' COL addr VAL ' 401 s. 6th st. ' COL city VAL ` las vegas ' COL phone VAL 702-385-5016 COL type VAL ` french ( classic ) ' COL class VAL 656 
+COL name VAL ` buccaneer bay club ' COL addr VAL ' 3300 las vegas blvd. s. ' COL city VAL ` las vegas ' COL phone VAL 702-894-7350 COL type VAL continental COL class VAL 657 
+COL name VAL ` buzio \ 's in the rio ' COL addr VAL ' 3700 w. flamingo rd. ' COL city VAL ` las vegas ' COL phone VAL 702-252-7697 COL type VAL seafood COL class VAL 658 
+COL name VAL 'em eril \ 's new orleans fish house ' COL addr VAL ' 3799 las vegas blvd. s. ' COL city VAL ` las vegas ' COL phone VAL 702-891-7374 COL type VAL seafood COL class VAL 659 
+COL name VAL ` fiore rotisserie & grille ' COL addr VAL ' 3700 w. flamingo rd. ' COL city VAL ` las vegas ' COL phone VAL 702-252-7702 COL type VAL italian COL class VAL 660 
+COL name VAL ` hugo \ 's cellar ' COL addr VAL ' 202 e. fremont st. ' COL city VAL ` las vegas ' COL phone VAL 702-385-4011 COL type VAL continental COL class VAL 661 
+COL name VAL ` madame ching \ 's ' COL addr VAL ' 3300 las vegas blvd. s. ' COL city VAL ` las vegas ' COL phone VAL 702-894-7111 COL type VAL asian COL class VAL 662 
+COL name VAL ` mayflower cuisinier ' COL addr VAL ' 4750 w. sahara ave. ' COL city VAL ` las vegas ' COL phone VAL 702-870-8432 COL type VAL chinese COL class VAL 663 
+COL name VAL ` michael \ 's ( las vegas ) ' COL addr VAL ' 3595 las vegas blvd. s. ' COL city VAL ` las vegas ' COL phone VAL 702-737-7111 COL type VAL continental COL class VAL 664 
+COL name VAL ` monte carlo ' COL addr VAL ' 3145 las vegas blvd. s. ' COL city VAL ` las vegas ' COL phone VAL 702-733-4524 COL type VAL ` french ( new ) ' COL class VAL 665 
+COL name VAL moongate COL addr VAL ' 3400 las vegas blvd. s. ' COL city VAL ` las vegas ' COL phone VAL 702-791-7352 COL type VAL chinese COL class VAL 666 
+COL name VAL ` morton \ 's of chicago ( las vegas ) ' COL addr VAL ' 3200 las vegas blvd. s. ' COL city VAL ` las vegas ' COL phone VAL 702-893-0703 COL type VAL steakhouses COL class VAL 667 
+COL name VAL ` nicky blair \ 's ' COL addr VAL ' 3925 paradise rd. ' COL city VAL ` las vegas ' COL phone VAL 702-792-9900 COL type VAL italian COL class VAL 668 
+COL name VAL ` piero \ 's restaurant ' COL addr VAL ' 355 convention center dr. ' COL city VAL ` las vegas ' COL phone VAL 702-369-2305 COL type VAL italian COL class VAL 669 
+COL name VAL ` spago ( las vegas ) ' COL addr VAL ' 3500 las vegas blvd. s. ' COL city VAL ` las vegas ' COL phone VAL 702-369-6300 COL type VAL californian COL class VAL 670 
+COL name VAL ` steakhouse the ' COL addr VAL ' 128 e. fremont st. ' COL city VAL ` las vegas ' COL phone VAL 702-382-1600 COL type VAL steakhouses COL class VAL 671 
+COL name VAL ` stefano \ 's ' COL addr VAL ' 129 fremont st. ' COL city VAL ` las vegas ' COL phone VAL 702-385-7111 COL type VAL italian COL class VAL 672 
+COL name VAL ` sterling brunch ' COL addr VAL ' 3645 las vegas blvd. s. ' COL city VAL ` las vegas ' COL phone VAL 702-739-4651 COL type VAL eclectic COL class VAL 673 
+COL name VAL ` tre visi ' COL addr VAL ' 3799 las vegas blvd. s. ' COL city VAL ` las vegas ' COL phone VAL 702-891-7331 COL type VAL italian COL class VAL 674 
+COL name VAL ' 103 west ' COL addr VAL ' 103 w. paces ferry rd. ' COL city VAL atlanta COL phone VAL 404-233-5993 COL type VAL continental COL class VAL 675 
+COL name VAL ` alon \ 's at the terrace ' COL addr VAL ' 659 peachtree st. ' COL city VAL atlanta COL phone VAL 404-724-0444 COL type VAL sandwiches COL class VAL 676 
+COL name VAL ` baker \ 's cajun cafe ' COL addr VAL ' 1134 euclid ave. ' COL city VAL atlanta COL phone VAL 404-223-5039 COL type VAL cajun/creole COL class VAL 677 
+COL name VAL ` barbecue kitchen ' COL addr VAL ' 1437 virginia ave. ' COL city VAL atlanta COL phone VAL 404-766-9906 COL type VAL bbq COL class VAL 678 
+COL name VAL ` bistro the ' COL addr VAL '56 e. andrews dr. nw ' COL city VAL atlanta COL phone VAL 404-231-5733 COL type VAL ` french bistro ' COL class VAL 679 
+COL name VAL ` bobby & june \ 's kountry kitchen ' COL addr VAL ' 375 14th st. ' COL city VAL atlanta COL phone VAL 404-876-3872 COL type VAL southern/soul COL class VAL 680 
+COL name VAL ` bradshaw \ 's restaurant ' COL addr VAL ' 2911 s. pharr court ' COL city VAL atlanta COL phone VAL 404-261-7015 COL type VAL southern/soul COL class VAL 681 
+COL name VAL ` brookhaven cafe ' COL addr VAL ' 4274 peachtree rd. ' COL city VAL atlanta COL phone VAL 404-231-5907 COL type VAL vegetarian COL class VAL 682 
+COL name VAL ` cafe sunflower ' COL addr VAL ' 5975 roswell rd. ' COL city VAL atlanta COL phone VAL 404-256-1675 COL type VAL ` health food ' COL class VAL 683 
+COL name VAL canoe COL addr VAL ' 4199 paces ferry rd. ' COL city VAL atlanta COL phone VAL 770-432-2663 COL type VAL ` american ( new ) ' COL class VAL 684 
+COL name VAL ` carey \ 's ' COL addr VAL ' 1021 cobb pkwy . se ' COL city VAL marietta COL phone VAL 770-422-8042 COL type VAL hamburgers COL class VAL 685 
+COL name VAL ` carey \ 's corner ' COL addr VAL ' 1215 powers ferry rd. ' COL city VAL marietta COL phone VAL 770-933-0909 COL type VAL hamburgers COL class VAL 686 
+COL name VAL chops COL addr VAL '70 w. paces ferry rd. ' COL city VAL atlanta COL phone VAL 404-262-2675 COL type VAL steakhouses COL class VAL 687 
+COL name VAL chopstix COL addr VAL ' 4279 roswell rd. ' COL city VAL atlanta COL phone VAL 404-255-4868 COL type VAL chinese COL class VAL 688 
+COL name VAL ` deacon burton \ 's soulfood restaurant ' COL addr VAL ' 1029 edgewood ave. se ' COL city VAL atlanta COL phone VAL 404-523-1929 COL type VAL southern/soul COL class VAL 689 
+COL name VAL eats COL addr VAL ' 600 ponce de leon ave. ' COL city VAL atlanta COL phone VAL 404-888-9149 COL type VAL italian COL class VAL 690 
+COL name VAL ` flying biscuit the ' COL addr VAL ' 1655 mclendon ave. ' COL city VAL atlanta COL phone VAL 404-687-8888 COL type VAL eclectic COL class VAL 691 
+COL name VAL frijoleros COL addr VAL ' 1031 peachtree st. ne ' COL city VAL atlanta COL phone VAL 404-892-8226 COL type VAL tex-mex COL class VAL 692 
+COL name VAL ` greenwood \ 's ' COL addr VAL ' 1087 green st. ' COL city VAL roswell COL phone VAL 770-992-5383 COL type VAL southern/soul COL class VAL 693 
+COL name VAL ` harold \ 's barbecue ' COL addr VAL ' 171 mcdonough blvd. ' COL city VAL atlanta COL phone VAL 404-627-9268 COL type VAL bbq COL class VAL 694 
+COL name VAL ` havana sandwich shop ' COL addr VAL ' 2905 buford hwy . ' COL city VAL atlanta COL phone VAL 404-636-4094 COL type VAL cuban COL class VAL 695 
+COL name VAL ` house of chan ' COL addr VAL ' 2469 cobb pkwy . ' COL city VAL smyrna COL phone VAL 770-955-9444 COL type VAL chinese COL class VAL 696 
+COL name VAL ` indian delights ' COL addr VAL ' 3675 satellite blvd. ' COL city VAL duluth COL phone VAL 100-813-8212 COL type VAL indian COL class VAL 697 
+COL name VAL ` java jive ' COL addr VAL ' 790 ponce de leon ave. ' COL city VAL atlanta COL phone VAL 404-876-6161 COL type VAL ` coffee shops ' COL class VAL 698 
+COL name VAL ` johnny rockets ( at ) ' COL addr VAL ' 2970 cobb pkwy . ' COL city VAL atlanta COL phone VAL 770-955-6068 COL type VAL american COL class VAL 699 
+COL name VAL ` kalo \ 's coffee house ' COL addr VAL ' 1248 clairmont rd. ' COL city VAL decatur COL phone VAL 404-325-3733 COL type VAL coffeehouses COL class VAL 700 
+COL name VAL ` la fonda latina ' COL addr VAL ' 4427 roswell rd. ' COL city VAL atlanta COL phone VAL 404-303-8201 COL type VAL spanish COL class VAL 701 
+COL name VAL ` lettuce souprise you ( at ) ' COL addr VAL ' 3525 mall blvd. ' COL city VAL duluth COL phone VAL 770-418-9969 COL type VAL cafeterias COL class VAL 702 
+COL name VAL majestic COL addr VAL ' 1031 ponce de leon ave. ' COL city VAL atlanta COL phone VAL 404-875-0276 COL type VAL diners COL class VAL 703 
+COL name VAL ` morton \ 's of chicago ( atlanta ) ' COL addr VAL ' 303 peachtree st. ne ' COL city VAL atlanta COL phone VAL 404-577-4366 COL type VAL steakhouses COL class VAL 704 
+COL name VAL ` my thai ' COL addr VAL ' 1248 clairmont rd. ' COL city VAL atlanta COL phone VAL 404-636-4280 COL type VAL thai COL class VAL 705 
+COL name VAL nava COL addr VAL ' 3060 peachtree rd. ' COL city VAL atlanta COL phone VAL 404-240-1984 COL type VAL southwestern COL class VAL 706 
+COL name VAL ` nuevo laredo cantina ' COL addr VAL ' 1495 chattahoochee ave. nw ' COL city VAL atlanta COL phone VAL 404-352-9009 COL type VAL mexican COL class VAL 707 
+COL name VAL ` original pancake house ( at ) ' COL addr VAL ' 4330 peachtree rd. ' COL city VAL atlanta COL phone VAL 404-237-4116 COL type VAL american COL class VAL 708 
+COL name VAL ` palm the ( atlanta ) ' COL addr VAL ' 3391 peachtree rd. ne ' COL city VAL atlanta COL phone VAL 404-814-1955 COL type VAL steakhouses COL class VAL 709 
+COL name VAL ` rainbow restaurant ' COL addr VAL ' 2118 n. decatur rd. ' COL city VAL decatur COL phone VAL 404-633-3538 COL type VAL vegetarian COL class VAL 710 
+COL name VAL riviera COL addr VAL ' 519 e. paces ferry rd. ' COL city VAL atlanta COL phone VAL 404-262-7112 COL type VAL mediterranean COL class VAL 712 
+COL name VAL ` silver skillet the ' COL addr VAL ' 200 14th st. nw ' COL city VAL atlanta COL phone VAL 404-874-1388 COL type VAL ` coffee shops ' COL class VAL 713 
+COL name VAL soto COL addr VAL ' 3330 piedmont rd. ' COL city VAL atlanta COL phone VAL 404-233-2005 COL type VAL japanese COL class VAL 714 
+COL name VAL ` thelma \ 's kitchen ' COL addr VAL ' 764 marietta st. nw ' COL city VAL atlanta COL phone VAL 404-688-5855 COL type VAL cafeterias COL class VAL 715 
+COL name VAL tortillas COL addr VAL ' 774 ponce de leon ave. ne ' COL city VAL atlanta COL phone VAL 404-892-0193 COL type VAL tex-mex COL class VAL 716 
+COL name VAL ` van gogh \ 's restaurant & bar ' COL addr VAL '70 w. crossville rd. ' COL city VAL roswell COL phone VAL 770-993-1156 COL type VAL ` american ( new ) ' COL class VAL 717 
+COL name VAL veggieland COL addr VAL ' 220 sandy springs circle ' COL city VAL atlanta COL phone VAL 404-231-3111 COL type VAL vegetarian COL class VAL 718 
+COL name VAL ` white house restaurant ' COL addr VAL ' 3172 peachtree rd. ne ' COL city VAL atlanta COL phone VAL 404-237-7601 COL type VAL diners COL class VAL 719 
+COL name VAL zab-e-lee COL addr VAL ' 4837 old national hwy . ' COL city VAL ` college park ' COL phone VAL 404-768-2705 COL type VAL thai COL class VAL 720 
+COL name VAL ` bill \ 's place ' COL addr VAL ' 2315 clement st. ' COL city VAL ` san francisco ' COL phone VAL 415-221-5262 COL type VAL hamburgers COL class VAL 721 
+COL name VAL ` cafe flore ' COL addr VAL ' 2298 market st. ' COL city VAL ` san francisco ' COL phone VAL 415-621-8579 COL type VAL californian COL class VAL 722 
+COL name VAL ` caffe greco ' COL addr VAL ' 423 columbus ave. ' COL city VAL ` san francisco ' COL phone VAL 415-397-6261 COL type VAL continental COL class VAL 723 
+COL name VAL ` campo santo ' COL addr VAL ' 240 columbus ave. ' COL city VAL ` san francisco ' COL phone VAL 415-433-9623 COL type VAL mexican COL class VAL 724 
+COL name VAL ` cha cha cha \ 's ' COL addr VAL ' 1805 haight st. ' COL city VAL ` san francisco ' COL phone VAL 415-386-5758 COL type VAL caribbean COL class VAL 725 
+COL name VAL ` doidge \ 's ' COL addr VAL ' 2217 union st. ' COL city VAL ` san francisco ' COL phone VAL 415-921-2149 COL type VAL american COL class VAL 726 
+COL name VAL ` dottie \ 's true blue cafe ' COL addr VAL ' 522 jones st. ' COL city VAL ` san francisco ' COL phone VAL 415-885-2767 COL type VAL diners COL class VAL 727 
+COL name VAL ` dusit thai ' COL addr VAL ' 3221 mission st. ' COL city VAL ` san francisco ' COL phone VAL 415-826-4639 COL type VAL thai COL class VAL 728 
+COL name VAL ebisu COL addr VAL ' 1283 ninth ave. ' COL city VAL ` san francisco ' COL phone VAL 415-566-1770 COL type VAL japanese COL class VAL 729 
+COL name VAL 'em erald garden restaurant ' COL addr VAL ' 1550 california st. ' COL city VAL ` san francisco ' COL phone VAL 415-673-1155 COL type VAL vietnamese COL class VAL 730 
+COL name VAL ` eric \ 's chinese restaurant ' COL addr VAL ' 1500 church st. ' COL city VAL ` san francisco ' COL phone VAL 415-282-0919 COL type VAL chinese COL class VAL 731 
+COL name VAL ` hamburger mary \ 's ' COL addr VAL ' 1582 folsom st. ' COL city VAL ` san francisco ' COL phone VAL 415-626-1985 COL type VAL hamburgers COL class VAL 732 
+COL name VAL ` kelly \ 's on trinity ' COL addr VAL ' 333 bush st. ' COL city VAL ` san francisco ' COL phone VAL 415-362-4454 COL type VAL californian COL class VAL 733 
+COL name VAL ` la cumbre ' COL addr VAL ' 515 valencia st. ' COL city VAL ` san francisco ' COL phone VAL 415-863-8205 COL type VAL mexican COL class VAL 734 
+COL name VAL ` la mediterranee ' COL addr VAL ' 288 noe st. ' COL city VAL ` san francisco ' COL phone VAL 415-431-7210 COL type VAL mediterranean COL class VAL 735 
+COL name VAL ` la taqueria ' COL addr VAL ' 2889 mission st. ' COL city VAL ` san francisco ' COL phone VAL 415-285-7117 COL type VAL mexican COL class VAL 736 
+COL name VAL ` mario \ 's bohemian cigar store cafe ' COL addr VAL ' 2209 polk st. ' COL city VAL ` san francisco ' COL phone VAL 415-776-8226 COL type VAL italian COL class VAL 737 
+COL name VAL ` marnee thai ' COL addr VAL ' 2225 irving st. ' COL city VAL ` san francisco ' COL phone VAL 415-665-9500 COL type VAL thai COL class VAL 738 
+COL name VAL ` mel \ 's drive-in ' COL addr VAL ' 3355 geary st. ' COL city VAL ` san francisco ' COL phone VAL 415-387-2244 COL type VAL hamburgers COL class VAL 739 
+COL name VAL ` mo \ 's burgers ' COL addr VAL ' 1322 grant st. ' COL city VAL ` san francisco ' COL phone VAL 415-788-3779 COL type VAL hamburgers COL class VAL 740 
+COL name VAL ` phnom penh cambodian restaurant ' COL addr VAL ' 631 larkin st. ' COL city VAL ` san francisco ' COL phone VAL 415-775-5979 COL type VAL cambodian COL class VAL 741 
+COL name VAL ` roosevelt tamale parlor ' COL addr VAL ' 2817 24th st. ' COL city VAL ` san francisco ' COL phone VAL 415-550-9213 COL type VAL mexican COL class VAL 742 
+COL name VAL ` sally \ 's cafe & bakery ' COL addr VAL ' 300 de haro st. ' COL city VAL ` san francisco ' COL phone VAL 415-626-6006 COL type VAL american COL class VAL 743 
+COL name VAL ` san francisco bbq ' COL addr VAL ' 1328 18th st. ' COL city VAL ` san francisco ' COL phone VAL 415-431-8956 COL type VAL thai COL class VAL 744 
+COL name VAL ` slanted door ' COL addr VAL ' 584 valencia st. ' COL city VAL ` san francisco ' COL phone VAL 415-861-8032 COL type VAL vietnamese COL class VAL 745 
+COL name VAL ` swan oyster depot ' COL addr VAL ' 1517 polk st. ' COL city VAL ` san francisco ' COL phone VAL 415-673-1101 COL type VAL seafood COL class VAL 746 
+COL name VAL ` thep phanom ' COL addr VAL ' 400 waller st. ' COL city VAL ` san francisco ' COL phone VAL 415-431-2526 COL type VAL thai COL class VAL 747 
+COL name VAL ` ti couz ' COL addr VAL ' 3108 16th st. ' COL city VAL ` san francisco ' COL phone VAL 415-252-7373 COL type VAL french COL class VAL 748 
+COL name VAL ` trio cafe ' COL addr VAL ' 1870 fillmore st. ' COL city VAL ` san francisco ' COL phone VAL 415-563-2248 COL type VAL american COL class VAL 749 
+COL name VAL ` tu lan ' COL addr VAL ' 8 sixth st. ' COL city VAL ` san francisco ' COL phone VAL 415-626-0927 COL type VAL vietnamese COL class VAL 750 
+COL name VAL ` vicolo pizzeria ' COL addr VAL ' 201 ivy st. ' COL city VAL ` san francisco ' COL phone VAL 415-863-2382 COL type VAL pizza COL class VAL 751 
+COL name VAL ` wa-ha-ka oaxaca mexican grill ' COL addr VAL ' 2141 polk st. ' COL city VAL ` san francisco ' COL phone VAL 415-775-1055 COL type VAL mexican COL class VAL 752 
+COL name VAL ` arnie morton \ 's of chicago ' COL addr VAL ' 435 s. la cienega blvd. ' COL city VAL ` los angeles ' COL phone VAL 310-246-1501 COL type VAL steakhouses COL class VAL 0 
+COL name VAL ` art \ 's deli ' COL addr VAL ' 12224 ventura blvd. ' COL city VAL ` studio city ' COL phone VAL 818-762-1221 COL type VAL delis COL class VAL 1 
+COL name VAL ` bel-air hotel ' COL addr VAL ' 701 stone canyon rd. ' COL city VAL ` bel air ' COL phone VAL 310-472-1211 COL type VAL californian COL class VAL 2 
+COL name VAL ` cafe bizou ' COL addr VAL ' 14016 ventura blvd. ' COL city VAL ` sherman oaks ' COL phone VAL 818-788-3536 COL type VAL ` french bistro ' COL class VAL 3 
+COL name VAL campanile COL addr VAL ' 624 s. la brea ave. ' COL city VAL ` los angeles ' COL phone VAL 213-938-1447 COL type VAL californian COL class VAL 4 
+COL name VAL ` chinois on main ' COL addr VAL ' 2709 main st. ' COL city VAL ` santa monica ' COL phone VAL 310-392-9025 COL type VAL ` pacific new wave ' COL class VAL 5 
+COL name VAL citrus COL addr VAL ' 6703 melrose ave. ' COL city VAL ` los angeles ' COL phone VAL 213-857-0034 COL type VAL californian COL class VAL 6 
+COL name VAL ` fenix at the argyle ' COL addr VAL ' 8358 sunset blvd. ' COL city VAL ` w. hollywood ' COL phone VAL 213-848-6677 COL type VAL ` french ( new ) ' COL class VAL 7 
+COL name VAL granita COL addr VAL ' 23725 w. malibu rd. ' COL city VAL malibu COL phone VAL 310-456-0488 COL type VAL californian COL class VAL 8 
+COL name VAL ` grill the ' COL addr VAL ' 9560 dayton way ' COL city VAL ` beverly hills ' COL phone VAL 310-276-0615 COL type VAL ` american ( traditional ) ' COL class VAL 9 
+COL name VAL katsu COL addr VAL ' 1972 hillhurst ave. ' COL city VAL ` los feliz ' COL phone VAL 213-665-1891 COL type VAL japanese COL class VAL 10 
+COL name VAL ` l \ ` orangerie ' COL addr VAL ' 903 n. la cienega blvd. ' COL city VAL ` w. hollywood ' COL phone VAL 310-652-9770 COL type VAL ` french ( classic ) ' COL class VAL 11 
+COL name VAL ` le chardonnay ( los angeles ) ' COL addr VAL ' 8284 melrose ave. ' COL city VAL ` los angeles ' COL phone VAL 213-655-8880 COL type VAL ` french bistro ' COL class VAL 12 
+COL name VAL ` locanda veneta ' COL addr VAL ' 8638 w. third st. ' COL city VAL ` los angeles ' COL phone VAL 310-274-1893 COL type VAL italian COL class VAL 13 
+COL name VAL matsuhisa COL addr VAL ' 129 n. la cienega blvd. ' COL city VAL ` beverly hills ' COL phone VAL 310-659-9639 COL type VAL seafood COL class VAL 14 
+COL name VAL ` palm the ( los angeles ) ' COL addr VAL ' 9001 santa monica blvd. ' COL city VAL ` w. hollywood ' COL phone VAL 310-550-8811 COL type VAL steakhouses COL class VAL 15 
+COL name VAL patina COL addr VAL ' 5955 melrose ave. ' COL city VAL ` los angeles ' COL phone VAL 213-467-1108 COL type VAL californian COL class VAL 16 
+COL name VAL ` philippe the original ' COL addr VAL ' 1001 n. alameda st. ' COL city VAL chinatown COL phone VAL 213-628-3781 COL type VAL cafeterias COL class VAL 17 
+COL name VAL ` pinot bistro ' COL addr VAL ' 12969 ventura blvd. ' COL city VAL ` studio city ' COL phone VAL 818-990-0500 COL type VAL ` french bistro ' COL class VAL 18 
+COL name VAL ` rex il ristorante ' COL addr VAL ' 617 s. olive st. ' COL city VAL ` los angeles ' COL phone VAL 213-627-2300 COL type VAL ` nuova cucina italian ' COL class VAL 19 
+COL name VAL ` spago ( los angeles ) ' COL addr VAL ' 8795 sunset blvd. ' COL city VAL ` w. hollywood ' COL phone VAL 310-652-4025 COL type VAL californian COL class VAL 20 
+COL name VAL valentino COL addr VAL ' 3115 pico blvd. ' COL city VAL ` santa monica ' COL phone VAL 310-829-4313 COL type VAL italian COL class VAL 21 
+COL name VAL ` yujean kang \ 's ' COL addr VAL '67 n. raymond ave. ' COL city VAL pasadena COL phone VAL 818-585-0855 COL type VAL chinese COL class VAL 22 
+COL name VAL '21 club ' COL addr VAL '21 w. 52nd st. ' COL city VAL ` new york city ' COL phone VAL 212-582-7200 COL type VAL ` american ( new ) ' COL class VAL 23 
+COL name VAL aquavit COL addr VAL '13 w. 54th st. ' COL city VAL ` new york city ' COL phone VAL 212-307-7311 COL type VAL scandinavian COL class VAL 24 
+COL name VAL aureole COL addr VAL '34 e. 61st st. ' COL city VAL ` new york city ' COL phone VAL 212-319-1660 COL type VAL ` american ( new ) ' COL class VAL 25 
+COL name VAL ` cafe lalo ' COL addr VAL ' 201 w. 83rd st. ' COL city VAL ` new york city ' COL phone VAL 212-496-6031 COL type VAL coffeehouses COL class VAL 26 
+COL name VAL ` cafe des artistes ' COL addr VAL ' 1 w. 67th st. ' COL city VAL ` new york city ' COL phone VAL 212-877-3500 COL type VAL ` french ( classic ) ' COL class VAL 27 
+COL name VAL ` carmine \ 's ' COL addr VAL ' 2450 broadway ' COL city VAL ` new york city ' COL phone VAL 212-362-2200 COL type VAL italian COL class VAL 28 
+COL name VAL ` carnegie deli ' COL addr VAL ' 854 seventh ave. ' COL city VAL ` new york city ' COL phone VAL 212-757-2245 COL type VAL delis COL class VAL 29 
+COL name VAL chanterelle COL addr VAL ' 2 harrison st. ' COL city VAL ` new york city ' COL phone VAL 212-966-6960 COL type VAL ` french ( new ) ' COL class VAL 30 
+COL name VAL daniel COL addr VAL '20 e. 76th st. ' COL city VAL ` new york city ' COL phone VAL 212-288-0033 COL type VAL ` french ( new ) ' COL class VAL 31 
+COL name VAL dawat COL addr VAL ' 210 e. 58th st. ' COL city VAL ` new york city ' COL phone VAL 212-355-7555 COL type VAL indian COL class VAL 32 
+COL name VAL felidia COL addr VAL ' 243 e. 58th st. ' COL city VAL ` new york city ' COL phone VAL 212-758-1479 COL type VAL italian COL class VAL 33 
+COL name VAL ` four seasons ' COL addr VAL '99 e. 52nd st. ' COL city VAL ` new york city ' COL phone VAL 212-754-9494 COL type VAL ` american ( new ) ' COL class VAL 34 
+COL name VAL ` gotham bar & grill ' COL addr VAL '12 e. 12th st. ' COL city VAL ` new york city ' COL phone VAL 212-620-4020 COL type VAL ` american ( new ) ' COL class VAL 35 
+COL name VAL ` gramercy tavern ' COL addr VAL '42 e. 20th st. ' COL city VAL ` new york city ' COL phone VAL 212-477-0777 COL type VAL ` american ( new ) ' COL class VAL 36 
+COL name VAL ` island spice ' COL addr VAL ' 402 w. 44th st. ' COL city VAL ` new york city ' COL phone VAL 212-765-1737 COL type VAL caribbean COL class VAL 37 
+COL name VAL ` jo jo ' COL addr VAL ' 160 e. 64th st. ' COL city VAL ` new york city ' COL phone VAL 212-223-5656 COL type VAL ` french bistro ' COL class VAL 38 
+COL name VAL ` la caravelle ' COL addr VAL '33 w. 55th st. ' COL city VAL ` new york city ' COL phone VAL 212-586-4252 COL type VAL ` french ( classic ) ' COL class VAL 39 
+COL name VAL ` la cote basque ' COL addr VAL '60 w. 55th st. ' COL city VAL ` new york city ' COL phone VAL 212-688-6525 COL type VAL ` french ( classic ) ' COL class VAL 40 
+COL name VAL ` le bernardin ' COL addr VAL ' 155 w. 51st st. ' COL city VAL ` new york city ' COL phone VAL 212-489-1515 COL type VAL seafood COL class VAL 41 
+COL name VAL ` les celebrites ' COL addr VAL ' 155 w. 58th st. ' COL city VAL ` new york city ' COL phone VAL 212-484-5113 COL type VAL ` french ( classic ) ' COL class VAL 42 
+COL name VAL ` lespinasse ( new york city ) ' COL addr VAL ' 2 e. 55th st. ' COL city VAL ` new york city ' COL phone VAL 212-339-6719 COL type VAL asian COL class VAL 43 
+COL name VAL lutece COL addr VAL ' 249 e. 50th st. ' COL city VAL ` new york city ' COL phone VAL 212-752-2225 COL type VAL ` french ( classic ) ' COL class VAL 44 
+COL name VAL ` manhattan ocean club ' COL addr VAL '57 w. 58th st. ' COL city VAL ` new york city ' COL phone VAL 212-371-7777 COL type VAL seafood COL class VAL 45 
+COL name VAL march COL addr VAL ' 405 e. 58th st. ' COL city VAL ` new york city ' COL phone VAL 212-754-6272 COL type VAL ` american ( new ) ' COL class VAL 46 
+COL name VAL ` mesa grill ' COL addr VAL ' 102 fifth ave. ' COL city VAL ` new york city ' COL phone VAL 212-807-7400 COL type VAL southwestern COL class VAL 47 
+COL name VAL ` mi cocina ' COL addr VAL '57 jane st. ' COL city VAL ` new york city ' COL phone VAL 212-627-8273 COL type VAL mexican COL class VAL 48 
+COL name VAL montrachet COL addr VAL ' 239 w. broadway ' COL city VAL ` new york city ' COL phone VAL 212-219-2777 COL type VAL ` french bistro ' COL class VAL 49 
+COL name VAL oceana COL addr VAL '55 e. 54th st. ' COL city VAL ` new york city ' COL phone VAL 212-759-5941 COL type VAL seafood COL class VAL 50 
+COL name VAL ` park avenue cafe ( new york city ) ' COL addr VAL ' 100 e. 63rd st. ' COL city VAL ` new york city ' COL phone VAL 212-644-1900 COL type VAL ` american ( new ) ' COL class VAL 51 
+COL name VAL petrossian COL addr VAL ' 182 w. 58th st. ' COL city VAL ` new york city ' COL phone VAL 212-245-2214 COL type VAL russian COL class VAL 52 
+COL name VAL picholine COL addr VAL '35 w. 64th st. ' COL city VAL ` new york city ' COL phone VAL 212-724-8585 COL type VAL mediterranean COL class VAL 53 
+COL name VAL pisces COL addr VAL '95 ave. a ' COL city VAL ` new york city ' COL phone VAL 212-260-6660 COL type VAL seafood COL class VAL 54 
+COL name VAL ` rainbow room ' COL addr VAL '30 rockefeller plaza ' COL city VAL ` new york city ' COL phone VAL 212-632-5000 COL type VAL ` american ( new ) ' COL class VAL 55 
+COL name VAL ` river cafe ' COL addr VAL ' 1 water st. ' COL city VAL brooklyn COL phone VAL 718-522-5200 COL type VAL ` american ( new ) ' COL class VAL 56 
+COL name VAL ` san domenico ' COL addr VAL ' 240 central park s. ' COL city VAL ` new york city ' COL phone VAL 212-265-5959 COL type VAL italian COL class VAL 57 
+COL name VAL ` second avenue deli ' COL addr VAL ' 156 second ave. ' COL city VAL ` new york city ' COL phone VAL 212-677-0606 COL type VAL delis COL class VAL 58 
+COL name VAL seryna COL addr VAL '11 e. 53rd st. ' COL city VAL ` new york city ' COL phone VAL 212-980-9393 COL type VAL japanese COL class VAL 59 
+COL name VAL ` shun lee palace ' COL addr VAL ' 155 e. 55th st. ' COL city VAL ` new york city ' COL phone VAL 212-371-8844 COL type VAL chinese COL class VAL 60 
+COL name VAL ` sign of the dove ' COL addr VAL ' 1110 third ave. ' COL city VAL ` new york city ' COL phone VAL 212-861-8080 COL type VAL ` american ( new ) ' COL class VAL 61 
+COL name VAL ` smith & wollensky ' COL addr VAL ' 797 third ave. ' COL city VAL ` new york city ' COL phone VAL 212-753-1530 COL type VAL steakhouses COL class VAL 62 
+COL name VAL ` tavern on the green ' COL addr VAL ` central park west ' COL city VAL ` new york city ' COL phone VAL 212-873-3200 COL type VAL ` american ( new ) ' COL class VAL 63 
+COL name VAL ` uncle nick \ 's ' COL addr VAL ' 747 ninth ave. ' COL city VAL ` new york city ' COL phone VAL 212-245-7992 COL type VAL greek COL class VAL 64 
+COL name VAL ` union square cafe ' COL addr VAL '21 e. 16th st. ' COL city VAL ` new york city ' COL phone VAL 212-243-4020 COL type VAL ` american ( new ) ' COL class VAL 65 
+COL name VAL ` virgil \ 's real bbq ' COL addr VAL ' 152 w. 44th st. ' COL city VAL ` new york city ' COL phone VAL 212-921-9494 COL type VAL bbq COL class VAL 66 
+COL name VAL ` chin \ 's ' COL addr VAL ' 3200 las vegas blvd. s. ' COL city VAL ` las vegas ' COL phone VAL 702-733-8899 COL type VAL chinese COL class VAL 67 
+COL name VAL ` coyote cafe ( las vegas ) ' COL addr VAL ' 3799 las vegas blvd. s. ' COL city VAL ` las vegas ' COL phone VAL 702-891-7349 COL type VAL southwestern COL class VAL 68 
+COL name VAL ` le montrachet bistro ' COL addr VAL ' 3000 paradise rd. ' COL city VAL ` las vegas ' COL phone VAL 702-732-5651 COL type VAL ` french bistro ' COL class VAL 69 
+COL name VAL ` palace court ' COL addr VAL ' 3570 las vegas blvd. s. ' COL city VAL ` las vegas ' COL phone VAL 702-731-7110 COL type VAL ` french ( new ) ' COL class VAL 70 
+COL name VAL ` second street grill ' COL addr VAL ' 200 e. fremont st. ' COL city VAL ` las vegas ' COL phone VAL 702-385-6277 COL type VAL ` pacific rim ' COL class VAL 71 
+COL name VAL ` steak house the ' COL addr VAL ' 2880 las vegas blvd. s. ' COL city VAL ` las vegas ' COL phone VAL 702-734-0410 COL type VAL steakhouses COL class VAL 72 
+COL name VAL 'till erman the ' COL addr VAL ' 2245 e. flamingo rd. ' COL city VAL ` las vegas ' COL phone VAL 702-731-4036 COL type VAL steakhouses COL class VAL 73 
+COL name VAL abruzzi COL addr VAL ' 2355 peachtree rd. ne ' COL city VAL atlanta COL phone VAL 404-261-8186 COL type VAL italian COL class VAL 74 
+COL name VAL bacchanalia COL addr VAL ' 3125 piedmont rd. ' COL city VAL atlanta COL phone VAL 404-365-0410 COL type VAL californian COL class VAL 75 
+COL name VAL ` bone \ 's restaurant ' COL addr VAL ' 3130 piedmont rd. ne ' COL city VAL atlanta COL phone VAL 404-237-2663 COL type VAL steakhouses COL class VAL 76 
+COL name VAL ` brasserie le coze ' COL addr VAL ' 3393 peachtree rd. ' COL city VAL atlanta COL phone VAL 404-266-1440 COL type VAL ` french bistro ' COL class VAL 77 
+COL name VAL ` buckhead diner ' COL addr VAL ' 3073 piedmont rd. ' COL city VAL atlanta COL phone VAL 404-262-3336 COL type VAL ` american ( new ) ' COL class VAL 78 
+COL name VAL ` ciboulette restaurant ' COL addr VAL ' 1529 piedmont ave. ' COL city VAL atlanta COL phone VAL 404-874-7600 COL type VAL ` french ( new ) ' COL class VAL 79 
+COL name VAL delectables COL addr VAL ' 1 margaret mitchell sq. ' COL city VAL atlanta COL phone VAL 404-681-2909 COL type VAL cafeterias COL class VAL 80 
+COL name VAL ` georgia grille ' COL addr VAL ' 2290 peachtree rd. ' COL city VAL atlanta COL phone VAL 404-352-3517 COL type VAL southwestern COL class VAL 81 
+COL name VAL ` hedgerose heights inn the ' COL addr VAL ' 490 e. paces ferry rd. ne ' COL city VAL atlanta COL phone VAL 404-233-7673 COL type VAL continental COL class VAL 82 
+COL name VAL ` heera of india ' COL addr VAL ' 595 piedmont ave. ' COL city VAL atlanta COL phone VAL 404-876-4408 COL type VAL indian COL class VAL 83 
+COL name VAL ` indigo coastal grill ' COL addr VAL ' 1397 n. highland ave. ' COL city VAL atlanta COL phone VAL 404-876-0676 COL type VAL eclectic COL class VAL 84 
+COL name VAL ` la grotta ' COL addr VAL ' 2637 peachtree rd. ne ' COL city VAL atlanta COL phone VAL 404-231-1368 COL type VAL italian COL class VAL 85 
+COL name VAL ` mary mac \ 's tea room ' COL addr VAL ' 224 ponce de leon ave. ' COL city VAL atlanta COL phone VAL 404-876-1800 COL type VAL southern/soul COL class VAL 86 
+COL name VAL ` nikolai \ 's roof ' COL addr VAL ' 255 courtland st. ' COL city VAL atlanta COL phone VAL 404-221-6362 COL type VAL continental COL class VAL 87 
+COL name VAL ` pano \ 's & paul \ 's ' COL addr VAL ' 1232 w. paces ferry rd. ' COL city VAL atlanta COL phone VAL 404-261-3662 COL type VAL ` american ( new ) ' COL class VAL 88 
+COL name VAL ` ritz-carlton cafe ( buckhead ) ' COL addr VAL ' 3434 peachtree rd. ne ' COL city VAL atlanta COL phone VAL 404-237-2700 COL type VAL ` american ( new ) ' COL class VAL 89 
+COL name VAL ` ritz-carlton dining room ( buckhead ) ' COL addr VAL ' 3434 peachtree rd. ne ' COL city VAL atlanta COL phone VAL 404-237-2700 COL type VAL ` american ( new ) ' COL class VAL 90 
+COL name VAL ` ritz-carlton restaurant ' COL addr VAL ' 181 peachtree st. ' COL city VAL atlanta COL phone VAL 404-659-0400 COL type VAL ` french ( classic ) ' COL class VAL 91 
+COL name VAL toulouse COL addr VAL ' 293-b peachtree rd. ' COL city VAL atlanta COL phone VAL 404-351-9533 COL type VAL ` french ( new ) ' COL class VAL 92 
+COL name VAL ` veni vidi vici ' COL addr VAL '41 14th st. ' COL city VAL atlanta COL phone VAL 404-875-8424 COL type VAL italian COL class VAL 93 
+COL name VAL ` alain rondelli ' COL addr VAL ' 126 clement st. ' COL city VAL ` san francisco ' COL phone VAL 415-387-0408 COL type VAL ` french ( new ) ' COL class VAL 94 
+COL name VAL aqua COL addr VAL ' 252 california st. ' COL city VAL ` san francisco ' COL phone VAL 415-956-9662 COL type VAL ` american ( new ) ' COL class VAL 95 
+COL name VAL boulevard COL addr VAL ' 1 mission st. ' COL city VAL ` san francisco ' COL phone VAL 415-543-6084 COL type VAL ` american ( new ) ' COL class VAL 96 
+COL name VAL ` cafe claude ' COL addr VAL ' 7 claude ln . ' COL city VAL ` san francisco ' COL phone VAL 415-392-3505 COL type VAL ` french bistro ' COL class VAL 97 
+COL name VAL ` campton place ' COL addr VAL ' 340 stockton st. ' COL city VAL ` san francisco ' COL phone VAL 415-955-5555 COL type VAL ` american ( new ) ' COL class VAL 98 
+COL name VAL ` chez michel ' COL addr VAL ' 804 north point st. ' COL city VAL ` san francisco ' COL phone VAL 415-775-7036 COL type VAL californian COL class VAL 99 
+COL name VAL ` fleur de lys ' COL addr VAL ' 777 sutter st. ' COL city VAL ` san francisco ' COL phone VAL 415-673-7779 COL type VAL ` french ( new ) ' COL class VAL 100 
+COL name VAL fringale COL addr VAL ' 570 fourth st. ' COL city VAL ` san francisco ' COL phone VAL 415-543-0573 COL type VAL ` french bistro ' COL class VAL 101 
+COL name VAL ` hawthorne lane ' COL addr VAL '22 hawthorne st. ' COL city VAL ` san francisco ' COL phone VAL 415-777-9779 COL type VAL californian COL class VAL 102 
+COL name VAL ` khan toke thai house ' COL addr VAL ' 5937 geary blvd. ' COL city VAL ` san francisco ' COL phone VAL 415-668-6654 COL type VAL thai COL class VAL 103 
+COL name VAL ` la folie ' COL addr VAL ' 2316 polk st. ' COL city VAL ` san francisco ' COL phone VAL 415-776-5577 COL type VAL ` french ( new ) ' COL class VAL 104 
+COL name VAL ` lulu restaurant-bis-cafe ' COL addr VAL ' 816 folsom st. ' COL city VAL ` san francisco ' COL phone VAL 415-495-5775 COL type VAL mediterranean COL class VAL 105 
+COL name VAL ` masa \ 's ' COL addr VAL ' 648 bush st. ' COL city VAL ` san francisco ' COL phone VAL 415-989-7154 COL type VAL ` french ( new ) ' COL class VAL 106 
+COL name VAL mifune COL addr VAL ' 1737 post st. ' COL city VAL ` san francisco ' COL phone VAL 415-922-0337 COL type VAL japanese COL class VAL 107 
+COL name VAL ` plumpjack cafe ' COL addr VAL ' 3127 fillmore st. ' COL city VAL ` san francisco ' COL phone VAL 415-563-4755 COL type VAL ` american ( new ) ' COL class VAL 108 
+COL name VAL postrio COL addr VAL ' 545 post st. ' COL city VAL ` san francisco ' COL phone VAL 415-776-7825 COL type VAL californian COL class VAL 109 
+COL name VAL ` ritz-carlton dining room ( san francisco ) ' COL addr VAL ' 600 stockton st. ' COL city VAL ` san francisco ' COL phone VAL 415-296-7465 COL type VAL ` french ( new ) ' COL class VAL 110 
+COL name VAL ` rose pistola ' COL addr VAL ' 532 columbus ave. ' COL city VAL ` san francisco ' COL phone VAL 415-399-0499 COL type VAL italian COL class VAL 111 
+COL name VAL ` ritz-carlton cafe ( atlanta ) ' COL addr VAL ' 181 peachtree st. ' COL city VAL atlanta COL phone VAL 404-659-0400 COL type VAL ` american ( new ) ' COL class VAL 711 
