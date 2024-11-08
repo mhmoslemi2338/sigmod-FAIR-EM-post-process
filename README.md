@@ -9,14 +9,14 @@ This repository contains the code and supplementary resources for the paper [**"
 Record matching, the task of identifying records that correspond to the same real-world entities across databases, is critical for data integration in domains like healthcare, finance, and e-commerce. While traditional record matching models focus on optimizing accuracy, fairness issues have attracted increasing attention. Biased outcomes in record matching can result in unequal error rates across demographic groups, raising ethical and legal concerns. Existing research primarily addresses fairness at specific decision thresholds. However, threshold-specific metrics may overlook cumulative biases across varying thresholds. In this project, we adapt fairness metrics traditionally applied in regression models to evaluate cumulative bias across all thresholds in record matching. We propose a novel post-processing calibration method, leveraging optimal transport theory and Wasserstein barycenters. This approach treats any matching model as a black box, making it applicable to a wide range of models without access to their training data. Also, to address limitations in reducing EOD and EO differences, we introduce a conditional calibration method, which empirically achieves fairness across widely used benchmarks and state-of-the-art matching methods.
 
 
-## Table of Contents
+# Table of Contents
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Results](#results)
 - [Citation](#citation)
 
 
-## Requirements
+# Requirements
 
 The following dependencies are required to run the calibration code:
 
@@ -31,7 +31,7 @@ The following dependencies are required to run the calibration code:
 - [Gender Guesser](https://pypi.org/project/gender-guesser/)
 
 ------
-## Usage
+# Usage
 
 1. **Data Preparation**: Obtain the dataset from the DeepMatcher library: [link](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md). Place the dataset in the `DataDir` directory. For each dataset, create a new subdirectory inside `DataDir` containing `train.csv`, `valid.csv`, and `test.csv` files.
 
@@ -55,7 +55,7 @@ The following dependencies are required to run the calibration code:
 
 
 ------
-## Results
+# Results
 
 All figures can be found in the `FIGURES` directory.
 
@@ -66,45 +66,46 @@ a) The next table is the complete version of Table 2 in Section 6.2.1 (Biases in
 
 b) the next figures are for the calibration accross different models and datasets:
 
-## AUC Calibration Results
+#### AUC Calibration Results
 
-- [AUC Calibration Results - Fodors-Zagat](FIGURES/auc_Fodors-Zagat.pdf)
-- [AUC Calibration Results - DBLP-GoogleScholar](FIGURES/auc_DBLP-GoogleScholar.pdf)
-- [AUC Calibration Results - iTunes-Amazon](FIGURES/auc_iTunes-Amazon.pdf)
-- [AUC Calibration Results - Walmart-Amazon](FIGURES/auc_Walmart-Amazon.pdf)
-- [AUC Calibration Results - Amazon-Google](FIGURES/auc_Amazon-Google.pdf)
-- [AUC Calibration Results - Beer](FIGURES/auc_Beer.pdf)
-- [AUC Calibration Results - DBLP-ACM](FIGURES/auc_DBLP-ACM.pdf)
+- [Fodors-Zagat](FIGURES/auc_Fodors-Zagat.pdf)
+- [DBLP-GoogleScholar](FIGURES/auc_DBLP-GoogleScholar.pdf)
+- [iTunes-Amazon](FIGURES/auc_iTunes-Amazon.pdf)
+- [Walmart-Amazon](FIGURES/auc_Walmart-Amazon.pdf)
+- [Amazon-Google](FIGURES/auc_Amazon-Google.pdf)
+- [Beer](FIGURES/auc_Beer.pdf)
+- [DBLP-ACM](FIGURES/auc_DBLP-ACM.pdf)
 
-## DP Calibration Results
+#### DP Calibration Results
 
-- [DP Calibration Results - Fodors-Zagat](FIGURES/DP_Fodors-Zagat.pdf)
-- [DP Calibration Results - DBLP-GoogleScholar](FIGURES/DP_DBLP-GoogleScholar.pdf)
-- [DP Calibration Results - iTunes-Amazon](FIGURES/DP_iTunes-Amazon.pdf)
-- [DP Calibration Results - Walmart-Amazon](FIGURES/DP_Walmart-Amazon.pdf)
-- [DP Calibration Results - Amazon-Google](FIGURES/DP_Amazon-Google.pdf)
-- [DP Calibration Results - Beer](FIGURES/DP_Beer.pdf)
-- [DP Calibration Results - DBLP-ACM](FIGURES/DP_DBLP-ACM.pdf)
+- [Fodors-Zagat](FIGURES/DP_Fodors-Zagat.pdf)
+- [DBLP-GoogleScholar](FIGURES/DP_DBLP-GoogleScholar.pdf)
+- [iTunes-Amazon](FIGURES/DP_iTunes-Amazon.pdf)
+- [Walmart-Amazon](FIGURES/DP_Walmart-Amazon.pdf)
+- [Amazon-Google](FIGURES/DP_Amazon-Google.pdf)
+- [Beer](FIGURES/DP_Beer.pdf)
+- [DBLP-ACM](FIGURES/DP_DBLP-ACM.pdf)
 
-## EO Calibration Results
+#### EO Calibration Results
 
-- [EO Calibration Results - Fodors-Zagat](FIGURES/EO_Fodors-Zagat.pdf)
-- [EO Calibration Results - DBLP-GoogleScholar](FIGURES/EO_DBLP-GoogleScholar.pdf)
-- [EO Calibration Results - iTunes-Amazon](FIGURES/EO_iTunes-Amazon.pdf)
-- [EO Calibration Results - Walmart-Amazon](FIGURES/EO_Walmart-Amazon.pdf)
-- [EO Calibration Results - Amazon-Google](FIGURES/EO_Amazon-Google.pdf)
-- [EO Calibration Results - Beer](FIGURES/EO_Beer.pdf)
-- [EO Calibration Results - DBLP-ACM](FIGURES/EO_DBLP-ACM.pdf)
+- [Fodors-Zagat](FIGURES/EO_Fodors-Zagat.pdf)
+- [DBLP-GoogleScholar](FIGURES/EO_DBLP-GoogleScholar.pdf)
+- [iTunes-Amazon](FIGURES/EO_iTunes-Amazon.pdf)
+- [Walmart-Amazon](FIGURES/EO_Walmart-Amazon.pdf)
+- [Amazon-Google](FIGURES/EO_Amazon-Google.pdf)
+- [Beer](FIGURES/EO_Beer.pdf)
+- [DBLP-ACM](FIGURES/EO_DBLP-ACM.pdf)
 
-## EOD Calibration Results
+#### EOD Calibration Results
 
-- [EOD Calibration Results - Fodors-Zagat](FIGURES/EOD_Fodors-Zagat.pdf)
-- [EOD Calibration Results - DBLP-GoogleScholar](FIGURES/EOD_DBLP-GoogleScholar.pdf)
-- [EOD Calibration Results - iTunes-Amazon](FIGURES/EOD_iTunes-Amazon.pdf)
-- [EOD Calibration Results - Walmart-Amazon](FIGURES/EOD_Walmart-Amazon.pdf)
-- [EOD Calibration Results - Amazon-Google](FIGURES/EOD_Amazon-Google.pdf)
-- [EOD Calibration Results - Beer](FIGURES/EOD_Beer.pdf)
-- [EOD Calibration Results - DBLP-ACM](FIGURES/EOD_DBLP-ACM.pdf)
+- [Fodors-Zagat](FIGURES/EOD_Fodors-Zagat.pdf)
+- [DBLP-GoogleScholar](FIGURES/EOD_DBLP-GoogleScholar.pdf)
+- [iTunes-Amazon](FIGURES/EOD_iTunes-Amazon.pdf)
+- [Walmart-Amazon](FIGURES/EOD_Walmart-Amazon.pdf)
+- [Amazon-Google](FIGURES/EOD_Amazon-Google.pdf)
+- [Beer](FIGURES/EOD_Beer.pdf)
+- [DBLP-ACM](FIGURES/EOD_DBLP-ACM.pdf)
+
 
 ## Citation
 
