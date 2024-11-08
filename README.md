@@ -15,29 +15,24 @@ Record matching, the task of identifying records that correspond to the same rea
 - [Usage](#usage)
 - [Experiments](#experiments)
 - [Results](#results)
-## Introduction
+
 - [Citation](#citation)
-
-
-This project addresses fairness issues in entity matching by calibrating score distributions to mitigate biases while maintaining model accuracy. It includes all necessary code to reproduce the experiments described in the paper.
 
 
 ## Requirements
 
-To run the code, you need the following dependencies:
+The following dependencies are required to run the calibration code:
 
 - Python 3.8+
-- PyTorch 1.9+
 - NumPy
 - Pandas
 - Scikit-Learn
 - Matplotlib
+- Seaborn
+- SciPy
+- [Statsmodels](https://www.statsmodels.org/stable/index.html)
+- [Gender Guesser](https://pypi.org/project/gender-guesser/)
 
-You can install all the dependencies using the following command:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Installation
 
