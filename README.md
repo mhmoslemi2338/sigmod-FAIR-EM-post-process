@@ -11,11 +11,8 @@ Record matching, the task of identifying records that correspond to the same rea
 
 ## Table of Contents
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Experiments](#experiments)
 - [Results](#results)
-
 - [Citation](#citation)
 
 
@@ -33,48 +30,36 @@ The following dependencies are required to run the calibration code:
 - [Statsmodels](https://www.statsmodels.org/stable/index.html)
 - [Gender Guesser](https://pypi.org/project/gender-guesser/)
 
-
-## Installation
-
-Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/mhmoslemi2338/mitigating-matching-bias.git
-cd mitigating-matching-bias
-```
-
+------
 ## Usage
 
-1. **Data Preparation**: Prepare the dataset for calibration. You can use the sample dataset provided in the `data/` directory or your own dataset. Make sure it is pre-processed as per the instructions in the paper.
+1. **Data Preparation**: Obtain the dataset from the DeepMatcher library: [link](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md). Place the dataset in the `DataDir` directory. For each dataset, create a new subdirectory inside `DataDir` containing `train.csv`, `valid.csv`, and `test.csv` files.
 
-2. **Training the Model**: To train the model on the prepared dataset, run:
+2. **Preparing Matching Scores**: We use various state-of-the-art entity matching methods implemented in their respective repositories. You can use any matching method of your choice. Save the matching scores in the `scores` directory. For each matching method and dataset, create a subdirectory within `scores`, named as `[matching_method_name]_[dataset_name]`, and place three files inside: `score_train.csv`, `score_valid.csv`, and `score_test.csv`. Each CSV file should contain two columns: the matching score for each row and the corresponding actual label.
 
-   ```bash
-   python train.py --config configs/train_config.yaml
-   ```
-
-3. **Score Calibration**: To apply score calibration on trained models, use the following command:
+3. **Creating Sensitive Vector**: You need to create a boolean vector for each dataset, where 1 indicates that the entity belongs to a minority group and 0 indicates it belongs to a majority group. You can generate this vector by running the following command:
 
    ```bash
-   python calibrate.py --model models/model.pth --data data/test_data.csv
+   python3 0_preProcess.py
    ```
 
-## Experiments
+4. **Initial Bias Measurement**: To measure the initial bias present in the dataset and models, use the `2_Biases in Record Matching Scores.ipynb` notebook.
 
-Scripts for conducting experiments and evaluating the calibration's impact on fairness and accuracy are available in the `experiments/` directory. For example:
+5. **Calibration**: For the calibration process, refer to the `3_Calibration Analysis.ipynb` notebook. This notebook contains detailed documentation, and all results are saved to the `FIGURES` directory.
 
-```bash
-python experiments/run_experiments.py --config configs/experiment_config.yaml
-```
+6. **Conditional Calibration**: For conditional calibration, use the `4_Conditional Calibration Analysis.ipynb` notebook. This notebook also contains detailed documentation, and all results are saved to the `FIGURES` directory.
 
+**Note**: Each calibration method saves the results in a pickle file in the `saved_params` folder.
+
+**Note**: The `Calibrate.py` script provides functions for calibration, and `fairness.py` contains functions for fairness measurement.
+
+
+------
 ## Results
 
-The main results of our experiments can be reproduced using the scripts in the `results/` directory. The expected output includes:
+All figures can be found in the `FIGURES` directory.
 
-- Accuracy and fairness metrics before and after calibration
-- Plots showing the disparity in scores across demographic groups
 
-All plots and evaluation metrics will be saved to the `results/` directory.
 
 ## Citation
 
