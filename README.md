@@ -54,14 +54,53 @@ The following dependencies are required to run the calibration code:
 **Note**: The `Calibrate.py` script provides functions for calibration, and `fairness.py` contains functions for fairness measurement. Also, fig_params.py provides parameters for plot savings.
 
 
-------## Results
+------
+## Results
 
 All figures can be found in the `FIGURES` directory.
 
-The next table is the complete version of Table 2 in Section 6.2.1 (Biases in Record Matching Scores) of the original paper, comparing distributional parity measures and traditional measures for various thresholds, as well as the AUC of models and datasets.
+a) The next table is the complete version of Table 2 in Section 6.2.1 (Biases in Record Matching Scores) of the original paper, comparing distributional parity measures and traditional measures for various thresholds, as well as the AUC of models and datasets.
 
 ![Table 2 - Biases in Record Matching Scores](FIGURES/table2_complete.png)
 
+
+b) the next figures are for the calibration accross different models and datasets:
+
+for the AUCs:
+![AUC Calibration Results - Fodors-Zagat](FIGURES/auc_Fodors-Zagat.pdf)
+![AUC Calibration Results - DBLP-GoogleScholar](FIGURES/auc_DBLP-GoogleScholar.pdf)
+![AUC Calibration Results - iTunes-Amazon](FIGURES/auc_iTunes-Amazon.pdf)
+![AUC Calibration Results - Walmart-Amazon](FIGURES/auc_Walmart-Amazon.pdf)
+![AUC Calibration Results - Amazon-Google](FIGURES/auc_Amazon-Google.pdf)
+![AUC Calibration Results - Beer](FIGURES/auc_Beer.pdf)
+![AUC Calibration Results - DBLP-ACM](FIGURES/auc_DBLP-ACM.pdf)
+
+for the DPs:
+![DP Calibration Results - Fodors-Zagat](FIGURES/DP_Fodors-Zagat.pdf)
+![DP Calibration Results - DBLP-GoogleScholar](FIGURES/DP_DBLP-GoogleScholar.pdf)
+![DP Calibration Results - iTunes-Amazon](FIGURES/DP_iTunes-Amazon.pdf)
+![DP Calibration Results - Walmart-Amazon](FIGURES/DP_Walmart-Amazon.pdf)
+![DP Calibration Results - Amazon-Google](FIGURES/DP_Amazon-Google.pdf)
+![DP Calibration Results - Beer](FIGURES/DP_Beer.pdf)
+![DP Calibration Results - DBLP-ACM](FIGURES/DP_DBLP-ACM.pdf)
+
+for the EOs:
+![EO Calibration Results - Fodors-Zagat](FIGURES/EO_Fodors-Zagat.pdf)
+![EO Calibration Results - DBLP-GoogleScholar](FIGURES/EO_DBLP-GoogleScholar.pdf)
+![EO Calibration Results - iTunes-Amazon](FIGURES/EO_iTunes-Amazon.pdf)
+![EO Calibration Results - Walmart-Amazon](FIGURES/EO_Walmart-Amazon.pdf)
+![EO Calibration Results - Amazon-Google](FIGURES/EO_Amazon-Google.pdf)
+![EO Calibration Results - Beer](FIGURES/EO_Beer.pdf)
+![EO Calibration Results - DBLP-ACM](FIGURES/EO_DBLP-ACM.pdf)
+
+for the EODs:
+![EOD Calibration Results - Fodors-Zagat](FIGURES/EOD_Fodors-Zagat.pdf)
+![EOD Calibration Results - DBLP-GoogleScholar](FIGURES/EOD_DBLP-GoogleScholar.pdf)
+![EOD Calibration Results - iTunes-Amazon](FIGURES/EOD_iTunes-Amazon.pdf)
+![EOD Calibration Results - Walmart-Amazon](FIGURES/EOD_Walmart-Amazon.pdf)
+![EOD Calibration Results - Amazon-Google](FIGURES/EOD_Amazon-Google.pdf)
+![EOD Calibration Results - Beer](FIGURES/EOD_Beer.pdf)
+![EOD Calibration Results - DBLP-ACM](FIGURES/EOD_DBLP-ACM.pdf)
 
 ## Citation
 
