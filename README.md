@@ -10,10 +10,17 @@ Record matching, the task of identifying records that correspond to the same rea
 
 
 # Table of Contents
+- [Overview](#overview)
+- [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Results](#results)
+  - [Initial Assessment](#1--initial-assessment)
+  - [Calibration](#2--calibration)
+  - [Conditional Calibration](#3--conditional-calibration)
 - [Citation](#citation)
+- [Contact](#contact)
+
 
 
 # Requirements
