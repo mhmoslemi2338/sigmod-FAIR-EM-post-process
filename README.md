@@ -55,16 +55,19 @@ The following dependencies are required to run the calibration code:
 
 
 ------
+-----
 # Results
 
 All figures can be found in the `FIGURES` directory.
 
-a) The next table is the complete version of Table 2 in Section 6.2.1 (Biases in Record Matching Scores) of the original paper, comparing distributional parity measures and traditional measures for various thresholds, as well as the AUC of models and datasets.
+## 1- Initial assessment
+The next table is the complete version of Table 2 in Section 6.2.1 (Biases in Record Matching Scores) of the original paper, comparing distributional parity measures and traditional measures for various thresholds, as well as the AUC of models and datasets.
 
 ![Table 2 - Biases in Record Matching Scores](FIGURES/table2_complete.png)
 
 
-b) the next figures are for the calibration accross different models and datasets:
+## 2- Calibration
+the next figures are for the calibration accross different models and datasets:
 
 #### AUC Calibration Results
 
@@ -107,6 +110,44 @@ b) the next figures are for the calibration accross different models and dataset
 - [DBLP-ACM](FIGURES/EOD_DBLP-ACM.pdf)
 
 
+
+## 3- Conditional Calibration
+the next figures are for the calibration accross different models and datasets:
+
+#### AUC Calibration Results
+
+- [Fodors-Zagat](FIGURES/AUC_Fodors-Zagat_alg2.pdf)
+- [DBLP-GoogleScholar](FIGURES/AUC_DBLP-GoogleScholar_alg2.pdf)
+- [iTunes-Amazon](FIGURES/AUC_iTunes-Amazon_alg2.pdf)
+- [Walmart-Amazon](FIGURES/AUC_Walmart-Amazon_alg2.pdf)
+- [Amazon-Google](FIGURES/AUC_Amazon-Google_alg2.pdf)
+- [Beer](FIGURES/AUC_Beer_alg2.pdf)
+- [DBLP-ACM](FIGURES/AUC_DBLP-ACM_alg2.pdf)
+
+#### EO Calibration Results
+
+- [Fodors-Zagat](FIGURES/EO_Fodors-Zagat_alg2.pdf)
+- [DBLP-GoogleScholar](FIGURES/EO_DBLP-GoogleScholar_alg2.pdf)
+- [iTunes-Amazon](FIGURES/EO_iTunes-Amazon_alg2.pdf)
+- [Walmart-Amazon](FIGURES/EO_Walmart-Amazon_alg2.pdf)
+- [Amazon-Google](FIGURES/EO_Amazon-Google_alg2.pdf)
+- [Beer](FIGURES/EO_Beer_alg2.pdf)
+- [DBLP-ACM](FIGURES/EO_DBLP-ACM_alg2.pdf)
+
+#### EOD Calibration Results
+
+- [Fodors-Zagat](FIGURES/EOD_Fodors-Zagat_alg2.pdf)
+- [DBLP-GoogleScholar](FIGURES/EOD_DBLP-GoogleScholar_alg2.pdf)
+- [iTunes-Amazon](FIGURES/EOD_iTunes-Amazon_alg2.pdf)
+- [Walmart-Amazon](FIGURES/EOD_Walmart-Amazon_alg2.pdf)
+- [Amazon-Google](FIGURES/EOD_Amazon-Google_alg2.pdf)
+- [Beer](FIGURES/EOD_Beer_alg2.pdf)
+- [DBLP-ACM](FIGURES/EOD_DBLP-ACM_alg2.pdf)
+
+
+
+-----
+----
 ## Citation
 
 If you use this code in your research, please cite our paper:
