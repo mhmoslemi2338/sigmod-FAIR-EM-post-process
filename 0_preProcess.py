@@ -14,6 +14,15 @@ from fairness import make_sens_vector, sens_dict  # Assuming make_sens_vector is
 
 # Base directory for data files
 path_base = os.getcwd()
+try:
+    os.mkdir(path_base + '/saved_params')
+except:
+    pass
+try:
+    os.mkdir(path_base + '/FIGURES')
+except:
+    pass
+
 
 # Define tasks for which sensitivity attributes are calculated
 tasks = [
@@ -35,7 +44,7 @@ def process_sens_attributes(task_list, dataset_type):
         print(f"Processing {task} - {dataset_type.upper()}")
         
         # Read the dataset CSV file based on dataset type
-        file_path = f"{path_base}/DATA_VLDB/{task}/{dataset_type}.csv"
+        file_path = f"{path_base}/DataDir/{task}/{dataset_type}.csv"
         df = pd.read_csv(file_path)
         
         # Generate sensitive attribute vector for the dataset
