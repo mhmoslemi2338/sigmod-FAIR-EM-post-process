@@ -51,14 +51,16 @@ The following dependencies are required to run the calibration code:
 
 **Note**: Each calibration method saves the results in a pickle file in the `saved_params` folder.
 
-**Note**: The `Calibrate.py` script provides functions for calibration, and `fairness.py` contains functions for fairness measurement.
+**Note**: The `Calibrate.py` script provides functions for calibration, and `fairness.py` contains functions for fairness measurement. Also, fig_params.py provides parameters for plot savings.
 
 
-------
-## Results
+------## Results
 
 All figures can be found in the `FIGURES` directory.
 
+The next table is the complete version of Table 2 in Section 6.2.1 (Biases in Record Matching Scores) of the original paper, comparing distributional parity measures and traditional measures for various thresholds, as well as the AUC of models and datasets.
+
+![Table 2 - Biases in Record Matching Scores](FIGURES/table2_complete.png)
 
 
 ## Citation
