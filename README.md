@@ -40,116 +40,116 @@ The following dependencies are required to run the calibration code:
 ------
 # Usage
 
-1. **Data Preparation**: Obtain the dataset from the DeepMatcher library: [link](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md). Place the dataset in the `DataDir` directory. For each dataset, create a new subdirectory inside `DataDir` containing `train.csv`, `valid.csv`, and `test.csv` files.
+1. **Data Preparation**: Obtain the dataset from the DeepMatcher library: [link](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md). Place the dataset in the `Input/Dataset` directory. For each dataset, create a new subdirectory inside `Input/Dataset` containing `train.csv`, `valid.csv`, and `test.csv` files.
 
-2. **Preparing Matching Scores**: We use various state-of-the-art entity matching methods implemented in their respective repositories. You can use any matching method of your choice. Save the matching scores in the `scores` directory. For each matching method and dataset, create a subdirectory within `scores`, named as `[matching_method_name]_[dataset_name]`, and place three files inside: `score_train.csv`, `score_valid.csv`, and `score_test.csv`. Each CSV file should contain two columns: the matching score for each row and the corresponding actual label.
+2. **Preparing Matching Scores**: We use various state-of-the-art entity matching methods implemented in their respective repositories. You can use any matching method of your choice. Save the matching scores in the `Input/Scores` directory. For each matching method and dataset, create a subdirectory within `Input/Scores`, named as `[matching_method_name]_[dataset_name]`, and place three files inside: `score_train.csv`, `score_valid.csv`, and `score_test.csv`. Each CSV file should contain two columns: the matching score for each row and the corresponding actual label.
 
 3. **Creating Sensitive Vector**: You need to create a boolean vector for each dataset, where 1 indicates that the entity belongs to a minority group and 0 indicates it belongs to a majority group. You can generate this vector by running the following command:
 
    ```bash
-   python3 0_preProcess.py
+   python3 PreProcess.py
    ```
 
-4. **Initial Bias Measurement**: To measure the initial bias present in the dataset and models, use the `2_Biases in Record Matching Scores.ipynb` notebook.
+4. **Initial Bias Measurement**: To measure the initial bias present in the dataset and models, use the `biases_in_matching_scores.ipynb` notebook.
 
-5. **Calibration**: For the calibration process, refer to the `3_Calibration Analysis.ipynb` notebook. This notebook contains detailed documentation, and all results are saved to the `FIGURES` directory.
+5. **Calibration**: For the calibration process, refer to the `calibration_analysis.ipynb` notebook. This notebook contains detailed documentation, and all results are saved to the `Results/Figures` directory.
 
-6. **Conditional Calibration**: For conditional calibration, use the `4_Conditional Calibration Analysis.ipynb` notebook. This notebook also contains detailed documentation, and all results are saved to the `FIGURES` directory.
+6. **Conditional Calibration**: For conditional calibration, use the `conditional_calibration_analysis.ipynb` notebook. This notebook also contains detailed documentation, and all results are saved to the `Results/Figures` directory.
 
 **Note**: Each calibration method saves the results in a pickle file in the `saved_params` folder.
 
-**Note**: The `Calibrate.py` script provides functions for calibration, and `fairness.py` contains functions for fairness measurement. Also, fig_params.py provides parameters for plot savings.
+**Note**: The `Calibrate.py` script provides functions for calibration, and `utils.py` contains functions for fairness measurement. Also, fig_params.py provides parameters for plot savings.
 
 
 ------
 -----
 # Results
 
-All figures can be found in the `FIGURES` directory.
+All Results/Figures can be found in the `Results/Figures` directory.
 
 ## 1- Initial assessment
 The next table is the complete version of Table 2 in Section 6.2.1 (Biases in Record Matching Scores) of the original paper, comparing distributional parity measures and traditional measures for various thresholds, as well as the AUC of models and datasets.
 
-![Table 2 - Biases in Record Matching Scores](FIGURES/table2_complete.png)
+![Table 2 - Biases in Record Matching Scores](Results/Figures/table2_complete.png)
 
 
 ## 2- Calibration
-the next figures are for the calibration accross different models and datasets:
+the next Results/Figures are for the calibration accross different models and datasets:
 
 #### AUC Calibration Results
 
-- [Fodors-Zagat](FIGURES/auc_Fodors-Zagat.pdf)
-- [DBLP-GoogleScholar](FIGURES/auc_DBLP-GoogleScholar.pdf)
-- [iTunes-Amazon](FIGURES/auc_iTunes-Amazon.pdf)
-- [Walmart-Amazon](FIGURES/auc_Walmart-Amazon.pdf)
-- [Amazon-Google](FIGURES/auc_Amazon-Google.pdf)
-- [Beer](FIGURES/auc_Beer.pdf)
-- [DBLP-ACM](FIGURES/auc_DBLP-ACM.pdf)
+- [Fodors-Zagat](Results/Figures/auc_Fodors-Zagat.pdf)
+- [DBLP-GoogleScholar](Results/Figures/auc_DBLP-GoogleScholar.pdf)
+- [iTunes-Amazon](Results/Figures/auc_iTunes-Amazon.pdf)
+- [Walmart-Amazon](Results/Figures/auc_Walmart-Amazon.pdf)
+- [Amazon-Google](Results/Figures/auc_Amazon-Google.pdf)
+- [Beer](Results/Figures/auc_Beer.pdf)
+- [DBLP-ACM](Results/Figures/auc_DBLP-ACM.pdf)
 
 #### DP Calibration Results
 
-- [Fodors-Zagat](FIGURES/DP_Fodors-Zagat.pdf)
-- [DBLP-GoogleScholar](FIGURES/DP_DBLP-GoogleScholar.pdf)
-- [iTunes-Amazon](FIGURES/DP_iTunes-Amazon.pdf)
-- [Walmart-Amazon](FIGURES/DP_Walmart-Amazon.pdf)
-- [Amazon-Google](FIGURES/DP_Amazon-Google.pdf)
-- [Beer](FIGURES/DP_Beer.pdf)
-- [DBLP-ACM](FIGURES/DP_DBLP-ACM.pdf)
+- [Fodors-Zagat](Results/Figures/DP_Fodors-Zagat.pdf)
+- [DBLP-GoogleScholar](Results/Figures/DP_DBLP-GoogleScholar.pdf)
+- [iTunes-Amazon](Results/Figures/DP_iTunes-Amazon.pdf)
+- [Walmart-Amazon](Results/Figures/DP_Walmart-Amazon.pdf)
+- [Amazon-Google](Results/Figures/DP_Amazon-Google.pdf)
+- [Beer](Results/Figures/DP_Beer.pdf)
+- [DBLP-ACM](Results/Figures/DP_DBLP-ACM.pdf)
 
 #### EO Calibration Results
 
-- [Fodors-Zagat](FIGURES/EO_Fodors-Zagat.pdf)
-- [DBLP-GoogleScholar](FIGURES/EO_DBLP-GoogleScholar.pdf)
-- [iTunes-Amazon](FIGURES/EO_iTunes-Amazon.pdf)
-- [Walmart-Amazon](FIGURES/EO_Walmart-Amazon.pdf)
-- [Amazon-Google](FIGURES/EO_Amazon-Google.pdf)
-- [Beer](FIGURES/EO_Beer.pdf)
-- [DBLP-ACM](FIGURES/EO_DBLP-ACM.pdf)
+- [Fodors-Zagat](Results/Figures/EO_Fodors-Zagat.pdf)
+- [DBLP-GoogleScholar](Results/Figures/EO_DBLP-GoogleScholar.pdf)
+- [iTunes-Amazon](Results/Figures/EO_iTunes-Amazon.pdf)
+- [Walmart-Amazon](Results/Figures/EO_Walmart-Amazon.pdf)
+- [Amazon-Google](Results/Figures/EO_Amazon-Google.pdf)
+- [Beer](Results/Figures/EO_Beer.pdf)
+- [DBLP-ACM](Results/Figures/EO_DBLP-ACM.pdf)
 
 #### EOD Calibration Results
 
-- [Fodors-Zagat](FIGURES/EOD_Fodors-Zagat.pdf)
-- [DBLP-GoogleScholar](FIGURES/EOD_DBLP-GoogleScholar.pdf)
-- [iTunes-Amazon](FIGURES/EOD_iTunes-Amazon.pdf)
-- [Walmart-Amazon](FIGURES/EOD_Walmart-Amazon.pdf)
-- [Amazon-Google](FIGURES/EOD_Amazon-Google.pdf)
-- [Beer](FIGURES/EOD_Beer.pdf)
-- [DBLP-ACM](FIGURES/EOD_DBLP-ACM.pdf)
+- [Fodors-Zagat](Results/Figures/EOD_Fodors-Zagat.pdf)
+- [DBLP-GoogleScholar](Results/Figures/EOD_DBLP-GoogleScholar.pdf)
+- [iTunes-Amazon](Results/Figures/EOD_iTunes-Amazon.pdf)
+- [Walmart-Amazon](Results/Figures/EOD_Walmart-Amazon.pdf)
+- [Amazon-Google](Results/Figures/EOD_Amazon-Google.pdf)
+- [Beer](Results/Figures/EOD_Beer.pdf)
+- [DBLP-ACM](Results/Figures/EOD_DBLP-ACM.pdf)
 
 
 
 ## 3- Conditional Calibration
-the next figures are for the calibration accross different models and datasets:
+the next Results/Figures are for the calibration accross different models and datasets:
 
 #### AUC Calibration Results
 
-- [Fodors-Zagat](FIGURES/AUC_Fodors-Zagat_alg2.pdf)
-- [DBLP-GoogleScholar](FIGURES/AUC_DBLP-GoogleScholar_alg2.pdf)
-- [iTunes-Amazon](FIGURES/AUC_iTunes-Amazon_alg2.pdf)
-- [Walmart-Amazon](FIGURES/AUC_Walmart-Amazon_alg2.pdf)
-- [Amazon-Google](FIGURES/AUC_Amazon-Google_alg2.pdf)
-- [Beer](FIGURES/AUC_Beer_alg2.pdf)
-- [DBLP-ACM](FIGURES/AUC_DBLP-ACM_alg2.pdf)
+- [Fodors-Zagat](Results/Figures/AUC_Fodors-Zagat_alg2.pdf)
+- [DBLP-GoogleScholar](Results/Figures/AUC_DBLP-GoogleScholar_alg2.pdf)
+- [iTunes-Amazon](Results/Figures/AUC_iTunes-Amazon_alg2.pdf)
+- [Walmart-Amazon](Results/Figures/AUC_Walmart-Amazon_alg2.pdf)
+- [Amazon-Google](Results/Figures/AUC_Amazon-Google_alg2.pdf)
+- [Beer](Results/Figures/AUC_Beer_alg2.pdf)
+- [DBLP-ACM](Results/Figures/AUC_DBLP-ACM_alg2.pdf)
 
 #### EO Calibration Results
 
-- [Fodors-Zagat](FIGURES/EO_Fodors-Zagat_alg2.pdf)
-- [DBLP-GoogleScholar](FIGURES/EO_DBLP-GoogleScholar_alg2.pdf)
-- [iTunes-Amazon](FIGURES/EO_iTunes-Amazon_alg2.pdf)
-- [Walmart-Amazon](FIGURES/EO_Walmart-Amazon_alg2.pdf)
-- [Amazon-Google](FIGURES/EO_Amazon-Google_alg2.pdf)
-- [Beer](FIGURES/EO_Beer_alg2.pdf)
-- [DBLP-ACM](FIGURES/EO_DBLP-ACM_alg2.pdf)
+- [Fodors-Zagat](Results/Figures/EO_Fodors-Zagat_alg2.pdf)
+- [DBLP-GoogleScholar](Results/Figures/EO_DBLP-GoogleScholar_alg2.pdf)
+- [iTunes-Amazon](Results/Figures/EO_iTunes-Amazon_alg2.pdf)
+- [Walmart-Amazon](Results/Figures/EO_Walmart-Amazon_alg2.pdf)
+- [Amazon-Google](Results/Figures/EO_Amazon-Google_alg2.pdf)
+- [Beer](Results/Figures/EO_Beer_alg2.pdf)
+- [DBLP-ACM](Results/Figures/EO_DBLP-ACM_alg2.pdf)
 
 #### EOD Calibration Results
 
-- [Fodors-Zagat](FIGURES/EOD_Fodors-Zagat_alg2.pdf)
-- [DBLP-GoogleScholar](FIGURES/EOD_DBLP-GoogleScholar_alg2.pdf)
-- [iTunes-Amazon](FIGURES/EOD_iTunes-Amazon_alg2.pdf)
-- [Walmart-Amazon](FIGURES/EOD_Walmart-Amazon_alg2.pdf)
-- [Amazon-Google](FIGURES/EOD_Amazon-Google_alg2.pdf)
-- [Beer](FIGURES/EOD_Beer_alg2.pdf)
-- [DBLP-ACM](FIGURES/EOD_DBLP-ACM_alg2.pdf)
+- [Fodors-Zagat](Results/Figures/EOD_Fodors-Zagat_alg2.pdf)
+- [DBLP-GoogleScholar](Results/Figures/EOD_DBLP-GoogleScholar_alg2.pdf)
+- [iTunes-Amazon](Results/Figures/EOD_iTunes-Amazon_alg2.pdf)
+- [Walmart-Amazon](Results/Figures/EOD_Walmart-Amazon_alg2.pdf)
+- [Amazon-Google](Results/Figures/EOD_Amazon-Google_alg2.pdf)
+- [Beer](Results/Figures/EOD_Beer_alg2.pdf)
+- [DBLP-ACM](Results/Figures/EOD_DBLP-ACM_alg2.pdf)
 
 
 

@@ -29,7 +29,7 @@ import numpy as np
 import pandas as pd
 from scipy.interpolate import interp1d
 from statsmodels.distributions.empirical_distribution import ECDF
-from fairness import *
+from utils import *
 import time
 from sklearn.metrics import roc_curve, auc
 
