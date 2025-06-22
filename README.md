@@ -1,4 +1,4 @@
-# FairEM 
+# Official implementation of the pre-print paper "Mitigating Matching Biases Through Score Calibration" 
 
 ## Overview
 
