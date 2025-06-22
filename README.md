@@ -1,5 +1,10 @@
 # Official implementation of the pre-print paper "Mitigating Matching Biases Through Score Calibration" 
 
+
+[![arXiv](https://img.shields.io/badge/arXiv-2411.01685-b31b1b)](https://arxiv.org/abs/2411.01685)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen)
+
 ## Overview
 
 This repository contains the code and supplementary resources for the paper [**"Mitigating Matching Biases Through Score Calibration"**](https://arxiv.org/abs/2411.01685). Our work addresses biases in entity matching models by proposing a score calibration technique that minimizes disparities across different groups. By applying optimal transport-based calibration, we ensure fairness across matching outcomes, with minimal loss in model accuracy.
